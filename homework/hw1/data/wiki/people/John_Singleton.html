@@ -1,0 +1,1002 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>John Singleton - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"John_Singleton","wgTitle":"John Singleton","wgCurRevisionId":702622857,"wgRevisionId":702622857,"wgArticleId":155994,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with reference errors","Pages with duplicate reference names","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from February 2014","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with MusicBrainz identifiers","African-American film directors","African-American film producers","African-American screenwriters","American film directors","American music video directors","American male screenwriters","Film directors from California","Writers from Los Angeles, California","1968 births","Living people","People from South Los Angeles, California","Pasadena City College alumni","USC School of Cinematic Arts alumni"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"John_Singleton","wgRelevantArticleId":155994,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/1/16/John_Singleton_2013.jpg/67px-John_Singleton_2013.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q363005","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.10" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/John_Singleton" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=John_Singleton&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=John_Singleton&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/John_Singleton" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.10/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-John_Singleton skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">John Singleton</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other people named John Singleton, see <a href="/wiki/John_Singleton_(disambiguation)" title="John Singleton (disambiguation)" class="mw-disambig">John Singleton (disambiguation)</a>.</div>
+<table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">John Singleton</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:John_Singleton_2013.jpg" class="image"><img alt="John Singleton 2013.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/John_Singleton_2013.jpg/225px-John_Singleton_2013.jpg" width="225" height="337" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/John_Singleton_2013.jpg/338px-John_Singleton_2013.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/John_Singleton_2013.jpg/450px-John_Singleton_2013.jpg 2x" data-file-width="1895" data-file-height="2836" /></a>
+<div>Singleton at the <a href="/wiki/Canadian_Film_Centre" title="Canadian Film Centre">Canadian Film Centre</a> event in 2013</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span class="nickname">John Daniel Singleton</span><br />
+<span style="display:none">(<span class="bday">1968-01-06</span>)</span> January 6, 1968 <span class="noprint ForceAgeToShow">(age&#160;48)</span><br />
+<span class="birthplace"><a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, <a href="/wiki/California" title="California">California</a>, <a href="/wiki/United_States" title="United States">U.S.</a></span></td>
+</tr>
+<tr>
+<th scope="row">Occupation</th>
+<td class="role">Film director, screenwriter, producer</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td><a href="/wiki/Akosua_Busia" title="Akosua Busia">Akosua Busia</a> (1996–1997)</td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td>4</td>
+</tr>
+</table>
+<p><b>John Daniel Singleton</b> (born January 6, 1968) is an American film director, screenwriter, and producer best known for directing <i><a href="/wiki/Boyz_n_the_Hood" title="Boyz n the Hood">Boyz n the Hood</a></i>. For the film, he was nominated for the <a href="/wiki/Academy_Award_for_Best_Director" title="Academy Award for Best Director">Academy Award for Best Director</a>, becoming the first African American and youngest person to have ever been nominated for the award. Singleton is a native of <a href="/wiki/South_Los_Angeles" title="South Los Angeles">South Los Angeles</a> and many of his early films, such as <i><a href="/wiki/Poetic_Justice_(film)" title="Poetic Justice (film)">Poetic Justice</a></i> (1993), <i><a href="/wiki/Higher_Learning" title="Higher Learning">Higher Learning</a></i> (1995), and <i><a href="/wiki/Baby_Boy_(film)" title="Baby Boy (film)">Baby Boy</a></i> (2001), consider the implications of inner-city violence. Some of his other films include dramas such as <i><a href="/wiki/Rosewood_(film)" title="Rosewood (film)">Rosewood</a></i> (1997) in addition to action films such as <i><a href="/wiki/Shaft_(2000_film)" title="Shaft (2000 film)">Shaft</a></i> (2000), <i><a href="/wiki/2_Fast_2_Furious" title="2 Fast 2 Furious">2 Fast 2 Furious</a></i> (2003), and <i><a href="/wiki/Four_Brothers_(film)" title="Four Brothers (film)">Four Brothers</a></i> (2005).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personal_life"><span class="tocnumber">3</span> <span class="toctext">Personal life</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Accident"><span class="tocnumber">3.1</span> <span class="toctext">Accident</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Criticism_of_Hollywood"><span class="tocnumber">3.2</span> <span class="toctext">Criticism of Hollywood</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Filmography"><span class="tocnumber">4</span> <span class="toctext">Filmography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Director"><span class="tocnumber">4.1</span> <span class="toctext">Director</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Producer"><span class="tocnumber">4.2</span> <span class="toctext">Producer</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Screenwriter"><span class="tocnumber">4.3</span> <span class="toctext">Screenwriter</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Actor"><span class="tocnumber">4.4</span> <span class="toctext">Actor</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Collaborations"><span class="tocnumber">5</span> <span class="toctext">Collaborations</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Singleton was born in Los Angeles, the son of Sheila Ward-Johnson, a pharmaceutical company sales executive, and Danny Singleton, a real estate agent, mortgage broker, and financial planner.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> He attended <a href="/wiki/Bassett_High_School_(California)" title="Bassett High School (California)">Bassett High School (California)</a>, <a href="/wiki/Pasadena_City_College" title="Pasadena City College">Pasadena City College</a> and the <a href="/wiki/USC_School_of_Cinematic_Arts" title="USC School of Cinematic Arts">USC School of Cinematic Arts</a>. He graduated from USC in 1990, and is a member of <a href="/wiki/Kappa_Alpha_Psi" title="Kappa Alpha Psi">Kappa Alpha Psi</a> fraternity.<sup id="cite_ref-autogenerated1_2-0" class="reference"><a href="#cite_note-autogenerated1-2"><span>[</span>2<span>]</span></a></sup> Singleton was enrolled in the <a href="/wiki/University_of_Southern_California" title="University of Southern California">University of Southern California</a>'s Filmic Writing program under Margaret Mehring<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> and her now-famous curriculum. The program was designed to take students directly into the Hollywood system as proficient writer/directors.</p>
+<p>Unlike the other standard USC programs for screenwriting, film production, or the Peter Stark Motion Picture Producing and critical studies programs, Mehring designed her FILMIC writing program to teach a select group of students how to be authors of their visions.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>]</sup> Other students included Helen Childress (writer of <i><a href="/wiki/Reality_Bites" title="Reality Bites">Reality Bites</a></i>), <a href="/wiki/Stephen_Chbosky" title="Stephen Chbosky">Stephen Chbosky</a> (writer of TV’s <i><a href="/wiki/Jericho_(2006_TV_series)" title="Jericho (2006 TV series)">Jericho</a></i>), and Ms. Childress’ husband Carlos Brooks (writer/director of <i><a href="/wiki/Quid_Pro_Quo_(film)" title="Quid Pro Quo (film)">Quid Pro Quo</a></i>). Singleton was always present in the Apple computer writing lab, working on his screenplays during late nights and early mornings.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>]</sup> However, his ability to direct was correlated to an early beginning in music videos, which culminated in the EFX driven <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a> “<a href="/wiki/Remember_the_Time" title="Remember the Time">Remember the Time</a>” MTV video.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Singleton's 1991 film debut <i><a href="/wiki/Boyz_n_the_Hood" title="Boyz n the Hood">Boyz n the Hood</a></i>, an inner city drama starring <a href="/wiki/Cuba_Gooding,_Jr." title="Cuba Gooding, Jr.">Cuba Gooding, Jr.</a>, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a>, and <a href="/wiki/Laurence_Fishburne" title="Laurence Fishburne">Laurence Fishburne</a>, was both a significant critical and commercial success. For his efforts, Singleton received Academy Award nominations for <a href="/wiki/Academy_Award_for_Best_Original_Screenplay" title="Academy Award for Best Original Screenplay">Best Original Screenplay</a> and <a href="/wiki/Academy_Award_for_Best_Director" title="Academy Award for Best Director">Best Director</a>.<sup id="cite_ref-autogenerated1_2-1" class="reference"><a href="#cite_note-autogenerated1-2"><span>[</span>2<span>]</span></a></sup> At age 24 he was the youngest person ever nominated for Best Director, and the first African-American to be nominated for the award. The film has since attained classic status and, in 2002, the United States <a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a> deemed the film "culturally significant" and selected it for preservation in the <a href="/wiki/National_Film_Registry" title="National Film Registry">National Film Registry</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Singleton's follow-up films <i><a href="/wiki/Poetic_Justice_(film)" title="Poetic Justice (film)">Poetic Justice</a></i> (1993) and <i><a href="/wiki/Higher_Learning" title="Higher Learning">Higher Learning</a></i> (1995) were similarly socially conscious and received mixed to positive reviews. Singleton also directed the video for <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a>'s 1991 single "<a href="/wiki/Remember_The_Time" title="Remember The Time" class="mw-redirect">Remember The Time</a>", starring actor <a href="/wiki/Eddie_Murphy" title="Eddie Murphy">Eddie Murphy</a>.</p>
+<p>In 1997, his film <i><a href="/wiki/Rosewood_(film)" title="Rosewood (film)">Rosewood</a></i>, a historical drama about racial violence, was entered into the <a href="/wiki/47th_Berlin_International_Film_Festival" title="47th Berlin International Film Festival">47th Berlin International Film Festival</a>.<sup id="cite_ref-Berlinale_5-0" class="reference"><a href="#cite_note-Berlinale-5"><span>[</span>5<span>]</span></a></sup> Both this and his 2001 film <i><a href="/wiki/Baby_Boy_(film)" title="Baby Boy (film)">Baby Boy</a></i> received very positive reviews and helped establish Singleton's critical reputation. Additionally, his adaptation of <i><a href="/wiki/Shaft_(2000_film)" title="Shaft (2000 film)">Shaft</a></i> (2000), starring <a href="/wiki/Samuel_L._Jackson" title="Samuel L. Jackson">Samuel L. Jackson</a> in the title role, was successful critically and commercially.</p>
+<p>Singleton has since turned to directing action films, such as <i><a href="/wiki/2_Fast_2_Furious" title="2 Fast 2 Furious">2 Fast 2 Furious</a></i> (2003) and <i><a href="/wiki/Four_Brothers_(film)" title="Four Brothers (film)">Four Brothers</a></i> (2005), which have for the most part received mixed to negative reviews.</p>
+<p>In 2005, Singleton teamed with <a href="/wiki/Craig_Brewer" title="Craig Brewer">Craig Brewer</a> and financed the <a href="/wiki/Independent_film" title="Independent film">independent film</a>, <i><a href="/wiki/Hustle_and_Flow" title="Hustle and Flow" class="mw-redirect">Hustle and Flow</a></i>, once it was clear that most other major backers would not clear it for release.</p>
+<p>In 2013, it was announced that Singleton was attached as director of the <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac</a> biography film. On April 3, 2015, Singleton reported that production was put on hold.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> Four days later, it was announced that following creative differences with <a href="/wiki/Morgan_Creek_Productions" title="Morgan Creek Productions">Morgan Creek Productions</a>, Singleton had stepped down as director, and was replaced by <a href="/wiki/Carl_Franklin" title="Carl Franklin">Carl Franklin</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=3" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He has four children. John has a daughter named Justice Maya Singleton (born on October 17, 1992) with former wife Tosha Lewis, as well as a son, Maasai Mohandas Singleton (born April 3, 1994).</p>
+<p>On October 12, 1996, John married Ghanaian actress <a href="/wiki/Akosua_Busia" title="Akosua Busia">Akosua Gyamama Busia</a>, who is the daughter of Ghana's second Prime Minister Dr. Kofi Abrefa Busia. They have a daughter named Hadar Singleton. born on April 3, 1997, who has appeared in <a href="/wiki/Tears_of_the_sun" title="Tears of the sun" class="mw-redirect">Tears of the Sun</a> (2003) and other films, and were divorced in June 1997. John also has a daughter, Cleopatra Singleton, who was born in 1999.</p>
+<h3><span class="mw-headline" id="Accident">Accident</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=4" title="Edit section: Accident">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On August 23, 2007, Singleton was involved in an automobile accident in which he struck a <a href="/wiki/Jaywalking" title="Jaywalking">jaywalking</a> pedestrian, Constance Russell, 57, of Los Angeles.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> Staying on the scene until police arrived, Singleton was not under the influence of alcohol or other substances, and was released after being questioned. Russell died later in the hospital. The case was turned over to the District Attorney but no charges were filed.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Criticism_of_Hollywood">Criticism of Hollywood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=5" title="Edit section: Criticism of Hollywood">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On March 19, 2014, Singleton criticized popular studios for "refusing to let African-Americans direct black-themed films". Singleton told an audience of students at <a href="/wiki/Loyola_Marymount_University" title="Loyola Marymount University">Loyola Marymount University</a> "They ain't letting the black people tell the stories." He also added, "They want black people [to be] what they want them to be. And nobody is man enough to go and say that. They want black people to be who they want them to be, as opposed to what they are. The black films now — so-called black films now — they're great. They're great films. But they're just product. They're not moving the bar forward creatively. … When you try to make it homogenized, when you try to make it appeal to everybody, then you don't have anything that's special."<sup id="cite_ref-Appelo-black_directors_11-0" class="reference"><a href="#cite_note-Appelo-black_directors-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-Child-_black_director_12-0" class="reference"><a href="#cite_note-Child-_black_director-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-Rawden_-_Black_director_13-0" class="reference"><a href="#cite_note-Rawden_-_Black_director-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=6" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Director">Director</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=7" title="Edit section: Director">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Boyz_n_the_Hood" title="Boyz n the Hood">Boyz n the Hood</a></i> (1991) (Nominated- <a href="/wiki/Academy_Award_for_Best_Director" title="Academy Award for Best Director">Academy Award for Best Director</a>)</li>
+<li><i><a href="/wiki/Poetic_Justice_(film)" title="Poetic Justice (film)">Poetic Justice</a></i> (1993)</li>
+<li><i><a href="/wiki/Higher_Learning" title="Higher Learning">Higher Learning</a></i> (1995)</li>
+<li><i><a href="/wiki/Rosewood_(film)" title="Rosewood (film)">Rosewood</a></i> (1997)</li>
+<li><i><a href="/wiki/Shaft_(2000_film)" title="Shaft (2000 film)">Shaft</a></i> (2000)</li>
+<li><i><a href="/wiki/Baby_Boy_(film)" title="Baby Boy (film)">Baby Boy</a></i> (2001)</li>
+<li><i><a href="/wiki/2_Fast_2_Furious" title="2 Fast 2 Furious">2 Fast 2 Furious</a></i> (2003)</li>
+<li><i><a href="/wiki/Four_Brothers_(film)" title="Four Brothers (film)">Four Brothers</a></i> (2005)</li>
+<li><i><a href="/wiki/Abduction_(2011_film)" title="Abduction (2011 film)">Abduction</a></i> (2011)</li>
+<li><i><a href="/wiki/Empire_(2015_TV_series)" title="Empire (2015 TV series)">Empire</a></i> (2015) (TV series; one episode)</li>
+</ul>
+<h3><span class="mw-headline" id="Producer">Producer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=8" title="Edit section: Producer">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Higher_Learning" title="Higher Learning">Higher Learning</a></i> (1995)</li>
+<li><i><a href="/wiki/Shaft_(2000_film)" title="Shaft (2000 film)">Shaft</a></i> (2000)</li>
+<li><i><a href="/wiki/Baby_Boy_(film)" title="Baby Boy (film)">Baby Boy</a></i> (2001)</li>
+<li><i><a href="/wiki/Hustle_%26_Flow" title="Hustle &amp; Flow">Hustle &amp; Flow</a></i> (2005)</li>
+<li><i><a href="/wiki/Black_Snake_Moan_(film)" title="Black Snake Moan (film)">Black Snake Moan</a></i> (2007)</li>
+<li><i><a href="/wiki/Illegal_Tender_(film)" title="Illegal Tender (film)">Illegal Tender</a></i> (2007)</li>
+</ul>
+<h3><span class="mw-headline" id="Screenwriter">Screenwriter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=9" title="Edit section: Screenwriter">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Boyz_n_the_Hood" title="Boyz n the Hood">Boyz n the Hood</a></i> (1991) (Nominated- <a href="/wiki/Academy_Award_for_Best_Original_Screenplay" title="Academy Award for Best Original Screenplay">Academy Award for Best Original Screenplay</a>)</li>
+<li><i><a href="/wiki/Poetic_Justice_(film)" title="Poetic Justice (film)">Poetic Justice</a></i> (1993)</li>
+<li><i><a href="/wiki/Higher_Learning" title="Higher Learning">Higher Learning</a></i> (1995)</li>
+<li><i><a href="/wiki/Shaft_(2000_film)" title="Shaft (2000 film)">Shaft</a></i> (2000)</li>
+<li><i><a href="/wiki/Baby_Boy_(film)" title="Baby Boy (film)">Baby Boy</a></i> (2001)</li>
+</ul>
+<h3><span class="mw-headline" id="Actor">Actor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=10" title="Edit section: Actor">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Baadasssss!" title="Baadasssss!">Baadasssss!</a></i> (2003) ... Detroit J</li>
+<li><i><a href="/wiki/The_Game_(U.S._TV_series)" title="The Game (U.S. TV series)">The Game</a></i> (2013) (TV Series) ... John Singleton</li>
+</ul>
+<h2><span class="mw-headline" id="Collaborations">Collaborations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=11" title="Edit section: Collaborations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Singleton has cast certain actors in more than one of his films:</p>
+<table class="wikitable">
+<tr>
+<th></th>
+<th><i><a href="/wiki/Boyz_n_the_Hood" title="Boyz n the Hood">Boyz n the Hood</a></i> (1991)</th>
+<th><i><a href="/wiki/Poetic_Justice_(film)" title="Poetic Justice (film)">Poetic Justice</a></i> (1993)</th>
+<th><i><a href="/wiki/Higher_Learning" title="Higher Learning">Higher Learning</a></i> (1995)</th>
+<th><i><a href="/wiki/Rosewood_(film)" title="Rosewood (film)">Rosewood</a></i> (1997)</th>
+<th><i><a href="/wiki/Shaft_(2000_film)" title="Shaft (2000 film)">Shaft</a></i> (2000)</th>
+<th><i><a href="/wiki/Baby_Boy_(film)" title="Baby Boy (film)">Baby Boy</a></i> (2001)</th>
+<th><i><a href="/wiki/2_Fast_2_Furious" title="2 Fast 2 Furious">2 Fast 2 Furious</a></i> (2003)</th>
+<th><i><a href="/wiki/Four_Brothers_(film)" title="Four Brothers (film)">Four Brothers</a></i> (2005)</th>
+<th><i><a href="/wiki/Abduction_(2011_film)" title="Abduction (2011 film)">Abduction</a></i> (2011)</th>
+</tr>
+<tr>
+<td><a href="/wiki/Lloyd_Avery_II" title="Lloyd Avery II">Lloyd Avery II</a></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Mark_Boone_Junior" title="Mark Boone Junior">Mark Boone Junior</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Morris_Chestnut" title="Morris Chestnut">Morris Chestnut</a></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=John_Cothran,_Jr.&amp;action=edit&amp;redlink=1" class="new" title="John Cothran, Jr. (page does not exist)">John Cothran, Jr.</a></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Tyra_Ferrell" title="Tyra Ferrell">Tyra Ferrell</a></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Laurence_Fishburne" title="Laurence Fishburne">Laurence Fishburne</a></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Tyrese_Gibson" title="Tyrese Gibson">Tyrese Gibson</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Dedrick_D._Gobert" title="Dedrick D. Gobert">Dedrick D. Gobert</a></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tim Griffin</td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Cole_Hauser" title="Cole Hauser">Cole Hauser</a></td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Taraji_P._Henson" title="Taraji P. Henson">Taraji P. Henson</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Catherine_Kellner" title="Catherine Kellner">Catherine Kellner</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Regina_King" title="Regina King">Regina King</a></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Marc_Macaulay" title="Marc Macaulay">Marc Macaulay</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Michael_Rapaport" title="Michael Rapaport">Michael Rapaport</a></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ving_Rhames" title="Ving Rhames">Ving Rhames</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a></td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Roger_Guenveur_Smith" title="Roger Guenveur Smith">Roger Guenveur Smith</a></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<center><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/16px-Black_x.svg.png" title="X mark" width="16" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/24px-Black_x.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Black_x.svg/32px-Black_x.svg.png 2x" data-file-width="525" data-file-height="600" /><span style="display:none">N</span></center>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Barboza, Craigh (January 2009). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=nrTB2Uf7kEIC"><i>John Singleton: Interviews</i></a>. Univ. Press of Mississippi. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-60473-116-3" title="Special:BookSources/978-1-60473-116-3">978-1-60473-116-3</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.aufirst=Craigh&amp;rft.aulast=Barboza&amp;rft.btitle=John+Singleton%3A+Interviews&amp;rft.date=2009-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DnrTB2Uf7kEIC&amp;rft.isbn=978-1-60473-116-3&amp;rft.pub=Univ.+Press+of+Mississippi&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.filmreference.com/film/89/John-Singleton.html">"John Singleton Biography (1968–)"</a>. Filmreference.com<span class="reference-accessdate">. Retrieved <span class="nowrap">October 8,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.btitle=John+Singleton+Biography+%281968%93%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.filmreference.com%2Ffilm%2F89%2FJohn-Singleton.html&amp;rft.pub=Filmreference.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-autogenerated1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cinema.usc.edu/alumni/pickford-award.htm">USC Cinema – Alumni&#160;» Pickford Award</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130709092118/http://cinema.usc.edu/alumni/pickford-award.htm">Archived</a> July 9, 2013 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <strong class="error mw-ext-cite-error">Cite error: Invalid <code>&lt;ref&gt;</code> tag; name "autogenerated1" defined multiple times with different content (see the <a href="/wiki/Help:Cite_errors/Cite_error_references_duplicate_key" title="Help:Cite errors/Cite error references duplicate key">help page</a>).</strong></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www-cntv.usc.edu/about/news/margaret-mehring.htm">"USC School of Cinematic Arts – About&#160;» News&#160;» Margaret Mehring"</a>. Cntv.usc.edu. September 3, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">October 8,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.btitle=USC+School+of+Cinematic+Arts+%93+About++%BB+News++%BB+Margaret+Mehring&amp;rft.date=2008-09-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww-cntv.usc.edu%2Fabout%2Fnews%2Fmargaret-mehring.htm&amp;rft.pub=Cntv.usc.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.loc.gov/film/titles.html">"Films Selected to The National Film Registry, Library of Congress 1989–2008"</a>. Loc<span class="reference-accessdate">. Retrieved <span class="nowrap">July 17,</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.btitle=Films+Selected+to+The+National+Film+Registry%2C+Library+of+Congress+1989%932008&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.loc.gov%2Ffilm%2Ftitles.html&amp;rft.pub=Loc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Berlinale-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Berlinale_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.berlinale.de/en/archiv/jahresarchive/1997/02_programm_1997/02_Programm_1997.html">"Berlinale: 1997 Programme"</a>. <i>berlinale.de</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-01-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.atitle=Berlinale%3A+1997+Programme&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.berlinale.de%2Fen%2Farchiv%2Fjahresarchive%2F1997%2F02_programm_1997%2F02_Programm_1997.html&amp;rft.jtitle=berlinale.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Grow, Kory (April 3, 2015). <a rel="nofollow" class="external text" href="http://www.rollingstone.com/movies/news/new-tupac-biopic-on-hold-says-director-john-singleton-20150403">"New Tupac Biopic 'On Hold,' Says Director John Singleton"</a>. <a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 4,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.au=Grow%2C+Kory&amp;rft.btitle=New+Tupac+Biopic+%27On+Hold%2C%27+Says+Director+John+Singleton&amp;rft.date=2015-04-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rollingstone.com%2Fmovies%2Fnews%2Fnew-tupac-biopic-on-hold-says-director-john-singleton-20150403&amp;rft.pub=Rolling+Stone&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Donnelly, Matt (April 7, 2015). <a rel="nofollow" class="external text" href="http://www.thewrap.com/carl-franklin-to-replace-director-john-singleton-on-tupac-biopic/">"Carl Franklin to Replace Director John Singleton on Tupac Biopic"</a>. <a href="/wiki/TheWrap" title="TheWrap">TheWrap</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 7,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.atitle=Carl+Franklin+to+Replace+Director+John+Singleton+on+Tupac+Biopic&amp;rft.aufirst=Matt&amp;rft.aulast=Donnelly&amp;rft.date=2015-04-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thewrap.com%2Fcarl-franklin-to-replace-director-john-singleton-on-tupac-biopic%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.foxnews.com/story/0,2933,294534,00.html">"Filmmaker John Singleton Involved in Fatal Car Accident in L.A."</a>. Foxnews.com. August 25, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">October 8,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.btitle=Filmmaker+John+Singleton+Involved+in+Fatal+Car+Accident+in+L.A.&amp;rft.date=2007-08-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.foxnews.com%2Fstory%2F0%2C2933%2C294534%2C00.html&amp;rft.pub=Foxnews.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edition.cnn.com/2007/SHOWBIZ/Movies/08/25/singleton/index.html">"Movie director Singleton kills pedestrian in accident"</a>. Edition.cnn.com. August 25, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">October 8,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.btitle=Movie+director+Singleton+kills+pedestrian+in+accident&amp;rft.date=2007-08-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fedition.cnn.com%2F2007%2FSHOWBIZ%2FMovies%2F08%2F25%2Fsingleton%2Findex.html&amp;rft.pub=Edition.cnn.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.variety.com/article/VR1117970897.html?categoryId=13&amp;cs=1">"Singleton released after questioning – Entertainment News, Film News, Media"</a>. Variety. August 26, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">October 8,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.btitle=Singleton+released+after+questioning+%93+Entertainment+News%2C+Film+News%2C+Media&amp;rft.date=2007-08-26&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.variety.com%2Farticle%2FVR1117970897.html%3FcategoryId%3D13%26cs%3D1&amp;rft.pub=Variety&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Appelo-black_directors-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Appelo-black_directors_11-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Appelo, Tim (24 March 2014). <a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/news/john-singleton-says-studios-aint-690486">"John Singleton Says Studios 'Ain't Letting Black People Tell Stories,' Unveils Tupac Biopic Plans"</a>. <i>Hollywood Reporter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.atitle=John+Singleton+Says+Studios+%27Ain%27t+Letting+Black+People+Tell+Stories%2C%27+Unveils+Tupac+Biopic+Plans&amp;rft.aufirst=Tim&amp;rft.aulast=Appelo&amp;rft.date=2014-03-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Fnews%2Fjohn-singleton-says-studios-aint-690486&amp;rft.jtitle=Hollywood+Reporter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Child-_black_director-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Child-_black_director_12-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Child, Ben (25 March 2014). <a rel="nofollow" class="external text" href="http://www.theguardian.com/film/2014/mar/25/hollywood-ignores-black-directors-says-john-singleton">"John Singleton accuses Hollywood of ignoring black directors"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.atitle=John+Singleton+accuses+Hollywood+of+ignoring+black+directors&amp;rft.aufirst=Ben&amp;rft.aulast=Child&amp;rft.date=2014-03-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.theguardian.com%2Ffilm%2F2014%2Fmar%2F25%2Fhollywood-ignores-black-directors-says-john-singleton&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rawden_-_Black_director-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rawden_-_Black_director_13-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Rawden, Mack (24 March 2014). <a rel="nofollow" class="external text" href="http://www.cinemablend.com/new/John-Singleton-Slams-So-Called-Studio-Liberals-Offering-More-Minorities-Opportunities-42237.html">"John Singleton Slams So-Called Studio Liberals For Not Offering More Opportunities"</a>. <i>Cinema Blend</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Singleton&amp;rft.atitle=John+Singleton+Slams+So-Called+Studio+Liberals+For+Not+Offering+More+Opportunities&amp;rft.aufirst=Mack&amp;rft.aulast=Rawden&amp;rft.date=2014-03-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cinemablend.com%2Fnew%2FJohn-Singleton-Slams-So-Called-Studio-Liberals-Offering-More-Minorities-Opportunities-42237.html&amp;rft.jtitle=Cinema+Blend&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Singleton&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.johnsingletonfilms.com">The Films of John Singleton</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm0005436/">John Singleton</a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.people.com/people/tyra_banks/biography">Singleton Dated Tyra Banks</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:John_Singleton" title="Template:John Singleton"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:John_Singleton" title="Template talk:John Singleton"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:John_Singleton&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%">Films directed by <strong class="selflink">John Singleton</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Boyz_n_the_Hood" title="Boyz n the Hood">Boyz n the Hood</a></i> (1991)</li>
+<li><i><a href="/wiki/Poetic_Justice_(film)" title="Poetic Justice (film)">Poetic Justice</a></i> (1993)</li>
+<li><i><a href="/wiki/Higher_Learning" title="Higher Learning">Higher Learning</a></i> (1995)</li>
+<li><i><a href="/wiki/Rosewood_(film)" title="Rosewood (film)">Rosewood</a></i> (1997)</li>
+<li><i><a href="/wiki/Shaft_(2000_film)" title="Shaft (2000 film)">Shaft</a></i> (2000)</li>
+<li><i><a href="/wiki/Baby_Boy_(film)" title="Baby Boy (film)">Baby Boy</a></i> (2001)</li>
+<li><i><a href="/wiki/2_Fast_2_Furious" title="2 Fast 2 Furious">2 Fast 2 Furious</a></i> (2003)</li>
+<li><i><a href="/wiki/Four_Brothers_(film)" title="Four Brothers (film)">Four Brothers</a></i> (2005)</li>
+<li><i><a href="/wiki/Abduction_(2011_film)" title="Abduction (2011 film)">Abduction</a></i> (2011)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:MTV_Movie_Award_for_Best_New_Filmmaker" title="Template:MTV Movie Award for Best New Filmmaker"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:MTV_Movie_Award_for_Best_New_Filmmaker" title="Template talk:MTV Movie Award for Best New Filmmaker"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:MTV_Movie_Award_for_Best_New_Filmmaker&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/MTV_Movie_Award_for_Best_New_Filmmaker" title="MTV Movie Award for Best New Filmmaker">MTV Movie Award for Best New Filmmaker</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">John Singleton</strong> (1992)</li>
+<li><a href="/wiki/Carl_Franklin" title="Carl Franklin">Carl Franklin</a> (1993)</li>
+<li><a href="/wiki/Steven_Zaillian" title="Steven Zaillian">Steven Zaillian</a> (1994)</li>
+<li><a href="/wiki/Steve_James_(producer)" title="Steve James (producer)">Steve James</a> (1995)</li>
+<li><a href="/wiki/Wes_Anderson" title="Wes Anderson">Wes Anderson</a> (1996)</li>
+<li><a href="/wiki/Doug_Liman" title="Doug Liman">Doug Liman</a> (1997)</li>
+<li><a href="/wiki/Peter_Cattaneo" title="Peter Cattaneo">Peter Cattaneo</a> (1998)</li>
+<li><a href="/wiki/Guy_Ritchie" title="Guy Ritchie">Guy Ritchie</a> (1999)</li>
+<li><a href="/wiki/Spike_Jonze" title="Spike Jonze">Spike Jonze</a> (2000)</li>
+<li><a href="/wiki/Sofia_Coppola" title="Sofia Coppola">Sofia Coppola</a> (2001)</li>
+<li><a href="/wiki/Christopher_Nolan" title="Christopher Nolan">Christopher Nolan</a> (2002)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Shaft" title="Template:Shaft"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Shaft" title="Template talk:Shaft"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Shaft&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><i><a href="/wiki/John_Shaft" title="John Shaft">Shaft</a></i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Films</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Shaft_(1971_film)" title="Shaft (1971 film)"><i>Shaft</i> (1971)</a></li>
+<li><i><a href="/wiki/Shaft%27s_Big_Score" title="Shaft's Big Score">Shaft's Big Score</a></i></li>
+<li><i><a href="/wiki/Shaft_in_Africa" title="Shaft in Africa">Shaft in Africa</a></i></li>
+<li><a href="/wiki/Shaft_(2000_film)" title="Shaft (2000 film)"><i>Shaft</i> (2000)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Television</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Shaft_(TV_series)" title="Shaft (TV series)"><i>Shaft</i> (TV series)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Novels</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Shaft_(novel)" title="Shaft (novel)">Shaft</a></i> (1970)</li>
+<li><i><a href="/wiki/Shaft_Among_the_Jews" title="Shaft Among the Jews" class="mw-redirect">Shaft Among the Jews</a></i> (1972)</li>
+<li><i><a href="/w/index.php?title=Shaft%27s_Big_Score_(novel)&amp;action=edit&amp;redlink=1" class="new" title="Shaft's Big Score (novel) (page does not exist)">Shaft's Big Score</a></i> (1972)</li>
+<li><i><a href="/w/index.php?title=Shaft_Has_a_Ball&amp;action=edit&amp;redlink=1" class="new" title="Shaft Has a Ball (page does not exist)">Shaft Has a Ball</a></i> (1973)</li>
+<li><i><a href="/w/index.php?title=Goodbye,_Mr._Shaft&amp;action=edit&amp;redlink=1" class="new" title="Goodbye, Mr. Shaft (page does not exist)">Goodbye, Mr. Shaft</a></i> (1973)</li>
+<li><i><a href="/w/index.php?title=Shaft%27s_Carnival_of_Killers&amp;action=edit&amp;redlink=1" class="new" title="Shaft's Carnival of Killers (page does not exist)">Shaft's Carnival of Killers</a></i> (1974)</li>
+<li><i><a href="/w/index.php?title=The_Last_Shaft&amp;action=edit&amp;redlink=1" class="new" title="The Last Shaft (page does not exist)">The Last Shaft</a></i> (1975)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Music</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>"<a href="/wiki/Theme_from_Shaft" title="Theme from Shaft">Theme from <i>Shaft</i></a>"</li>
+<li><a href="/wiki/Shaft_(album)" title="Shaft (album)">1971 soundtrack</a></li>
+<li><a href="/wiki/Shaft_(2000_soundtrack)" title="Shaft (2000 soundtrack)">2000 soundtrack</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:The_Fast_And_The_Furious" title="Template:The Fast And The Furious"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:The_Fast_And_The_Furious" title="Template talk:The Fast And The Furious"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Fast_And_The_Furious&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><i><a href="/wiki/The_Fast_and_the_Furious" title="The Fast and the Furious">The Fast and the Furious</a></i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr>
+<td class="navbox-abovebelow" colspan="1" style="font-weight:bold;"><i><a href="/wiki/The_Fast_and_the_Furious_(2001_film)" title="The Fast and the Furious (2001 film)">The Fast and the Furious</a></i>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/The_Fast_and_the_Furious_(soundtrack)" title="The Fast and the Furious (soundtrack)">Album</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/More_Fast_and_Furious" title="More Fast and Furious">2nd Album</a></small></li>
+</ul>
+</td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><i><a href="/wiki/2_Fast_2_Furious" title="2 Fast 2 Furious">2 Fast 2 Furious</a></i>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/2_Fast_2_Furious_(soundtrack)" title="2 Fast 2 Furious (soundtrack)">Album</a></small></li>
+</ul>
+</td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><i><a href="/wiki/The_Fast_and_the_Furious:_Tokyo_Drift" title="The Fast and the Furious: Tokyo Drift">The Fast and the Furious:<br />
+Tokyo Drift</a></i></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><i><a href="/wiki/Fast_%26_Furious_(2009_film)" title="Fast &amp; Furious (2009 film)">Fast &amp; Furious</a></i>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Fast_%26_Furious_(soundtrack)" title="Fast &amp; Furious (soundtrack)">Album</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Fast_%26_Furious_(Original_Motion_Picture_Score)" title="Fast &amp; Furious (Original Motion Picture Score)">Score</a></small></li>
+</ul>
+</td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><i><a href="/wiki/Fast_Five" title="Fast Five">Fast Five</a></i>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Fast_Five_(soundtrack)" title="Fast Five (soundtrack)">Album</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Fast_Five_(score)" title="Fast Five (score)">Score</a></small></li>
+</ul>
+</td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><i><a href="/wiki/Fast_%26_Furious_6" title="Fast &amp; Furious 6">Fast &amp; Furious 6</a></i>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Fast_%26_Furious_6_(soundtrack)" title="Fast &amp; Furious 6 (soundtrack)">Album</a></small></li>
+</ul>
+</td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><i><a href="/wiki/Furious_7" title="Furious 7">Furious 7</a></i>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Furious_7_(soundtrack)" title="Furious 7 (soundtrack)">Album</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Furious_7_(score)" title="Furious 7 (score)">Score</a></small></li>
+</ul>
+</td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;"><i><a href="/wiki/Fast_8" title="Fast 8" class="mw-redirect">Fast 8</a></i></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_The_Fast_and_the_Furious_characters" title="List of The Fast and the Furious characters">Characters</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dominic_Toretto" title="Dominic Toretto">Dominic Toretto</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Shorts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Turbo-Charged_Prelude" title="Turbo-Charged Prelude">Turbo-Charged Prelude</a></i></li>
+<li><i><a href="/wiki/Los_Bandoleros_(film)" title="Los Bandoleros (film)">Los Bandoleros</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Video games</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/The_Fast_and_the_Furious_(2004_video_game)" title="The Fast and the Furious (2004 video game)"><i>The Fast and the Furious</i> (2004)</a></li>
+<li><a href="/wiki/The_Fast_and_the_Furious_(2006_video_game)" title="The Fast and the Furious (2006 video game)"><i>The Fast and the Furious</i> (2006)</a></li>
+<li><a href="/wiki/Forza_Horizon_2" title="Forza Horizon 2"><i>Forza Horizon 2 Presents Fast &amp; Furious</i> (2015)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Attractions</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fast_and_Furious:_Supercharged" title="Fast and Furious: Supercharged" class="mw-redirect">Fast and Furious: Supercharged</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n93-009831">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/81817948">81817948</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n93009831">n93009831</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000081602388">0000 0000 8160 2388</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/137653824">137653824</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/113460759">113460759</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb13944036x">cb13944036x</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb13944036x">(data)</a></span></li>
+<li><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="//musicbrainz.org/artist/4d235b20-4028-41d0-817a-7458aa0e9ae0">4d235b20-4028-41d0-817a-7458aa0e9ae0</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1059
+Cached time: 20160202121828
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.569 seconds
+Real time usage: 0.679 seconds
+Preprocessor visited node count: 3048/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 79258/2097152 bytes
+Template argument size: 7001/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.206/10.000 seconds
+Lua memory usage: 4.11 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  532.898      1 - -total
+ 26.26%  139.950      1 - Template:Reflist
+ 22.43%  119.536      1 - Template:Infobox_person
+ 13.88%   73.966      1 - Template:Infobox
+ 10.97%   58.441      3 - Template:Citation_needed
+  9.50%   50.604      8 - Template:Cite_web
+  9.14%   48.723      3 - Template:Fix
+  8.66%   46.164      1 - Template:Cite_book
+  8.09%   43.102      6 - Template:Category_handler
+  7.32%   39.031      2 - Template:Broken_ref
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:155994-0!*!0!!en!4!* and timestamp 20160202121827 and revision id 702622857
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=John_Singleton&amp;oldid=702622857">https://en.wikipedia.org/w/index.php?title=John_Singleton&amp;oldid=702622857</a>"					</div>
+				<div id='catlinks' class='catlinks' data-mw='interface'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:African-American_film_directors" title="Category:African-American film directors">African-American film directors</a></li><li><a href="/wiki/Category:African-American_film_producers" title="Category:African-American film producers">African-American film producers</a></li><li><a href="/wiki/Category:African-American_screenwriters" title="Category:African-American screenwriters">African-American screenwriters</a></li><li><a href="/wiki/Category:American_film_directors" title="Category:American film directors">American film directors</a></li><li><a href="/wiki/Category:American_music_video_directors" title="Category:American music video directors">American music video directors</a></li><li><a href="/wiki/Category:American_male_screenwriters" title="Category:American male screenwriters">American male screenwriters</a></li><li><a href="/wiki/Category:Film_directors_from_California" title="Category:Film directors from California">Film directors from California</a></li><li><a href="/wiki/Category:Writers_from_Los_Angeles,_California" title="Category:Writers from Los Angeles, California">Writers from Los Angeles, California</a></li><li><a href="/wiki/Category:1968_births" title="Category:1968 births">1968 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_South_Los_Angeles,_California" title="Category:People from South Los Angeles, California">People from South Los Angeles, California</a></li><li><a href="/wiki/Category:Pasadena_City_College_alumni" title="Category:Pasadena City College alumni">Pasadena City College alumni</a></li><li><a href="/wiki/Category:USC_School_of_Cinematic_Arts_alumni" title="Category:USC School of Cinematic Arts alumni">USC School of Cinematic Arts alumni</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_reference_errors" title="Category:Pages with reference errors">Pages with reference errors</a></li><li><a href="/wiki/Category:Pages_with_duplicate_reference_names" title="Category:Pages with duplicate reference names">Pages with duplicate reference names</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2014" title="Category:Articles with unsourced statements from February 2014">Articles with unsourced statements from February 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_identifiers" title="Category:Wikipedia articles with MusicBrainz identifiers">Wikipedia articles with MusicBrainz identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=John+Singleton&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=John+Singleton" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/John_Singleton"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:John_Singleton"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/John_Singleton" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=John_Singleton&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=John_Singleton&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/John_Singleton" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/John_Singleton" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=John_Singleton&amp;oldid=702622857" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=John_Singleton&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q363005" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=John_Singleton&amp;id=702622857" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=John+Singleton">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=John+Singleton&amp;returnto=John+Singleton&amp;oldid=702622857&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=John_Singleton&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AC%D9%88%D9%86_%D8%B3%D9%8A%D9%86%D8%BA%D9%84%D8%AA%D9%88%D9%86" title="جون سينغلتون – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/John_Singleton" title="John Singleton – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/John_Singleton" title="John Singleton – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/John_Singleton" title="John Singleton – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/John_Singleton" title="John Singleton – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%86_%D8%B3%DB%8C%D9%86%DA%AF%D9%84%D8%AA%D9%88%D9%86" title="جان سینگلتون – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/John_Singleton" title="John Singleton – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%A1%B4_%EC%8B%B1%EA%B8%80%ED%84%B4" title="존 싱글턴 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/John_Singleton" title="John Singleton – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%92%27%D7%95%D7%9F_%D7%A1%D7%99%D7%A0%D7%92%D7%9C%D7%98%D7%95%D7%9F" title="ג'ון סינגלטון – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/John_Singleton" title="John Singleton – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%88%E3%83%B3" title="ジョン・シングルトン – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/John_Singleton" title="John Singleton – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/John_Singleton" title="John Singleton – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B3%D0%BB%D1%82%D0%BE%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD" title="Синглтон, Джон – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/John_Singleton" title="John Singleton – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/John_Singleton" title="John Singleton – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/John_Singleton" title="John Singleton – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/John_Singleton" title="John Singleton – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q363005#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 January 2016, at 18:47.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=John_Singleton&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1210"}); /* @nomin */
+} );</script>
+	</body>
+</html>

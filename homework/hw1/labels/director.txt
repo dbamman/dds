@@ -1,0 +1,413 @@
+1927	winner	/wiki/Frank_Borzage	Frank Borzage	/wiki/7th_Heaven_(1927_film)	7th Heaven (1927 film)
+1927		/wiki/Herbert_Brenon	Herbert Brenon	/wiki/Sorrell_and_Son	Sorrell and Son
+1927		/wiki/King_Vidor	King Vidor	/wiki/The_Crowd_(1928_film)	The Crowd (1928 film)
+1927	winner	/wiki/Lewis_Milestone	Lewis Milestone	/wiki/Two_Arabian_Knights	Two Arabian Knights
+1927		/wiki/Ted_Wilde	Ted Wilde	/wiki/Speedy_(film)	Speedy (film)
+1928	winner	/wiki/Frank_Lloyd	Frank Lloyd	/wiki/The_Divine_Lady	The Divine Lady
+1928		/wiki/Lionel_Barrymore	Lionel Barrymore	/wiki/Madame_X_(1929_film)	Madame X (1929 film)
+1928		/wiki/Harry_Beaumont	Harry Beaumont	/wiki/The_Broadway_Melody	The Broadway Melody
+1928		/wiki/Irving_Cummings	Irving Cummings	/wiki/In_Old_Arizona	In Old Arizona
+1928		/wiki/Frank_Lloyd	Frank Lloyd	/wiki/Drag_(film)	Drag (film)
+1928		/wiki/Ernst_Lubitsch	Ernst Lubitsch	/wiki/The_Patriot_(1928_film)	The Patriot (1928 film)
+1929	winner	/wiki/Lewis_Milestone	Lewis Milestone	/wiki/All_Quiet_on_the_Western_Front_(1930_film)	All Quiet on the Western Front (1930 film)
+1929		/wiki/Clarence_Brown	Clarence Brown	/wiki/Anna_Christie_(1930_film)	Anna Christie (1930 film)
+1929		/wiki/Robert_Z._Leonard	Robert Z. Leonard	/wiki/The_Divorcee	The Divorcee
+1929		/wiki/Ernst_Lubitsch	Ernst Lubitsch	/wiki/The_Love_Parade	The Love Parade
+1929		/wiki/King_Vidor	King Vidor	/wiki/Hallelujah_(film)	Hallelujah (film)
+1930	winner	/wiki/Norman_Taurog	Norman Taurog	/wiki/Skippy_(film)	Skippy (film)
+1930		/wiki/Clarence_Brown	Clarence Brown	/wiki/A_Free_Soul	A Free Soul
+1930		/wiki/Lewis_Milestone	Lewis Milestone	/wiki/The_Front_Page_(1931_film)	The Front Page (1931 film)
+1930		/wiki/Wesley_Ruggles	Wesley Ruggles	/wiki/Cimarron_(1931_film)	Cimarron (1931 film)
+1930		/wiki/Josef_von_Sternberg	Josef von Sternberg	/wiki/Morocco_(1930_film)	Morocco (1930 film)
+1931	winner	/wiki/Frank_Borzage	Frank Borzage	/wiki/Bad_Girl_(1931_film)	Bad Girl (1931 film)
+1931		/wiki/King_Vidor	King Vidor	/wiki/The_Champ_(1931_film)	The Champ (1931 film)
+1931		/wiki/Josef_von_Sternberg	Josef von Sternberg	/wiki/Shanghai_Express_(film)	Shanghai Express (film)
+1932	winner	/wiki/Frank_Lloyd	Frank Lloyd	/wiki/Cavalcade_(1933_film)	Cavalcade (1933 film)
+1932		/wiki/Frank_Capra	Frank Capra	/wiki/Lady_for_a_Day	Lady for a Day
+1932		/wiki/George_Cukor	George Cukor	/wiki/Little_Women_(1933_film)	Little Women (1933 film)
+1934	winner	/wiki/Frank_Capra	Frank Capra	/wiki/It_Happened_One_Night	It Happened One Night
+1934		/wiki/Victor_Schertzinger	Victor Schertzinger	/wiki/One_Night_of_Love	One Night of Love
+1934		/wiki/W._S._Van_Dyke	W. S. Van Dyke	/wiki/The_Thin_Man_(film)	The Thin Man (film)
+1935	winner	/wiki/John_Ford	John Ford	/wiki/The_Informer_(1935_film)	The Informer (1935 film)
+1935		/wiki/Henry_Hathaway	Henry Hathaway	/wiki/The_Lives_of_a_Bengal_Lancer_(film)	The Lives of a Bengal Lancer (film)
+1935		/wiki/Frank_Lloyd	Frank Lloyd	/wiki/Mutiny_on_the_Bounty_(1935_film)	Mutiny on the Bounty (1935 film)
+1936	winner	/wiki/Frank_Capra	Frank Capra	/wiki/Mr._Deeds_Goes_to_Town	Mr. Deeds Goes to Town
+1936		/wiki/Gregory_La_Cava	Gregory La Cava	/wiki/My_Man_Godfrey	My Man Godfrey
+1936		/wiki/Robert_Z._Leonard	Robert Z. Leonard	/wiki/The_Great_Ziegfeld	The Great Ziegfeld
+1936		/wiki/W._S._Van_Dyke	W. S. Van Dyke	/wiki/San_Francisco_(1936_film)	San Francisco (1936 film)
+1936		/wiki/William_Wyler	William Wyler	/wiki/Dodsworth_(film)	Dodsworth (film)
+1937		/wiki/Leo_McCarey	Leo McCarey	/wiki/The_Awful_Truth	The Awful Truth
+1937		/wiki/Sidney_Franklin_(director)	Sidney Franklin (director)	/wiki/The_Good_Earth_(film)	The Good Earth (film)
+1937		/wiki/Gregory_La_Cava	Gregory La Cava	/wiki/Stage_Door	Stage Door
+1937		/wiki/William_A._Wellman	William A. Wellman	/wiki/A_Star_Is_Born_(1937_film)	A Star Is Born (1937 film)
+1938	winner	/wiki/Frank_Capra	Frank Capra	/wiki/You_Can%27t_Take_It_with_You_(film)	You Can't Take It with You (film)
+1938		/wiki/Michael_Curtiz	Michael Curtiz	/wiki/Angels_with_Dirty_Faces	Angels with Dirty Faces
+1938		/wiki/Norman_Taurog	Norman Taurog	/wiki/Boys_Town_(1938_film)	Boys Town (1938 film)
+1938		/wiki/King_Vidor	King Vidor	/wiki/The_Citadel_(film)	The Citadel (film)
+1939	winner	/wiki/Victor_Fleming	Victor Fleming	/wiki/Gone_with_the_Wind_(film)	Gone with the Wind (film)
+1939		/wiki/Frank_Capra	Frank Capra	/wiki/Mr._Smith_Goes_to_Washington	Mr. Smith Goes to Washington
+1939		/wiki/John_Ford	John Ford	/wiki/Stagecoach_(1939_film)	Stagecoach (1939 film)
+1939		/wiki/Sam_Wood	Sam Wood	/wiki/Goodbye,_Mr._Chips_(1939_film)	Goodbye, Mr. Chips (1939 film)
+1939		/wiki/William_Wyler	William Wyler	/wiki/Wuthering_Heights_(1939_film)	Wuthering Heights (1939 film)
+1940	winner	/wiki/John_Ford	John Ford	/wiki/The_Grapes_of_Wrath_(film)	The Grapes of Wrath (film)
+1940		/wiki/George_Cukor	George Cukor	/wiki/The_Philadelphia_Story_(film)	The Philadelphia Story (film)
+1940		/wiki/Alfred_Hitchcock	Alfred Hitchcock	/wiki/Rebecca_(1940_film)	Rebecca (1940 film)
+1940		/wiki/Sam_Wood	Sam Wood	/wiki/Kitty_Foyle_(film)	Kitty Foyle (film)
+1940		/wiki/William_Wyler	William Wyler	/wiki/The_Letter_(1940_film)	The Letter (1940 film)
+1941	winner	/wiki/John_Ford	John Ford	/wiki/How_Green_Was_My_Valley_(film)	How Green Was My Valley (film)
+1941		/wiki/Alexander_Hall	Alexander Hall	/wiki/Here_Comes_Mr._Jordan	Here Comes Mr. Jordan
+1941		/wiki/Howard_Hawks	Howard Hawks	/wiki/Sergeant_York_(film)	Sergeant York (film)
+1941		/wiki/Orson_Welles	Orson Welles	/wiki/Citizen_Kane	Citizen Kane
+1941		/wiki/William_Wyler	William Wyler	/wiki/The_Little_Foxes_(film)	The Little Foxes (film)
+1942	winner	/wiki/William_Wyler	William Wyler	/wiki/Mrs._Miniver_(film)	Mrs. Miniver (film)
+1942		/wiki/Michael_Curtiz	Michael Curtiz	/wiki/Yankee_Doodle_Dandy	Yankee Doodle Dandy
+1942		/wiki/John_Farrow	John Farrow	/wiki/Wake_Island_(1942_film)	Wake Island (1942 film)
+1942		/wiki/Mervyn_LeRoy	Mervyn LeRoy	/wiki/Random_Harvest_(film)	Random Harvest (film)
+1942		/wiki/Sam_Wood	Sam Wood	/wiki/Kings_Row	Kings Row
+1943	winner	/wiki/Michael_Curtiz	Michael Curtiz	/wiki/Casablanca_(film)	Casablanca (film)
+1943		/wiki/Clarence_Brown	Clarence Brown	/wiki/The_Human_Comedy_(film)	The Human Comedy (film)
+1943		/wiki/Henry_King_(director)	Henry King (director)	/wiki/The_Song_of_Bernadette_(film)	The Song of Bernadette (film)
+1943		/wiki/Ernst_Lubitsch	Ernst Lubitsch	/wiki/Heaven_Can_Wait_(1943_film)	Heaven Can Wait (1943 film)
+1943		/wiki/George_Stevens	George Stevens	/wiki/The_More_the_Merrier	The More the Merrier
+1944	winner	/wiki/Leo_McCarey	Leo McCarey	/wiki/Going_My_Way	Going My Way
+1944		/wiki/Alfred_Hitchcock	Alfred Hitchcock	/wiki/Lifeboat_(film)	Lifeboat (film)
+1944		/wiki/Henry_King_(director)	Henry King (director)	/wiki/Wilson_(1944_film)	Wilson (1944 film)
+1944		/wiki/Otto_Preminger	Otto Preminger	/wiki/Laura_(1944_film)	Laura (1944 film)
+1944		/wiki/Billy_Wilder	Billy Wilder	/wiki/Double_Indemnity_(film)	Double Indemnity (film)
+1945	winner	/wiki/Billy_Wilder	Billy Wilder	/wiki/The_Lost_Weekend_(film)	The Lost Weekend (film)
+1945		/wiki/Clarence_Brown	Clarence Brown	/wiki/National_Velvet_(film)	National Velvet (film)
+1945		/wiki/Alfred_Hitchcock	Alfred Hitchcock	/wiki/Spellbound_(1945_film)	Spellbound (1945 film)
+1945		/wiki/Leo_McCarey	Leo McCarey	/wiki/The_Bells_of_St._Mary%27s	The Bells of St. Mary's
+1945		/wiki/Jean_Renoir	Jean Renoir	/wiki/The_Southerner_(1945_film)	The Southerner (1945 film)
+1946	winner	/wiki/William_Wyler	William Wyler	/wiki/The_Best_Years_of_Our_Lives	The Best Years of Our Lives
+1946		/wiki/Clarence_Brown	Clarence Brown	/wiki/The_Yearling_(film)	The Yearling (film)
+1946		/wiki/Frank_Capra	Frank Capra	/wiki/It%27s_a_Wonderful_Life	It's a Wonderful Life
+1946		/wiki/David_Lean	David Lean	/wiki/Brief_Encounter	Brief Encounter
+1946		/wiki/Robert_Siodmak	Robert Siodmak	/wiki/The_Killers_(1946_film)	The Killers (1946 film)
+1947	winner	/wiki/Elia_Kazan	Elia Kazan	/wiki/Gentleman%27s_Agreement	Gentleman's Agreement
+1947		/wiki/George_Cukor	George Cukor	/wiki/A_Double_Life	A Double Life
+1947		/wiki/Edward_Dmytryk	Edward Dmytryk	/wiki/Crossfire_(film)	Crossfire (film)
+1947		/wiki/Henry_Koster	Henry Koster	/wiki/The_Bishop%27s_Wife	The Bishop's Wife
+1947		/wiki/David_Lean	David Lean	/wiki/Great_Expectations_(1946_film)	Great Expectations (1946 film)
+1948	winner	/wiki/John_Huston	John Huston	/wiki/The_Treasure_of_the_Sierra_Madre_(film)	The Treasure of the Sierra Madre (film)
+1948		/wiki/Anatole_Litvak	Anatole Litvak	/wiki/The_Snake_Pit	The Snake Pit
+1948		/wiki/Jean_Negulesco	Jean Negulesco	/wiki/Johnny_Belinda_(1948_film)	Johnny Belinda (1948 film)
+1948		/wiki/Laurence_Olivier	Laurence Olivier	/wiki/Hamlet_(1948_film)	Hamlet (1948 film)
+1948		/wiki/Fred_Zinnemann	Fred Zinnemann	/wiki/The_Search	The Search
+1949	winner	/wiki/Joseph_L._Mankiewicz	Joseph L. Mankiewicz	/wiki/A_Letter_to_Three_Wives	A Letter to Three Wives
+1949		/wiki/Carol_Reed	Carol Reed	/wiki/The_Fallen_Idol_(film)	The Fallen Idol (film)
+1949		/wiki/Robert_Rossen	Robert Rossen	/wiki/All_the_King%27s_Men_(1949_film)	All the King's Men (1949 film)
+1949		/wiki/William_A._Wellman	William A. Wellman	/wiki/Battleground_(film)	Battleground (film)
+1949		/wiki/William_Wyler	William Wyler	/wiki/The_Heiress	The Heiress
+1950	winner	/wiki/Joseph_L._Mankiewicz	Joseph L. Mankiewicz	/wiki/All_About_Eve	All About Eve
+1950		/wiki/George_Cukor	George Cukor	/wiki/Born_Yesterday_(1950_film)	Born Yesterday (1950 film)
+1950		/wiki/John_Huston	John Huston	/wiki/The_Asphalt_Jungle	The Asphalt Jungle
+1950		/wiki/Carol_Reed	Carol Reed	/wiki/The_Third_Man	The Third Man
+1950		/wiki/Billy_Wilder	Billy Wilder	/wiki/Sunset_Boulevard_(film)	Sunset Boulevard (film)
+1951	winner	/wiki/George_Stevens	George Stevens	/wiki/A_Place_in_the_Sun_(film)	A Place in the Sun (film)
+1951		/wiki/John_Huston	John Huston	/wiki/The_African_Queen_(film)	The African Queen (film)
+1951		/wiki/Elia_Kazan	Elia Kazan	/wiki/A_Streetcar_Named_Desire_(1951_film)	A Streetcar Named Desire (1951 film)
+1951		/wiki/Vincente_Minnelli	Vincente Minnelli	/wiki/An_American_in_Paris_(film)	An American in Paris (film)
+1951		/wiki/William_Wyler	William Wyler	/wiki/Detective_Story_(1951_film)	Detective Story (1951 film)
+1952	winner	/wiki/John_Ford	John Ford	/wiki/The_Quiet_Man	The Quiet Man
+1952		/wiki/Cecil_B._DeMille	Cecil B. DeMille	/wiki/The_Greatest_Show_on_Earth	The Greatest Show on Earth
+1952		/wiki/John_Huston	John Huston	/wiki/Moulin_Rouge_(1952_film)	Moulin Rouge (1952 film)
+1952		/wiki/Joseph_L._Mankiewicz	Joseph L. Mankiewicz	/wiki/5_Fingers	5 Fingers
+1952		/wiki/Fred_Zinnemann	Fred Zinnemann	/wiki/High_Noon	High Noon
+1953	winner	/wiki/Fred_Zinnemann	Fred Zinnemann	/wiki/From_Here_to_Eternity	From Here to Eternity
+1953		/wiki/George_Stevens	George Stevens	/wiki/Shane_(film)	Shane (film)
+1953		/wiki/Charles_Walters	Charles Walters	/wiki/Lili	Lili
+1953		/wiki/Billy_Wilder	Billy Wilder	/wiki/Stalag_17	Stalag 17
+1953		/wiki/William_Wyler	William Wyler	/wiki/Roman_Holiday	Roman Holiday
+1954	winner	/wiki/Elia_Kazan	Elia Kazan	/wiki/On_the_Waterfront	On the Waterfront
+1954		/wiki/Alfred_Hitchcock	Alfred Hitchcock	/wiki/Rear_Window	Rear Window
+1954		/wiki/George_Seaton	George Seaton	/wiki/The_Country_Girl_(1954_film)	The Country Girl (1954 film)
+1954		/wiki/William_A._Wellman	William A. Wellman	/wiki/The_High_and_the_Mighty_(film)	The High and the Mighty (film)
+1954		/wiki/Billy_Wilder	Billy Wilder	/wiki/Sabrina_(1954_film)	Sabrina (1954 film)
+1955	winner	/wiki/Delbert_Mann	Delbert Mann	/wiki/Marty_(film)	Marty (film)
+1955		/wiki/Elia_Kazan	Elia Kazan	/wiki/East_of_Eden_(film)	East of Eden (film)
+1955		/wiki/David_Lean	David Lean	/wiki/Summertime_(1955_film)	Summertime (1955 film)
+1955		/wiki/Joshua_Logan	Joshua Logan	/wiki/Picnic_(1955_film)	Picnic (1955 film)
+1955		/wiki/John_Sturges	John Sturges	/wiki/Bad_Day_at_Black_Rock	Bad Day at Black Rock
+1956	winner	/wiki/George_Stevens	George Stevens	/wiki/Giant_(1956_film)	Giant (1956 film)
+1956		/wiki/Michael_Anderson_(director)	Michael Anderson (director)	/wiki/Around_the_World_in_80_Days_(1956_film)	Around the World in 80 Days (1956 film)
+1956		/wiki/Walter_Lang	Walter Lang	/wiki/The_King_and_I_(1956_film)	The King and I (1956 film)
+1956		/wiki/King_Vidor	King Vidor	/wiki/War_and_Peace_(1956_film)	War and Peace (1956 film)
+1956		/wiki/William_Wyler	William Wyler	/wiki/Friendly_Persuasion_(1956_film)	Friendly Persuasion (1956 film)
+1957	winner	/wiki/David_Lean	David Lean	/wiki/The_Bridge_on_the_River_Kwai	The Bridge on the River Kwai
+1957		/wiki/Joshua_Logan	Joshua Logan	/wiki/Sayonara	Sayonara
+1957		/wiki/Sidney_Lumet	Sidney Lumet	/wiki/12_Angry_Men_(1957_film)	12 Angry Men (1957 film)
+1957		/wiki/Mark_Robson	Mark Robson	/wiki/Peyton_Place_(film)	Peyton Place (film)
+1957		/wiki/Billy_Wilder	Billy Wilder	/wiki/Witness_for_the_Prosecution_(1957_film)	Witness for the Prosecution (1957 film)
+1958	winner	/wiki/Vincente_Minnelli	Vincente Minnelli	/wiki/Gigi_(1958_film)	Gigi (1958 film)
+1958		/wiki/Richard_Brooks	Richard Brooks	/wiki/Cat_on_a_Hot_Tin_Roof_(film)	Cat on a Hot Tin Roof (film)
+1958		/wiki/Stanley_Kramer	Stanley Kramer	/wiki/The_Defiant_Ones	The Defiant Ones
+1958		/wiki/Mark_Robson	Mark Robson	/wiki/The_Inn_of_the_Sixth_Happiness	The Inn of the Sixth Happiness
+1958		/wiki/Robert_Wise	Robert Wise	/wiki/I_Want_to_Live!	I Want to Live!
+1959	winner	/wiki/William_Wyler	William Wyler	/wiki/Ben-Hur_(1959_film)	Ben-Hur (1959 film)
+1959		/wiki/Jack_Clayton	Jack Clayton	/wiki/Room_at_the_Top_(1959_film)	Room at the Top (1959 film)
+1959		/wiki/George_Stevens	George Stevens	/wiki/The_Diary_of_Anne_Frank_(1959_film)	The Diary of Anne Frank (1959 film)
+1959		/wiki/Billy_Wilder	Billy Wilder	/wiki/Some_Like_It_Hot	Some Like It Hot
+1959		/wiki/Fred_Zinnemann	Fred Zinnemann	/wiki/The_Nun%27s_Story_(film)	The Nun's Story (film)
+1960	winner	/wiki/Billy_Wilder	Billy Wilder	/wiki/The_Apartment	The Apartment
+1960		/wiki/Jack_Cardiff	Jack Cardiff	/wiki/Sons_and_Lovers_(1960_film)	Sons and Lovers (1960 film)
+1960		/wiki/Jules_Dassin	Jules Dassin	/wiki/Never_on_Sunday	Never on Sunday
+1960		/wiki/Alfred_Hitchcock	Alfred Hitchcock	/wiki/Psycho_(1960_film)	Psycho (1960 film)
+1960		/wiki/Fred_Zinnemann	Fred Zinnemann	/wiki/The_Sundowners	The Sundowners
+1961	winner	/wiki/Robert_Wise	Robert Wise	/wiki/West_Side_Story_(film)	West Side Story (film)
+1961		/wiki/Federico_Fellini	Federico Fellini	/wiki/La_Dolce_Vita	La Dolce Vita
+1961		/wiki/Stanley_Kramer	Stanley Kramer	/wiki/Judgment_at_Nuremberg	Judgment at Nuremberg
+1961		/wiki/Robert_Rossen	Robert Rossen	/wiki/The_Hustler_(film)	The Hustler (film)
+1961		/wiki/J._Lee_Thompson	J. Lee Thompson	/wiki/The_Guns_of_Navarone_(film)	The Guns of Navarone (film)
+1962	winner	/wiki/David_Lean	David Lean	/wiki/Lawrence_of_Arabia_(film)	Lawrence of Arabia (film)
+1962		/wiki/Pietro_Germi	Pietro Germi	/wiki/Divorce,_Italian_Style	Divorce, Italian Style
+1962		/wiki/Robert_Mulligan	Robert Mulligan	/wiki/To_Kill_a_Mockingbird_(film)	To Kill a Mockingbird (film)
+1962		/wiki/Arthur_Penn	Arthur Penn	/wiki/The_Miracle_Worker_(1962_film)	The Miracle Worker (1962 film)
+1962		/wiki/Frank_Perry	Frank Perry	/wiki/David_and_Lisa	David and Lisa
+1963	winner	/wiki/Tony_Richardson	Tony Richardson	/wiki/Tom_Jones_(1963_film)	Tom Jones (1963 film)
+1963		/wiki/Elia_Kazan	Elia Kazan	/wiki/America,_America	America, America
+1963		/wiki/Otto_Preminger	Otto Preminger	/wiki/The_Cardinal	The Cardinal
+1963		/wiki/Martin_Ritt	Martin Ritt	/wiki/Hud_(1963_film)	Hud (1963 film)
+1964	winner	/wiki/George_Cukor	George Cukor	/wiki/My_Fair_Lady_(film)	My Fair Lady (film)
+1964		/wiki/Michael_Cacoyannis	Michael Cacoyannis	/wiki/Zorba_the_Greek_(film)	Zorba the Greek (film)
+1964		/wiki/Peter_Glenville	Peter Glenville	/wiki/Becket_(1964_film)	Becket (1964 film)
+1964		/wiki/Stanley_Kubrick	Stanley Kubrick	/wiki/Dr._Strangelove	Dr. Strangelove
+1964		/wiki/Robert_Stevenson_(director)	Robert Stevenson (director)	/wiki/Mary_Poppins_(film)	Mary Poppins (film)
+1965	winner	/wiki/Robert_Wise	Robert Wise	/wiki/The_Sound_of_Music_(film)	The Sound of Music (film)
+1965		/wiki/David_Lean	David Lean	/wiki/Doctor_Zhivago_(film)	Doctor Zhivago (film)
+1965		/wiki/John_Schlesinger	John Schlesinger	/wiki/Darling_(1965_film)	Darling (1965 film)
+1965		/wiki/Hiroshi_Teshigahara	Hiroshi Teshigahara	/wiki/The_Woman_in_the_Dunes_(film)	The Woman in the Dunes (film)
+1965		/wiki/William_Wyler	William Wyler	/wiki/The_Collector_(1965_film)	The Collector (1965 film)
+1966	winner	/wiki/Fred_Zinnemann	Fred Zinnemann	/wiki/A_Man_for_All_Seasons_(1966_film)	A Man for All Seasons (1966 film)
+1966		/wiki/Michelangelo_Antonioni	Michelangelo Antonioni	/wiki/Blowup	Blowup
+1966		/wiki/Richard_Brooks	Richard Brooks	/wiki/The_Professionals_(1966_film)	The Professionals (1966 film)
+1966		/wiki/Claude_Lelouch	Claude Lelouch	/wiki/A_Man_and_a_Woman	A Man and a Woman
+1966		/wiki/Mike_Nichols	Mike Nichols	/wiki/Who%27s_Afraid_of_Virginia_Woolf%3F_(film)	Who's Afraid of Virginia Woolf? (film)
+1967	winner	/wiki/Mike_Nichols	Mike Nichols	/wiki/The_Graduate	The Graduate
+1967		/wiki/Richard_Brooks	Richard Brooks	/wiki/In_Cold_Blood_(film)	In Cold Blood (film)
+1967		/wiki/Norman_Jewison	Norman Jewison	/wiki/In_the_Heat_of_the_Night_(film)	In the Heat of the Night (film)
+1967		/wiki/Stanley_Kramer	Stanley Kramer	/wiki/Guess_Who%27s_Coming_to_Dinner	Guess Who's Coming to Dinner
+1967		/wiki/Arthur_Penn	Arthur Penn	/wiki/Bonnie_and_Clyde_(film)	Bonnie and Clyde (film)
+1968	winner	/wiki/Carol_Reed	Carol Reed	/wiki/Oliver!_(film)	Oliver! (film)
+1968		/wiki/Anthony_Harvey	Anthony Harvey	/wiki/The_Lion_in_Winter_(1968_film)	The Lion in Winter (1968 film)
+1968		/wiki/Stanley_Kubrick	Stanley Kubrick	/wiki/2001:_A_Space_Odyssey_(film)	2001: A Space Odyssey (film)
+1968		/wiki/Gillo_Pontecorvo	Gillo Pontecorvo	/wiki/The_Battle_of_Algiers_(film)	The Battle of Algiers (film)
+1968		/wiki/Franco_Zeffirelli	Franco Zeffirelli	/wiki/Romeo_and_Juliet_(1968_film)	Romeo and Juliet (1968 film)
+1969	winner	/wiki/John_Schlesinger	John Schlesinger	/wiki/Midnight_Cowboy	Midnight Cowboy
+1969		/wiki/Costa_Gavras	Costa Gavras	/wiki/Z_(1969_film)	Z (1969 film)
+1969		/wiki/George_Roy_Hill	George Roy Hill	/wiki/Butch_Cassidy_and_the_Sundance_Kid	Butch Cassidy and the Sundance Kid
+1969		/wiki/Arthur_Penn	Arthur Penn	/wiki/Alice%27s_Restaurant_(film)	Alice's Restaurant (film)
+1969		/wiki/Sydney_Pollack	Sydney Pollack	/wiki/They_Shoot_Horses,_Don%27t_They%3F_(film)	They Shoot Horses, Don't They? (film)
+1970	winner	/wiki/Franklin_J._Schaffner	Franklin J. Schaffner	/wiki/Patton_(film)	Patton (film)
+1970		/wiki/Robert_Altman	Robert Altman	/wiki/MASH_(film)	MASH (film)
+1970		/wiki/Federico_Fellini	Federico Fellini	/wiki/Fellini_Satyricon	Fellini Satyricon
+1970		/wiki/Arthur_Hiller	Arthur Hiller	/wiki/Love_Story_(1970_film)	Love Story (1970 film)
+1970		/wiki/Ken_Russell	Ken Russell	/wiki/Women_in_Love_(film)	Women in Love (film)
+1971	winner	/wiki/William_Friedkin	William Friedkin	/wiki/The_French_Connection_(film)	The French Connection (film)
+1971		/wiki/Peter_Bogdanovich	Peter Bogdanovich	/wiki/The_Last_Picture_Show	The Last Picture Show
+1971		/wiki/Norman_Jewison	Norman Jewison	/wiki/Fiddler_on_the_Roof_(film)	Fiddler on the Roof (film)
+1971		/wiki/Stanley_Kubrick	Stanley Kubrick	/wiki/A_Clockwork_Orange_(film)	A Clockwork Orange (film)
+1971		/wiki/John_Schlesinger	John Schlesinger	/wiki/Sunday_Bloody_Sunday_(film)	Sunday Bloody Sunday (film)
+1972	winner	/wiki/Bob_Fosse	Bob Fosse	/wiki/Cabaret_(1972_film)	Cabaret (1972 film)
+1972		/wiki/John_Boorman	John Boorman	/wiki/Deliverance	Deliverance
+1972		/wiki/Francis_Ford_Coppola	Francis Ford Coppola	/wiki/The_Godfather	The Godfather
+1972		/wiki/Joseph_L._Mankiewicz	Joseph L. Mankiewicz	/wiki/Sleuth_(1972_film)	Sleuth (1972 film)
+1972		/wiki/Jan_Troell	Jan Troell	/wiki/The_Emigrants_(film)	The Emigrants (film)
+1973	winner	/wiki/George_Roy_Hill	George Roy Hill	/wiki/The_Sting	The Sting
+1973		/wiki/Ingmar_Bergman	Ingmar Bergman	/wiki/Cries_and_Whispers	Cries and Whispers
+1973		/wiki/Bernardo_Bertolucci	Bernardo Bertolucci	/wiki/Last_Tango_in_Paris	Last Tango in Paris
+1973		/wiki/William_Friedkin	William Friedkin	/wiki/The_Exorcist_(film)	The Exorcist (film)
+1973		/wiki/George_Lucas	George Lucas	/wiki/American_Graffiti	American Graffiti
+1974	winner	/wiki/Francis_Ford_Coppola	Francis Ford Coppola	/wiki/The_Godfather_Part_II	The Godfather Part II
+1974		/wiki/John_Cassavetes	John Cassavetes	/wiki/A_Woman_Under_the_Influence	A Woman Under the Influence
+1974		/wiki/Bob_Fosse	Bob Fosse	/wiki/Lenny_(film)	Lenny (film)
+1974		/wiki/Roman_Polanski	Roman Polanski	/wiki/Chinatown_(1974_film)	Chinatown (1974 film)
+1975		/wiki/Robert_Altman	Robert Altman	/wiki/Nashville_(film)	Nashville (film)
+1975		/wiki/Federico_Fellini	Federico Fellini	/wiki/Amarcord	Amarcord
+1975		/wiki/Stanley_Kubrick	Stanley Kubrick	/wiki/Barry_Lyndon	Barry Lyndon
+1975		/wiki/Sidney_Lumet	Sidney Lumet	/wiki/Dog_Day_Afternoon	Dog Day Afternoon
+1976	winner	/wiki/John_G._Avildsen	John G. Avildsen	/wiki/Rocky	Rocky
+1976		/wiki/Ingmar_Bergman	Ingmar Bergman	/wiki/Face_to_Face_(1976_film)	Face to Face (1976 film)
+1976		/wiki/Sidney_Lumet	Sidney Lumet	/wiki/Network_(film)	Network (film)
+1976		/wiki/Alan_J._Pakula	Alan J. Pakula	/wiki/All_the_President%27s_Men_(film)	All the President's Men (film)
+1977	winner	/wiki/Woody_Allen	Woody Allen	/wiki/Annie_Hall	Annie Hall
+1977		/wiki/George_Lucas	George Lucas	/wiki/Star_Wars_(film)	Star Wars (film)
+1977		/wiki/Herbert_Ross	Herbert Ross	/wiki/The_Turning_Point_(1977_film)	The Turning Point (1977 film)
+1977		/wiki/Steven_Spielberg	Steven Spielberg	/wiki/Close_Encounters_of_the_Third_Kind	Close Encounters of the Third Kind
+1977		/wiki/Fred_Zinnemann	Fred Zinnemann	/wiki/Julia_(1977_film)	Julia (1977 film)
+1978	winner	/wiki/Michael_Cimino	Michael Cimino	/wiki/The_Deer_Hunter	The Deer Hunter
+1978		/wiki/Woody_Allen	Woody Allen	/wiki/Interiors	Interiors
+1978		/wiki/Hal_Ashby	Hal Ashby	/wiki/Coming_Home_(1978_film)	Coming Home (1978 film)
+1978		/wiki/Warren_Beatty	Warren Beatty	/wiki/Heaven_Can_Wait_(1978_film)	Heaven Can Wait (1978 film)
+1978		/wiki/Alan_Parker	Alan Parker	/wiki/Midnight_Express_(film)	Midnight Express (film)
+1979	winner	/wiki/Robert_Benton	Robert Benton	/wiki/Kramer_vs._Kramer	Kramer vs. Kramer
+1979		/wiki/Francis_Ford_Coppola	Francis Ford Coppola	/wiki/Apocalypse_Now	Apocalypse Now
+1979		/wiki/Bob_Fosse	Bob Fosse	/wiki/All_That_Jazz_(film)	All That Jazz (film)
+1979		/wiki/Peter_Yates	Peter Yates	/wiki/Breaking_Away	Breaking Away
+1980	winner	/wiki/Robert_Redford	Robert Redford	/wiki/Ordinary_People	Ordinary People
+1980		/wiki/David_Lynch	David Lynch	/wiki/The_Elephant_Man_(film)	The Elephant Man (film)
+1980		/wiki/Roman_Polanski	Roman Polanski	/wiki/Tess_(film)	Tess (film)
+1980		/wiki/Richard_Rush_(director)	Richard Rush (director)	/wiki/The_Stunt_Man	The Stunt Man
+1980		/wiki/Martin_Scorsese	Martin Scorsese	/wiki/Raging_Bull	Raging Bull
+1981	winner	/wiki/Warren_Beatty	Warren Beatty	/wiki/Reds_(film)	Reds (film)
+1981		/wiki/Hugh_Hudson	Hugh Hudson	/wiki/Chariots_of_Fire	Chariots of Fire
+1981		/wiki/Louis_Malle	Louis Malle	/wiki/Atlantic_City_(1980_film)	Atlantic City (1980 film)
+1981		/wiki/Mark_Rydell	Mark Rydell	/wiki/On_Golden_Pond_(1981_film)	On Golden Pond (1981 film)
+1981		/wiki/Steven_Spielberg	Steven Spielberg	/wiki/Raiders_of_the_Lost_Ark	Raiders of the Lost Ark
+1982	winner	/wiki/Richard_Attenborough	Richard Attenborough	/wiki/Gandhi_(film)	Gandhi (film)
+1982		/wiki/Sidney_Lumet	Sidney Lumet	/wiki/The_Verdict	The Verdict
+1982		/wiki/Wolfgang_Petersen	Wolfgang Petersen	/wiki/Das_Boot	Das Boot
+1982		/wiki/Sydney_Pollack	Sydney Pollack	/wiki/Tootsie	Tootsie
+1982		/wiki/Steven_Spielberg	Steven Spielberg	/wiki/E.T._the_Extra-Terrestrial	E.T. the Extra-Terrestrial
+1983	winner	/wiki/James_L._Brooks	James L. Brooks	/wiki/Terms_of_Endearment	Terms of Endearment
+1983		/wiki/Bruce_Beresford	Bruce Beresford	/wiki/Tender_Mercies	Tender Mercies
+1983		/wiki/Ingmar_Bergman	Ingmar Bergman	/wiki/Fanny_and_Alexander	Fanny and Alexander
+1983		/wiki/Mike_Nichols	Mike Nichols	/wiki/Silkwood	Silkwood
+1983		/wiki/Peter_Yates	Peter Yates	/wiki/The_Dresser	The Dresser
+1984		/wiki/Woody_Allen	Woody Allen	/wiki/Broadway_Danny_Rose	Broadway Danny Rose
+1984		/wiki/Robert_Benton	Robert Benton	/wiki/Places_in_the_Heart	Places in the Heart
+1984		/wiki/David_Lean	David Lean	/wiki/A_Passage_to_India_(film)	A Passage to India (film)
+1985	winner	/wiki/Sydney_Pollack	Sydney Pollack	/wiki/Out_of_Africa_(film)	Out of Africa (film)
+1985		/wiki/John_Huston	John Huston	/wiki/Prizzi%27s_Honor	Prizzi's Honor
+1985		/wiki/Akira_Kurosawa	Akira Kurosawa	/wiki/Ran_(film)	Ran (film)
+1985		/wiki/Peter_Weir	Peter Weir	/wiki/Witness_(1985_film)	Witness (1985 film)
+1986	winner	/wiki/Oliver_Stone	Oliver Stone	/wiki/Platoon_(film)	Platoon (film)
+1986		/wiki/Woody_Allen	Woody Allen	/wiki/Hannah_and_Her_Sisters	Hannah and Her Sisters
+1986		/wiki/James_Ivory_(director)	James Ivory (director)	/wiki/A_Room_with_a_View_(1986_film)	A Room with a View (1986 film)
+1986		/wiki/David_Lynch	David Lynch	/wiki/Blue_Velvet_(film)	Blue Velvet (film)
+1987	winner	/wiki/Bernardo_Bertolucci	Bernardo Bertolucci	/wiki/The_Last_Emperor	The Last Emperor
+1987		/wiki/John_Boorman	John Boorman	/wiki/Hope_and_Glory_(film)	Hope and Glory (film)
+1987		/wiki/Norman_Jewison	Norman Jewison	/wiki/Moonstruck	Moonstruck
+1987		/wiki/Adrian_Lyne	Adrian Lyne	/wiki/Fatal_Attraction	Fatal Attraction
+1988	winner	/wiki/Barry_Levinson	Barry Levinson	/wiki/Rain_Man	Rain Man
+1988		/wiki/Charles_Crichton	Charles Crichton	/wiki/A_Fish_Called_Wanda	A Fish Called Wanda
+1988		/wiki/Mike_Nichols	Mike Nichols	/wiki/Working_Girl	Working Girl
+1988		/wiki/Alan_Parker	Alan Parker	/wiki/Mississippi_Burning	Mississippi Burning
+1988		/wiki/Martin_Scorsese	Martin Scorsese	/wiki/The_Last_Temptation_of_Christ_(film)	The Last Temptation of Christ (film)
+1989	winner	/wiki/Oliver_Stone	Oliver Stone	/wiki/Born_on_the_Fourth_of_July_(film)	Born on the Fourth of July (film)
+1989		/wiki/Woody_Allen	Woody Allen	/wiki/Crimes_and_Misdemeanors	Crimes and Misdemeanors
+1989		/wiki/Kenneth_Branagh	Kenneth Branagh	/wiki/Henry_V_(1989_film)	Henry V (1989 film)
+1989		/wiki/Jim_Sheridan	Jim Sheridan	/wiki/My_Left_Foot_(film)	My Left Foot (film)
+1989		/wiki/Peter_Weir	Peter Weir	/wiki/Dead_Poets_Society	Dead Poets Society
+1990	winner	/wiki/Kevin_Costner	Kevin Costner	/wiki/Dances_with_Wolves	Dances with Wolves
+1990		/wiki/Francis_Ford_Coppola	Francis Ford Coppola	/wiki/The_Godfather_Part_III	The Godfather Part III
+1990		/wiki/Stephen_Frears	Stephen Frears	/wiki/The_Grifters_(film)	The Grifters (film)
+1990		/wiki/Barbet_Schroeder	Barbet Schroeder	/wiki/Reversal_of_Fortune	Reversal of Fortune
+1990		/wiki/Martin_Scorsese	Martin Scorsese	/wiki/Goodfellas	Goodfellas
+1991	winner	/wiki/Jonathan_Demme	Jonathan Demme	/wiki/The_Silence_of_the_Lambs_(film)	The Silence of the Lambs (film)
+1991		/wiki/Barry_Levinson	Barry Levinson	/wiki/Bugsy	Bugsy
+1991		/wiki/Ridley_Scott	Ridley Scott	/wiki/Thelma_%26_Louise	Thelma & Louise
+1991		/wiki/John_Singleton	John Singleton	/wiki/Boyz_n_the_Hood	Boyz n the Hood
+1991		/wiki/Oliver_Stone	Oliver Stone	/wiki/JFK_(film)	JFK (film)
+1992	winner	/wiki/Clint_Eastwood	Clint Eastwood	/wiki/Unforgiven	Unforgiven
+1992		/wiki/Robert_Altman	Robert Altman	/wiki/The_Player_(film)	The Player (film)
+1992		/wiki/Martin_Brest	Martin Brest	/wiki/Scent_of_a_Woman_(1992_film)	Scent of a Woman (1992 film)
+1992		/wiki/James_Ivory_(director)	James Ivory (director)	/wiki/Howards_End_(film)	Howards End (film)
+1992		/wiki/Neil_Jordan	Neil Jordan	/wiki/The_Crying_Game	The Crying Game
+1993	winner	/wiki/Steven_Spielberg	Steven Spielberg	/wiki/Schindler%27s_List	Schindler's List
+1993		/wiki/Robert_Altman	Robert Altman	/wiki/Short_Cuts	Short Cuts
+1993		/wiki/Jane_Campion	Jane Campion	/wiki/The_Piano	The Piano
+1993		/wiki/James_Ivory_(director)	James Ivory (director)	/wiki/The_Remains_of_the_Day_(film)	The Remains of the Day (film)
+1993		/wiki/Jim_Sheridan	Jim Sheridan	/wiki/In_the_Name_of_the_Father_(film)	In the Name of the Father (film)
+1994	winner	/wiki/Robert_Zemeckis	Robert Zemeckis	/wiki/Forrest_Gump	Forrest Gump
+1994		/wiki/Woody_Allen	Woody Allen	/wiki/Bullets_over_Broadway	Bullets over Broadway
+1994		/wiki/Robert_Redford	Robert Redford	/wiki/Quiz_Show_(1994_film)	Quiz Show (1994 film)
+1994		/wiki/Quentin_Tarantino	Quentin Tarantino	/wiki/Pulp_Fiction	Pulp Fiction
+1995	winner	/wiki/Mel_Gibson	Mel Gibson	/wiki/Braveheart	Braveheart
+1995		/wiki/Mike_Figgis	Mike Figgis	/wiki/Leaving_Las_Vegas	Leaving Las Vegas
+1995		/wiki/Chris_Noonan	Chris Noonan	/wiki/Babe_(film)	Babe (film)
+1995		/wiki/Michael_Radford	Michael Radford	/wiki/Il_Postino:_The_Postman	Il Postino: The Postman
+1995		/wiki/Tim_Robbins	Tim Robbins	/wiki/Dead_Man_Walking_(film)	Dead Man Walking (film)
+1996	winner	/wiki/Anthony_Minghella	Anthony Minghella	/wiki/The_English_Patient_(film)	The English Patient (film)
+1996		/wiki/Coen_brothers	Coen brothers	/wiki/Fargo_(film)	Fargo (film)
+1996		/wiki/Scott_Hicks	Scott Hicks	/wiki/Shine_(film)	Shine (film)
+1996		/wiki/Mike_Leigh	Mike Leigh	/wiki/Secrets_%26_Lies_(film)	Secrets & Lies (film)
+1997	winner	/wiki/James_Cameron	James Cameron	/wiki/Titanic_(1997_film)	Titanic (1997 film)
+1997		/wiki/Peter_Cattaneo	Peter Cattaneo	/wiki/The_Full_Monty	The Full Monty
+1997		/wiki/Atom_Egoyan	Atom Egoyan	/wiki/The_Sweet_Hereafter_(film)	The Sweet Hereafter (film)
+1997		/wiki/Curtis_Hanson	Curtis Hanson	/wiki/L.A._Confidential_(film)	L.A. Confidential (film)
+1997		/wiki/Gus_Van_Sant	Gus Van Sant	/wiki/Good_Will_Hunting	Good Will Hunting
+1998	winner	/wiki/Steven_Spielberg	Steven Spielberg	/wiki/Saving_Private_Ryan	Saving Private Ryan
+1998		/wiki/Roberto_Benigni	Roberto Benigni	/wiki/Life_Is_Beautiful	Life Is Beautiful
+1998		/wiki/John_Madden_(director)	John Madden (director)	/wiki/Shakespeare_in_Love	Shakespeare in Love
+1998		/wiki/Terence_Malick	Terence Malick	/wiki/The_Thin_Red_Line_(1998_film)	The Thin Red Line (1998 film)
+1998		/wiki/Peter_Weir	Peter Weir	/wiki/The_Truman_Show	The Truman Show
+1999	winner	/wiki/Sam_Mendes	Sam Mendes	/wiki/American_Beauty_(1999_film)	American Beauty (1999 film)
+1999		/wiki/Spike_Jonze	Spike Jonze	/wiki/Being_John_Malkovich	Being John Malkovich
+1999		/wiki/Michael_Mann_(director)	Michael Mann (director)	/wiki/The_Insider_(film)	The Insider (film)
+1999		/wiki/M._Night_Shyamalan	M. Night Shyamalan	/wiki/The_Sixth_Sense	The Sixth Sense
+2000	winner	/wiki/Steven_Soderbergh	Steven Soderbergh	/wiki/Traffic_(2000_film)	Traffic (2000 film)
+2000		/wiki/Stephen_Daldry	Stephen Daldry	/wiki/Billy_Elliot	Billy Elliot
+2000		/wiki/Ang_Lee	Ang Lee	/wiki/Crouching_Tiger,_Hidden_Dragon	Crouching Tiger, Hidden Dragon
+2000		/wiki/Ridley_Scott	Ridley Scott	/wiki/Gladiator_(2000_film)	Gladiator (2000 film)
+2000		/wiki/Steven_Soderbergh	Steven Soderbergh	/wiki/Erin_Brockovich_(film)	Erin Brockovich (film)
+2001	winner	/wiki/Ron_Howard	Ron Howard	/wiki/A_Beautiful_Mind_(film)	A Beautiful Mind (film)
+2001		/wiki/Robert_Altman	Robert Altman	/wiki/Gosford_Park	Gosford Park
+2001		/wiki/Peter_Jackson	Peter Jackson	/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring	The Lord of the Rings: The Fellowship of the Ring
+2001		/wiki/David_Lynch	David Lynch	/wiki/Mulholland_Drive_(film)	Mulholland Drive (film)
+2001		/wiki/Ridley_Scott	Ridley Scott	/wiki/Black_Hawk_Down_(film)	Black Hawk Down (film)
+2002	winner	/wiki/Roman_Polanski	Roman Polanski	/wiki/The_Pianist_(2002_film)	The Pianist (2002 film)
+2002		/wiki/Stephen_Daldry	Stephen Daldry	/wiki/The_Hours_(film)	The Hours (film)
+2002		/wiki/Rob_Marshall	Rob Marshall	/wiki/Chicago_(2002_film)	Chicago (2002 film)
+2002		/wiki/Martin_Scorsese	Martin Scorsese	/wiki/Gangs_of_New_York	Gangs of New York
+2003	winner	/wiki/Peter_Jackson	Peter Jackson	/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King	The Lord of the Rings: The Return of the King
+2003		/wiki/Sofia_Coppola	Sofia Coppola	/wiki/Lost_in_Translation_(film)	Lost in Translation (film)
+2003		/wiki/Clint_Eastwood	Clint Eastwood	/wiki/Mystic_River_(film)	Mystic River (film)
+2003		/wiki/Fernando_Meirelles	Fernando Meirelles	/wiki/City_of_God_(2002_film)	City of God (2002 film)
+2003		/wiki/Peter_Weir	Peter Weir	/wiki/Master_and_Commander:_The_Far_Side_of_the_World	Master and Commander: The Far Side of the World
+2004	winner	/wiki/Clint_Eastwood	Clint Eastwood	/wiki/Million_Dollar_Baby	Million Dollar Baby
+2004		/wiki/Taylor_Hackford	Taylor Hackford	/wiki/Ray_(film)	Ray (film)
+2004		/wiki/Mike_Leigh	Mike Leigh	/wiki/Vera_Drake	Vera Drake
+2004		/wiki/Alexander_Payne	Alexander Payne	/wiki/Sideways	Sideways
+2004		/wiki/Martin_Scorsese	Martin Scorsese	/wiki/The_Aviator_(2004_film)	The Aviator (2004 film)
+2005	winner	/wiki/Ang_Lee	Ang Lee	/wiki/Brokeback_Mountain	Brokeback Mountain
+2005		/wiki/George_Clooney	George Clooney	/wiki/Good_Night,_and_Good_Luck	Good Night, and Good Luck
+2005		/wiki/Paul_Haggis	Paul Haggis	/wiki/Crash_(2004_film)	Crash (2004 film)
+2005		/wiki/Bennett_Miller	Bennett Miller	/wiki/Capote_(film)	Capote (film)
+2005		/wiki/Steven_Spielberg	Steven Spielberg	/wiki/Munich_(film)	Munich (film)
+2006	winner	/wiki/Martin_Scorsese	Martin Scorsese	/wiki/The_Departed	The Departed
+2006		/wiki/Clint_Eastwood	Clint Eastwood	/wiki/Letters_from_Iwo_Jima	Letters from Iwo Jima
+2006		/wiki/Stephen_Frears	Stephen Frears	/wiki/The_Queen_(film)	The Queen (film)
+2006		/wiki/Paul_Greengrass	Paul Greengrass	/wiki/United_93_(film)	United 93 (film)
+2007	winner	/wiki/Coen_brothers	Coen brothers	/wiki/No_Country_for_Old_Men_(film)	No Country for Old Men (film)
+2007		/wiki/Paul_Thomas_Anderson	Paul Thomas Anderson	/wiki/There_Will_Be_Blood	There Will Be Blood
+2007		/wiki/Tony_Gilroy	Tony Gilroy	/wiki/Michael_Clayton_(film)	Michael Clayton (film)
+2007		/wiki/Jason_Reitman	Jason Reitman	/wiki/Juno_(film)	Juno (film)
+2007		/wiki/Julian_Schnabel	Julian Schnabel	/wiki/The_Diving_Bell_and_the_Butterfly_(film)	The Diving Bell and the Butterfly (film)
+2008	winner	/wiki/Danny_Boyle	Danny Boyle	/wiki/Slumdog_Millionaire	Slumdog Millionaire
+2008		/wiki/Stephen_Daldry	Stephen Daldry	/wiki/The_Reader_(2008_film)	The Reader (2008 film)
+2008		/wiki/David_Fincher	David Fincher	/wiki/The_Curious_Case_of_Benjamin_Button_(film)	The Curious Case of Benjamin Button (film)
+2008		/wiki/Ron_Howard	Ron Howard	/wiki/Frost/Nixon_(film)	Frost/Nixon (film)
+2008		/wiki/Gus_Van_Sant	Gus Van Sant	/wiki/Milk_(film)	Milk (film)
+2009	winner	/wiki/Kathryn_Bigelow	Kathryn Bigelow	/wiki/The_Hurt_Locker	The Hurt Locker
+2009		/wiki/James_Cameron	James Cameron	/wiki/Avatar_(2009_film)	Avatar (2009 film)
+2009		/wiki/Lee_Daniels	Lee Daniels	/wiki/Precious_(film)	Precious (film)
+2009		/wiki/Jason_Reitman	Jason Reitman	/wiki/Up_in_the_Air_(2009_film)	Up in the Air (2009 film)
+2009		/wiki/Quentin_Tarantino	Quentin Tarantino	/wiki/Inglourious_Basterds	Inglourious Basterds
+2010	winner	/wiki/Tom_Hooper	Tom Hooper	/wiki/The_King%27s_Speech	The King's Speech
+2010		/wiki/Darren_Aronofsky	Darren Aronofsky	/wiki/Black_Swan_(film)	Black Swan (film)
+2010		/wiki/Coen_brothers	Coen brothers	/wiki/True_Grit_(2010_film)	True Grit (2010 film)
+2010		/wiki/David_Fincher	David Fincher	/wiki/The_Social_Network	The Social Network
+2010		/wiki/David_O._Russell	David O. Russell	/wiki/The_Fighter	The Fighter
+2011	winner	/wiki/Michel_Hazanavicius	Michel Hazanavicius	/wiki/The_Artist_(film)	The Artist (film)
+2011		/wiki/Woody_Allen	Woody Allen	/wiki/Midnight_in_Paris	Midnight in Paris
+2011		/wiki/Terrence_Malick	Terrence Malick	/wiki/The_Tree_of_Life_(film)	The Tree of Life (film)
+2011		/wiki/Alexander_Payne	Alexander Payne	/wiki/The_Descendants	The Descendants
+2011		/wiki/Martin_Scorsese	Martin Scorsese	/wiki/Hugo_(film)	Hugo (film)
+2012	winner	/wiki/Ang_Lee	Ang Lee	/wiki/Life_of_Pi_(film)	Life of Pi (film)
+2012		/wiki/Michael_Haneke	Michael Haneke	/wiki/Amour_(2012_film)	Amour (2012 film)
+2012		/wiki/David_O._Russell	David O. Russell	/wiki/Silver_Linings_Playbook	Silver Linings Playbook
+2012		/wiki/Steven_Spielberg	Steven Spielberg	/wiki/Lincoln_(2012_film)	Lincoln (2012 film)
+2012		/wiki/Benh_Zeitlin	Benh Zeitlin	/wiki/Beasts_of_the_Southern_Wild	Beasts of the Southern Wild
+2013		/wiki/Steve_McQueen_(director)	Steve McQueen (director)	/wiki/12_Years_a_Slave_(film)	12 Years a Slave (film)
+2013		/wiki/Alexander_Payne	Alexander Payne	/wiki/Nebraska_(film)	Nebraska (film)
+2013		/wiki/David_O._Russell	David O. Russell	/wiki/American_Hustle	American Hustle
+2013		/wiki/Martin_Scorsese	Martin Scorsese	/wiki/The_Wolf_of_Wall_Street_(2013_film)	The Wolf of Wall Street (2013 film)
+2014		/wiki/Wes_Anderson	Wes Anderson	/wiki/The_Grand_Budapest_Hotel	The Grand Budapest Hotel
+2014		/wiki/Richard_Linklater	Richard Linklater	/wiki/Boyhood_(film)	Boyhood (film)
+2014		/wiki/Bennett_Miller	Bennett Miller	/wiki/Foxcatcher	Foxcatcher
+2014		/wiki/Morten_Tyldum	Morten Tyldum	/wiki/The_Imitation_Game	The Imitation Game
+2015		/wiki/Lenny_Abrahamson	Lenny Abrahamson	/wiki/Room_(2015_film)	Room (2015 film)
+2015		/wiki/Tom_McCarthy_(director)	Tom McCarthy (director)	/wiki/Spotlight_(film)	Spotlight (film)
+2015		/wiki/Adam_McKay	Adam McKay	/wiki/The_Big_Short_(film)	The Big Short (film)
+2015		/wiki/George_Miller_(director)	George Miller (director)	/wiki/Mad_Max:_Fury_Road	Mad Max: Fury Road

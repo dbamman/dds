@@ -1,0 +1,420 @@
+1981	DRAMA MOVIE	/wiki/On_Golden_Pond_(1981_film)
+1981	COMEDY MOVIE	/wiki/Arthur_(1981_film)
+1981	DRAMA ACTOR	/wiki/Henry_Fonda
+1981	DRAMA ACTOR MOVIE	/wiki/On_Golden_Pond_(1981_film)
+1981	COMEDY ACTOR	/wiki/Dudley_Moore
+1981	COMEDY ACTOR MOVIE	/wiki/Arthur_(1981_film)
+1981	DRAMA ACTRESS	/wiki/Meryl_Streep
+1981	DRAMA ACTRESS MOVIE	/wiki/The_French_Lieutenant%27s_Woman_(film)
+1981	COMEDY ACTRESS	/wiki/Bernadette_Peters
+1981	COMEDY ACTRESS MOVIE	/wiki/Pennies_from_Heaven_(1981_film)
+1981	DIRECTOR	/wiki/Warren_Beatty
+1981	DIRECTOR MOVIE	/wiki/Reds_(film)
+1982	DRAMA MOVIE	/wiki/E.T._the_Extra-Terrestrial
+1982	COMEDY MOVIE	/wiki/Tootsie
+1982	DRAMA ACTOR	/wiki/Ben_Kingsley
+1982	DRAMA ACTOR MOVIE	/wiki/Gandhi_(film)
+1982	COMEDY ACTOR	/wiki/Dustin_Hoffman
+1982	COMEDY ACTOR MOVIE	/wiki/Tootsie
+1982	DRAMA ACTRESS	/wiki/Meryl_Streep
+1982	DRAMA ACTRESS MOVIE	/wiki/Sophie%27s_Choice_(film)
+1982	COMEDY ACTRESS	/wiki/Julie_Andrews
+1982	COMEDY ACTRESS MOVIE	/wiki/Victor_Victoria
+1982	DIRECTOR	/wiki/Richard_Attenborough
+1982	DIRECTOR MOVIE	/wiki/Gandhi_(film)
+1983	DRAMA MOVIE	/wiki/Terms_of_Endearment
+1983	COMEDY MOVIE	/wiki/Yentl_(film)
+1983	DRAMA ACTOR	/wiki/Tom_Courtenay
+1983	DRAMA ACTOR MOVIE	/wiki/The_Dresser
+1983	COMEDY ACTOR	/wiki/Michael_Caine
+1983	COMEDY ACTOR MOVIE	/wiki/Educating_Rita_(film)
+1983	DRAMA ACTRESS	/wiki/Shirley_MacLaine
+1983	DRAMA ACTRESS MOVIE	/wiki/Terms_of_Endearment_(film)
+1983	COMEDY ACTRESS	/wiki/Julie_Walters
+1983	COMEDY ACTRESS MOVIE	/wiki/Educating_Rita_(film)
+1983	DIRECTOR	/wiki/Barbra_Streisand
+1983	DIRECTOR MOVIE	/wiki/Yentl_(film)
+1984	DRAMA MOVIE	/wiki/Amadeus_(film)
+1984	COMEDY MOVIE	/wiki/Romancing_the_Stone
+1984	DRAMA ACTOR	/wiki/F._Murray_Abraham
+1984	DRAMA ACTOR MOVIE	/wiki/Amadeus_(film)
+1984	COMEDY ACTOR	/wiki/Dudley_Moore
+1984	COMEDY ACTOR MOVIE	/wiki/Micki_%2B_Maude
+1984	DRAMA ACTRESS	/wiki/Sally_Field
+1984	DRAMA ACTRESS MOVIE	/wiki/Places_in_the_Heart
+1984	COMEDY ACTRESS	/wiki/Kathleen_Turner
+1984	COMEDY ACTRESS MOVIE	/wiki/Romancing_the_Stone
+1984	DIRECTOR	/wiki/Milo%C5%A1_Forman
+1984	DIRECTOR MOVIE	/wiki/Amadeus_(film)
+1985	DRAMA MOVIE	/wiki/Out_of_Africa_(film)
+1985	COMEDY MOVIE	/wiki/Prizzi%27s_Honor
+1985	DRAMA ACTOR	/wiki/Jon_Voight
+1985	DRAMA ACTOR MOVIE	/wiki/Runaway_Train_(film)
+1985	COMEDY ACTOR	/wiki/Jack_Nicholson
+1985	COMEDY ACTOR MOVIE	/wiki/Prizzi%27s_Honor
+1985	DRAMA ACTRESS	/wiki/Whoopi_Goldberg
+1985	DRAMA ACTRESS MOVIE	/wiki/The_Color_Purple_(film)
+1985	COMEDY ACTRESS	/wiki/Kathleen_Turner
+1985	COMEDY ACTRESS MOVIE	/wiki/Prizzi%27s_Honor
+1985	DIRECTOR	/wiki/John_Huston
+1985	DIRECTOR MOVIE	/wiki/Prizzi%27s_Honor
+1986	DRAMA MOVIE	/wiki/Platoon_(film)
+1986	COMEDY MOVIE	/wiki/Hannah_and_Her_Sisters
+1986	DRAMA ACTOR	/wiki/Bob_Hoskins
+1986	DRAMA ACTOR MOVIE	/wiki/Mona_Lisa_(film)
+1986	COMEDY ACTOR	/wiki/Paul_Hogan
+1986	COMEDY ACTOR MOVIE	/wiki/%22Crocodile%22_Dundee
+1986	DRAMA ACTRESS	/wiki/Marlee_Matlin
+1986	DRAMA ACTRESS MOVIE	/wiki/Children_of_a_Lesser_God
+1986	COMEDY ACTRESS	/wiki/Sissy_Spacek
+1986	COMEDY ACTRESS MOVIE	/wiki/Crimes_of_the_Heart_(film)
+1986	DIRECTOR	/wiki/Oliver_Stone
+1986	DIRECTOR MOVIE	/wiki/Platoon_(film)
+1987	DRAMA MOVIE	/wiki/The_Last_Emperor
+1987	COMEDY MOVIE	/wiki/Hope_and_Glory_(film)
+1987	DRAMA ACTOR	/wiki/Michael_Douglas
+1987	DRAMA ACTOR MOVIE	/wiki/Wall_Street_(1987_film)
+1987	COMEDY ACTOR	/wiki/Robin_Williams
+1987	COMEDY ACTOR MOVIE	/wiki/Good_Morning,_Vietnam
+1987	DRAMA ACTRESS	/wiki/Sally_Kirkland
+1987	DRAMA ACTRESS MOVIE	/wiki/Anna_(1987_film)
+1987	COMEDY ACTRESS	/wiki/Cher
+1987	COMEDY ACTRESS MOVIE	/wiki/Moonstruck
+1987	DIRECTOR	/wiki/Bernardo_Bertolucci
+1987	DIRECTOR MOVIE	/wiki/The_Last_Emperor
+1988	DRAMA MOVIE	/wiki/Rain_Man
+1988	COMEDY MOVIE	/wiki/Working_Girl
+1988	DRAMA ACTOR	/wiki/Dustin_Hoffman
+1988	DRAMA ACTOR MOVIE	/wiki/Rain_Man
+1988	COMEDY ACTOR	/wiki/Tom_Hanks
+1988	COMEDY ACTOR MOVIE	/wiki/Big_(film)
+1988	DRAMA ACTRESS	/wiki/Jodie_Foster
+1988	DRAMA ACTRESS MOVIE	/wiki/The_Accused_(1988_film)
+1988	COMEDY ACTRESS	/wiki/Melanie_Griffith
+1988	COMEDY ACTRESS MOVIE	/wiki/Working_Girl
+1988	DIRECTOR	/wiki/Clint_Eastwood
+1988	DIRECTOR MOVIE	/wiki/Bird_(film)
+1989	DRAMA MOVIE	/wiki/Born_on_the_Fourth_of_July_(film)
+1989	COMEDY MOVIE	/wiki/Driving_Miss_Daisy
+1989	DRAMA ACTOR	/wiki/Tom_Cruise
+1989	DRAMA ACTOR MOVIE	/wiki/Born_on_the_Fourth_of_July_(film)
+1989	COMEDY ACTOR	/wiki/Morgan_Freeman
+1989	COMEDY ACTOR MOVIE	/wiki/Driving_Miss_Daisy
+1989	DRAMA ACTRESS	/wiki/Michelle_Pfeiffer
+1989	DRAMA ACTRESS MOVIE	/wiki/The_Fabulous_Baker_Boys
+1989	COMEDY ACTRESS	/wiki/Jessica_Tandy
+1989	COMEDY ACTRESS MOVIE	/wiki/Driving_Miss_Daisy
+1989	DIRECTOR	/wiki/Oliver_Stone
+1989	DIRECTOR MOVIE	/wiki/Born_on_the_Fourth_of_July_(film)
+1990	DRAMA MOVIE	/wiki/Dances_with_Wolves
+1990	COMEDY MOVIE	/wiki/Green_Card_(film)
+1990	DRAMA ACTOR	/wiki/Jeremy_Irons
+1990	DRAMA ACTOR MOVIE	/wiki/Reversal_of_Fortune
+1990	COMEDY ACTOR	/wiki/G%C3%A9rard_Depardieu
+1990	COMEDY ACTOR MOVIE	/wiki/Green_Card_(film)
+1990	DRAMA ACTRESS	/wiki/Kathy_Bates
+1990	DRAMA ACTRESS MOVIE	/wiki/Misery_(film)
+1990	COMEDY ACTRESS	/wiki/Julia_Roberts
+1990	COMEDY ACTRESS MOVIE	/wiki/Pretty_Woman
+1990	DIRECTOR	/wiki/Kevin_Costner
+1990	DIRECTOR MOVIE	/wiki/Dances_with_Wolves
+1991	DRAMA MOVIE	/wiki/Bugsy
+1991	COMEDY MOVIE	/wiki/Beauty_and_the_Beast_(1991_film)
+1991	DRAMA ACTOR	/wiki/Nick_Nolte
+1991	DRAMA ACTOR MOVIE	/wiki/The_Prince_of_Tides
+1991	COMEDY ACTOR	/wiki/Robin_Williams
+1991	COMEDY ACTOR MOVIE	/wiki/The_Fisher_King_(film)
+1991	DRAMA ACTRESS	/wiki/Jodie_Foster
+1991	DRAMA ACTRESS MOVIE	/wiki/The_Silence_of_the_Lambs_(film)
+1991	COMEDY ACTRESS	/wiki/Bette_Midler
+1991	COMEDY ACTRESS MOVIE	/wiki/For_the_Boys
+1991	DIRECTOR	/wiki/Oliver_Stone
+1991	DIRECTOR MOVIE	/wiki/JFK_(film)
+1992	DRAMA MOVIE	/wiki/Scent_of_a_Woman_(1992_film)
+1992	COMEDY MOVIE	/wiki/The_Player_(film)
+1992	DRAMA ACTOR	/wiki/Al_Pacino
+1992	DRAMA ACTOR MOVIE	/wiki/Scent_of_a_Woman_(1992_film)
+1992	COMEDY ACTOR	/wiki/Tim_Robbins
+1992	COMEDY ACTOR MOVIE	/wiki/The_Player_(film)
+1992	DRAMA ACTRESS	/wiki/Emma_Thompson
+1992	DRAMA ACTRESS MOVIE	/wiki/Howards_End_(film)
+1992	COMEDY ACTRESS	/wiki/Miranda_Richardson
+1992	COMEDY ACTRESS MOVIE	/wiki/Enchanted_April_(1992_film)
+1992	DIRECTOR	/wiki/Clint_Eastwood
+1992	DIRECTOR MOVIE	/wiki/Unforgiven
+1993	DRAMA MOVIE	/wiki/Schindler%27s_List
+1993	COMEDY MOVIE	/wiki/Mrs._Doubtfire
+1993	DRAMA ACTOR	/wiki/Tom_Hanks
+1993	DRAMA ACTOR MOVIE	/wiki/Philadelphia_(film)
+1993	COMEDY ACTOR	/wiki/Robin_Williams
+1993	COMEDY ACTOR MOVIE	/wiki/Mrs._Doubtfire
+1993	DRAMA ACTRESS	/wiki/Holly_Hunter
+1993	DRAMA ACTRESS MOVIE	/wiki/The_Piano
+1993	COMEDY ACTRESS	/wiki/Angela_Bassett
+1993	COMEDY ACTRESS MOVIE	/wiki/What%27s_Love_Got_to_Do_with_It_(film)
+1993	DIRECTOR	/wiki/Steven_Spielberg
+1993	DIRECTOR MOVIE	/wiki/Schindler%27s_List
+1994	DRAMA MOVIE	/wiki/Forrest_Gump
+1994	COMEDY MOVIE	/wiki/The_Lion_King
+1994	DRAMA ACTOR	/wiki/Tom_Hanks
+1994	DRAMA ACTOR MOVIE	/wiki/Forrest_Gump
+1994	COMEDY ACTOR	/wiki/Hugh_Grant
+1994	COMEDY ACTOR MOVIE	/wiki/Four_Weddings_and_a_Funeral
+1994	DRAMA ACTRESS	/wiki/Jessica_Lange
+1994	DRAMA ACTRESS MOVIE	/wiki/Blue_Sky_(film)
+1994	COMEDY ACTRESS	/wiki/Jamie_Lee_Curtis
+1994	COMEDY ACTRESS MOVIE	/wiki/True_Lies
+1994	DIRECTOR	/wiki/Robert_Zemeckis
+1994	DIRECTOR MOVIE	/wiki/Forrest_Gump
+1995	DRAMA MOVIE	/wiki/Sense_and_Sensibility_(film)
+1995	COMEDY MOVIE	/wiki/Babe_(film)
+1995	DRAMA ACTOR	/wiki/Nicolas_Cage
+1995	DRAMA ACTOR MOVIE	/wiki/Leaving_Las_Vegas
+1995	COMEDY ACTOR	/wiki/John_Travolta
+1995	COMEDY ACTOR MOVIE	/wiki/Get_Shorty_(film)
+1995	DRAMA ACTRESS	/wiki/Sharon_Stone
+1995	DRAMA ACTRESS MOVIE	/wiki/Casino_(film)
+1995	COMEDY ACTRESS	/wiki/Nicole_Kidman
+1995	COMEDY ACTRESS MOVIE	/wiki/To_Die_For
+1995	DIRECTOR	/wiki/Mel_Gibson
+1995	DIRECTOR MOVIE	/wiki/Braveheart
+1996	DRAMA MOVIE	/wiki/The_English_Patient_(film)
+1996	COMEDY MOVIE	/wiki/Evita_(1996_film)
+1996	DRAMA ACTOR	/wiki/Geoffrey_Rush
+1996	DRAMA ACTOR MOVIE	/wiki/Shine_(film)
+1996	COMEDY ACTOR	/wiki/Tom_Cruise
+1996	COMEDY ACTOR MOVIE	/wiki/Jerry_Maguire
+1996	DRAMA ACTRESS	/wiki/Brenda_Blethyn
+1996	DRAMA ACTRESS MOVIE	/wiki/Secrets_%26_Lies_(film)
+1996	COMEDY ACTRESS	/wiki/Madonna_(entertainer)
+1996	COMEDY ACTRESS MOVIE	/wiki/Evita_(1996_film)
+1996	DIRECTOR	/wiki/Milo%C5%A1_Forman
+1996	DIRECTOR MOVIE	/wiki/The_People_vs._Larry_Flynt
+1997	DRAMA MOVIE	/wiki/Titanic_(1997_film)
+1997	COMEDY MOVIE	/wiki/As_Good_as_It_Gets
+1997	DRAMA ACTOR	/wiki/Peter_Fonda
+1997	DRAMA ACTOR MOVIE	/wiki/Ulee%27s_Gold
+1997	COMEDY ACTOR	/wiki/Jack_Nicholson
+1997	COMEDY ACTOR MOVIE	/wiki/As_Good_as_It_Gets
+1997	DRAMA ACTRESS	/wiki/Judi_Dench
+1997	DRAMA ACTRESS MOVIE	/wiki/Mrs._Brown_(film)
+1997	COMEDY ACTRESS	/wiki/Helen_Hunt
+1997	COMEDY ACTRESS MOVIE	/wiki/As_Good_as_It_Gets
+1997	DIRECTOR	/wiki/James_Cameron
+1997	DIRECTOR MOVIE	/wiki/Titanic_(1997_film)
+1998	DRAMA MOVIE	/wiki/Saving_Private_Ryan
+1998	COMEDY MOVIE	/wiki/Shakespeare_in_Love
+1998	DRAMA ACTOR	/wiki/Jim_Carrey
+1998	DRAMA ACTOR MOVIE	/wiki/The_Truman_Show
+1998	COMEDY ACTOR	/wiki/Michael_Caine
+1998	COMEDY ACTOR MOVIE	/wiki/Little_Voice_(film)
+1998	DRAMA ACTRESS	/wiki/Cate_Blanchett
+1998	DRAMA ACTRESS MOVIE	/wiki/Elizabeth_(film)
+1998	COMEDY ACTRESS	/wiki/Gwyneth_Paltrow
+1998	COMEDY ACTRESS MOVIE	/wiki/Shakespeare_in_Love
+1998	DIRECTOR	/wiki/Steven_Spielberg
+1998	DIRECTOR MOVIE	/wiki/Saving_Private_Ryan
+1999	DRAMA MOVIE	/wiki/American_Beauty_(1999_film)
+1999	COMEDY MOVIE	/wiki/Toy_Story_2
+1999	DRAMA ACTOR	/wiki/Denzel_Washington
+1999	DRAMA ACTOR MOVIE	/wiki/The_Hurricane_(1999_film)
+1999	COMEDY ACTOR	/wiki/Jim_Carrey
+1999	COMEDY ACTOR MOVIE	/wiki/Man_on_the_Moon_(film)
+1999	DRAMA ACTRESS	/wiki/Hilary_Swank
+1999	DRAMA ACTRESS MOVIE	/wiki/Boys_Don%27t_Cry_(film)
+1999	COMEDY ACTRESS	/wiki/Janet_McTeer
+1999	COMEDY ACTRESS MOVIE	/wiki/Tumbleweeds_(1999_film)
+1999	DIRECTOR	/wiki/Sam_Mendes
+1999	DIRECTOR MOVIE	/wiki/American_Beauty_(1999_film)
+2000	DRAMA MOVIE	/wiki/Gladiator_(2000_film)
+2000	COMEDY MOVIE	/wiki/Almost_Famous
+2000	DRAMA ACTOR	/wiki/Tom_Hanks
+2000	DRAMA ACTOR MOVIE	/wiki/Cast_Away
+2000	COMEDY ACTOR	/wiki/George_Clooney
+2000	COMEDY ACTOR MOVIE	/wiki/O_Brother,_Where_Art_Thou%3F
+2000	DRAMA ACTRESS	/wiki/Julia_Roberts
+2000	DRAMA ACTRESS MOVIE	/wiki/Erin_Brockovich_(film)
+2000	COMEDY ACTRESS	/wiki/Ren%C3%A9e_Zellweger
+2000	COMEDY ACTRESS MOVIE	/wiki/Nurse_Betty
+2000	DIRECTOR	/wiki/Ang_Lee
+2000	DIRECTOR MOVIE	/wiki/Crouching_Tiger,_Hidden_Dragon
+2001	DRAMA MOVIE	/wiki/A_Beautiful_Mind_(film)
+2001	COMEDY MOVIE	/wiki/Moulin_Rouge!
+2001	DRAMA ACTOR	/wiki/Russell_Crowe
+2001	DRAMA ACTOR MOVIE	/wiki/A_Beautiful_Mind_(film)
+2001	COMEDY ACTOR	/wiki/Gene_Hackman
+2001	COMEDY ACTOR MOVIE	/wiki/The_Royal_Tenenbaums
+2001	DRAMA ACTRESS	/wiki/Sissy_Spacek
+2001	DRAMA ACTRESS MOVIE	/wiki/In_the_Bedroom
+2001	COMEDY ACTRESS	/wiki/Nicole_Kidman
+2001	COMEDY ACTRESS MOVIE	/wiki/Moulin_Rouge!
+2001	DIRECTOR	/wiki/Robert_Altman
+2001	DIRECTOR MOVIE	/wiki/Gosford_Park
+2002	DRAMA MOVIE	/wiki/The_Hours_(film)
+2002	COMEDY MOVIE	/wiki/Chicago_(2002_film)
+2002	DRAMA ACTOR	/wiki/Jack_Nicholson
+2002	DRAMA ACTOR MOVIE	/wiki/About_Schmidt
+2002	COMEDY ACTOR	/wiki/Richard_Gere
+2002	COMEDY ACTOR MOVIE	/wiki/Chicago_(2002_film)
+2002	DRAMA ACTRESS	/wiki/Nicole_Kidman
+2002	DRAMA ACTRESS MOVIE	/wiki/The_Hours_(film)
+2002	COMEDY ACTRESS	/wiki/Ren%C3%A9e_Zellweger
+2002	COMEDY ACTRESS MOVIE	/wiki/Chicago_(2002_film)
+2002	DIRECTOR	/wiki/Martin_Scorsese
+2002	DIRECTOR MOVIE	/wiki/Gangs_of_New_York
+2003	DRAMA MOVIE	/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King
+2003	COMEDY MOVIE	/wiki/Lost_in_Translation_(film)
+2003	DRAMA ACTOR	/wiki/Sean_Penn
+2003	DRAMA ACTOR MOVIE	/wiki/Mystic_River_(film)
+2003	COMEDY ACTOR	/wiki/Bill_Murray
+2003	COMEDY ACTOR MOVIE	/wiki/Lost_in_Translation_(film)
+2003	DRAMA ACTRESS	/wiki/Charlize_Theron
+2003	DRAMA ACTRESS MOVIE	/wiki/Monster_(2003_film)
+2003	COMEDY ACTRESS	/wiki/Diane_Keaton
+2003	COMEDY ACTRESS MOVIE	/wiki/Something%27s_Gotta_Give_(film)
+2003	DIRECTOR	/wiki/Peter_Jackson
+2003	DIRECTOR MOVIE	/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King
+2004	DRAMA MOVIE	/wiki/The_Aviator_(2004_film)
+2004	COMEDY MOVIE	/wiki/Sideways
+2004	DRAMA ACTOR	/wiki/Leonardo_DiCaprio
+2004	DRAMA ACTOR MOVIE	/wiki/The_Aviator_(2004_film)
+2004	COMEDY ACTOR	/wiki/Jamie_Foxx
+2004	COMEDY ACTOR MOVIE	/wiki/Ray_(film)
+2004	DRAMA ACTRESS	/wiki/Hilary_Swank
+2004	DRAMA ACTRESS MOVIE	/wiki/Million_Dollar_Baby
+2004	COMEDY ACTRESS	/wiki/Annette_Bening
+2004	COMEDY ACTRESS MOVIE	/wiki/Being_Julia
+2004	DIRECTOR	/wiki/Clint_Eastwood
+2004	DIRECTOR MOVIE	/wiki/Million_Dollar_Baby
+2005	DRAMA MOVIE	/wiki/Brokeback_Mountain
+2005	COMEDY MOVIE	/wiki/Walk_the_Line
+2005	DRAMA ACTOR	/wiki/Philip_Seymour_Hoffman
+2005	DRAMA ACTOR MOVIE	/wiki/Capote_(film)
+2005	COMEDY ACTOR	/wiki/Joaquin_Phoenix
+2005	COMEDY ACTOR MOVIE	/wiki/Walk_the_Line
+2005	DRAMA ACTRESS	/wiki/Felicity_Huffman
+2005	DRAMA ACTRESS MOVIE	/wiki/Transamerica_(film)
+2005	COMEDY ACTRESS	/wiki/Reese_Witherspoon
+2005	COMEDY ACTRESS MOVIE	/wiki/Walk_the_Line
+2005	DIRECTOR	/wiki/Ang_Lee
+2005	DIRECTOR MOVIE	/wiki/Brokeback_Mountain
+2006	DRAMA MOVIE	/wiki/Babel_(film)
+2006	COMEDY MOVIE	/wiki/Dreamgirls_(film)
+2006	DRAMA ACTOR	/wiki/Forest_Whitaker
+2006	DRAMA ACTOR MOVIE	/wiki/The_Last_King_of_Scotland_(film)
+2006	COMEDY ACTOR	/wiki/Sacha_Baron_Cohen
+2006	COMEDY ACTOR MOVIE	/wiki/Borat:_Cultural_Learnings_of_America_for_Make_Benefit_Glorious_Nation_of_Kazakhstan
+2006	DRAMA ACTRESS	/wiki/Helen_Mirren
+2006	DRAMA ACTRESS MOVIE	/wiki/The_Queen_(film)
+2006	COMEDY ACTRESS	/wiki/Meryl_Streep
+2006	COMEDY ACTRESS MOVIE	/wiki/The_Devil_Wears_Prada_(film)
+2006	DIRECTOR	/wiki/Martin_Scorsese
+2006	DIRECTOR MOVIE	/wiki/The_Departed
+2007	DRAMA MOVIE	/wiki/Atonement_(film)
+2007	COMEDY MOVIE	/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(2007_film)
+2007	DRAMA ACTOR	/wiki/Daniel_Day-Lewis
+2007	DRAMA ACTOR MOVIE	/wiki/There_Will_Be_Blood
+2007	COMEDY ACTOR	/wiki/Johnny_Depp
+2007	COMEDY ACTOR MOVIE	/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(2007_film)
+2007	DRAMA ACTRESS	/wiki/Julie_Christie
+2007	DRAMA ACTRESS MOVIE	/wiki/Away_from_Her
+2007	COMEDY ACTRESS	/wiki/Marion_Cotillard
+2007	COMEDY ACTRESS MOVIE	/wiki/La_Vie_en_rose_(film)
+2007	DIRECTOR	/wiki/Julian_Schnabel
+2007	DIRECTOR MOVIE	/wiki/The_Diving_Bell_and_the_Butterfly
+2008	DRAMA MOVIE	/wiki/Slumdog_Millionaire
+2008	COMEDY MOVIE	/wiki/Vicky_Cristina_Barcelona
+2008	DRAMA ACTOR	/wiki/Mickey_Rourke
+2008	DRAMA ACTOR MOVIE	/wiki/The_Wrestler_(2008_film)
+2008	COMEDY ACTOR	/wiki/Colin_Farrell
+2008	COMEDY ACTOR MOVIE	/wiki/In_Bruges
+2008	DRAMA ACTRESS	/wiki/Kate_Winslet
+2008	DRAMA ACTRESS MOVIE	/wiki/Revolutionary_Road_(film)
+2008	COMEDY ACTRESS	/wiki/Sally_Hawkins
+2008	COMEDY ACTRESS MOVIE	/wiki/Happy-Go-Lucky
+2008	DIRECTOR	/wiki/Danny_Boyle
+2008	DIRECTOR MOVIE	/wiki/Slumdog_Millionaire
+2009	DRAMA MOVIE	/wiki/Avatar_(2009_film)
+2009	COMEDY MOVIE	/wiki/The_Hangover_(film)
+2009	DRAMA ACTOR	/wiki/Jeff_Bridges
+2009	DRAMA ACTOR MOVIE	/wiki/Crazy_Heart
+2009	COMEDY ACTOR	/wiki/Robert_Downey,_Jr.
+2009	COMEDY ACTOR MOVIE	/wiki/Sherlock_Holmes_(2009_film)
+2009	DRAMA ACTRESS	/wiki/Sandra_Bullock
+2009	DRAMA ACTRESS MOVIE	/wiki/The_Blind_Side_(film)
+2009	COMEDY ACTRESS	/wiki/Meryl_Streep
+2009	COMEDY ACTRESS MOVIE	/wiki/Julie_%26_Julia
+2009	DIRECTOR	/wiki/James_Cameron
+2009	DIRECTOR MOVIE	/wiki/Avatar_(2009_film)
+2010	DRAMA MOVIE	/wiki/The_Social_Network
+2010	COMEDY MOVIE	/wiki/The_Kids_Are_All_Right_(film)
+2010	DRAMA ACTOR	/wiki/Colin_Firth
+2010	DRAMA ACTOR MOVIE	/wiki/The_King%27s_Speech
+2010	COMEDY ACTOR	/wiki/Paul_Giamatti
+2010	COMEDY ACTOR MOVIE	/wiki/Barney%27s_Version_(film)
+2010	DRAMA ACTRESS	/wiki/Natalie_Portman
+2010	DRAMA ACTRESS MOVIE	/wiki/Black_Swan_(film)
+2010	COMEDY ACTRESS	/wiki/Annette_Bening
+2010	COMEDY ACTRESS MOVIE	/wiki/The_Kids_Are_All_Right_(film)
+2010	DIRECTOR	/wiki/David_Fincher
+2010	DIRECTOR MOVIE	/wiki/The_Social_Network
+2011	DRAMA MOVIE	/wiki/The_Descendants_(film)
+2011	COMEDY MOVIE	/wiki/The_Artist_(film)
+2011	DRAMA ACTOR	/wiki/George_Clooney
+2011	DRAMA ACTOR MOVIE	/wiki/The_Descendants_(film)
+2011	COMEDY ACTOR	/wiki/Jean_Dujardin
+2011	COMEDY ACTOR MOVIE	/wiki/The_Artist_(film)
+2011	DRAMA ACTRESS	/wiki/Meryl_Streep
+2011	DRAMA ACTRESS MOVIE	/wiki/The_Iron_Lady_(film)
+2011	COMEDY ACTRESS	/wiki/Michelle_Williams_(actress)
+2011	COMEDY ACTRESS MOVIE	/wiki/My_Week_with_Marilyn
+2011	DIRECTOR	/wiki/Martin_Scorsese
+2011	DIRECTOR MOVIE	/wiki/Hugo_(film)
+2012	DRAMA MOVIE	/wiki/Argo_(2012_film)
+2012	COMEDY MOVIE	/wiki/Les_Mis%C3%A9rables_(2012_film)
+2012	DRAMA ACTOR	/wiki/Daniel_Day-Lewis
+2012	DRAMA ACTOR MOVIE	/wiki/Lincoln_(2012_film)
+2012	COMEDY ACTOR	/wiki/Hugh_Jackman
+2012	COMEDY ACTOR MOVIE	/wiki/Les_Mis%C3%A9rables_(2012_film)
+2012	DRAMA ACTRESS	/wiki/Jessica_Chastain
+2012	DRAMA ACTRESS MOVIE	/wiki/Zero_Dark_Thirty
+2012	COMEDY ACTRESS	/wiki/Jennifer_Lawrence
+2012	COMEDY ACTRESS MOVIE	/wiki/Silver_Linings_Playbook
+2012	DIRECTOR	/wiki/Ben_Affleck
+2012	DIRECTOR MOVIE	/wiki/Argo_(2012_film)
+2013	DRAMA MOVIE	/wiki/12_Years_a_Slave_(film)
+2013	COMEDY MOVIE	/wiki/American_Hustle_(2013_film)
+2013	DRAMA ACTOR	/wiki/Matthew_McConaughey
+2013	DRAMA ACTOR MOVIE	/wiki/Dallas_Buyers_Club
+2013	COMEDY ACTOR	/wiki/Leonardo_DiCaprio
+2013	COMEDY ACTOR MOVIE	/wiki/The_Wolf_of_Wall_Street_(2013_film)
+2013	DRAMA ACTRESS	/wiki/Cate_Blanchett
+2013	DRAMA ACTRESS MOVIE	/wiki/Blue_Jasmine
+2013	COMEDY ACTRESS	/wiki/Amy_Adams
+2013	COMEDY ACTRESS MOVIE	/wiki/American_Hustle_(2013_film)
+2013	DIRECTOR	/wiki/Alfonso_Cuar%C3%B3n
+2013	DIRECTOR MOVIE	/wiki/Gravity_(film)
+2014	DRAMA MOVIE	/wiki/Boyhood_(film)
+2014	COMEDY MOVIE	/wiki/The_Grand_Budapest_Hotel
+2014	DRAMA ACTOR	/wiki/Eddie_Redmayne
+2014	DRAMA ACTOR MOVIE	/wiki/The_Theory_of_Everything_(2014_film)
+2014	COMEDY ACTOR	/wiki/Michael_Keaton
+2014	COMEDY ACTOR MOVIE	/wiki/Birdman_(2014_film)
+2014	DRAMA ACTRESS	/wiki/Julianne_Moore
+2014	DRAMA ACTRESS MOVIE	/wiki/Still_Alice
+2014	COMEDY ACTRESS	/wiki/Amy_Adams
+2014	COMEDY ACTRESS MOVIE	/wiki/Big_Eyes
+2014	DIRECTOR	/wiki/Richard_Linklater
+2014	DIRECTOR MOVIE	/wiki/Boyhood_(film)
+2015	DRAMA MOVIE	/wiki/The_Revenant_(2015_film)
+2015	COMEDY MOVIE	/wiki/The_Martian_(film)
+2015	DRAMA ACTOR	/wiki/Leonardo_DiCaprio
+2015	DRAMA ACTOR MOVIE	/wiki/The_Revenant_(2015_film)
+2015	COMEDY ACTOR	/wiki/Matt_Damon
+2015	COMEDY ACTOR MOVIE	/wiki/The_Martian_(film)
+2015	DRAMA ACTRESS	/wiki/Brie_Larson
+2015	DRAMA ACTRESS MOVIE	/wiki/Room_(2015_film)
+2015	COMEDY ACTRESS	/wiki/Jennifer_Lawrence
+2015	COMEDY ACTRESS MOVIE	/wiki/Joy_(film)
+2015	DIRECTOR	/wiki/Alejandro_I%C3%B1%C3%A1rritu
+2015	DIRECTOR MOVIE	/wiki/The_Revenant_(2015_film)

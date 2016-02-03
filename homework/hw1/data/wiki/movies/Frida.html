@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Frida - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Frida","wgTitle":"Frida","wgCurRevisionId":698875446,"wgRevisionId":698875446,"wgArticleId":509792,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["2002 films","2000s drama films","American drama films","American films","American LGBT-related films","Films that won the Best Original Score Academy Award","Biographical films about artists","Bisexuality-related films","English-language films","Estudios Churubusco films","Feminist films","Films about communism","Films based on biographies","Films directed by Julie Taymor","Films set in Mexico","Films set in the 1920s","Films set in the 1930s","Films set in the 1940s","Films shot in Mexico","Films that won the Academy Award for Best Makeup","Cultural depictions of Leon Trotsky","Miramax films","Frida Kahlo","Film scores by Elliot Goldenthal"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Frida","wgRelevantArticleId":509792,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/en/thumb/2/26/Fridaposter.jpg/69px-Fridaposter.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-au"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q35738","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.10" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Frida" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Frida&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Frida&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Frida" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.10/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Frida skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>Frida</i></h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="/wiki/Frida_(disambiguation)" title="Frida (disambiguation)" class="mw-disambig">Frida (disambiguation)</a>.</div>
+<div class="hatnote">For the Swedish singer, part of the group ABBA, known by the mononym Frida, see <a href="/wiki/Anni-Frid_Lyngstad" title="Anni-Frid Lyngstad">Anni-Frid Lyngstad</a>.</div>
+<table class="infobox vevent" style="width:22em;font-size:90%;">
+<tr>
+<th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-size:110%;font-style:italic;">Frida</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Fridaposter.jpg" class="image"><img alt="Fridaposter.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/2/26/Fridaposter.jpg/220px-Fridaposter.jpg" width="220" height="320" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/2/26/Fridaposter.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/2/26/Fridaposter.jpg 2x" data-file-width="307" data-file-height="446" /></a>
+<div style="font-size:95%;padding:0.35em 0.35em 0.25em;line-height:1.25em;">Promotional poster</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Directed by</th>
+<td style="line-height:1.3em;"><a href="/wiki/Julie_Taymor" title="Julie Taymor">Julie Taymor</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Produced by</th>
+<td style="line-height:1.3em;"><a href="/wiki/Sarah_Green_(film_producer)" title="Sarah Green (film producer)">Sarah Green</a><br />
+<a href="/wiki/Salma_Hayek" title="Salma Hayek">Salma Hayek</a><br />
+Jay Polstein<br />
+Lizz Speed<br />
+Nancy Hardin<br />
+Lindsay Flickinger<br />
+Roberto Sneider</td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Screenplay by</th>
+<td style="line-height:1.3em;"><a href="/wiki/Clancy_Sigal" title="Clancy Sigal">Clancy Sigal</a><br />
+Diane Lake<br />
+<a href="/wiki/Gregory_Nava" title="Gregory Nava">Gregory Nava</a><br />
+<a href="/wiki/Anna_Thomas" title="Anna Thomas">Anna Thomas</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Based on</th>
+<td style="line-height:1.3em;"><i><a href="/wiki/Frida:_A_Biography_of_Frida_Kahlo" title="Frida: A Biography of Frida Kahlo">Frida: A Biography of Frida Kahlo</a></i>&#160;<br />
+by Hayden Herrera</td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Starring</th>
+<td style="line-height:1.3em;">Salma Hayek<br />
+<a href="/wiki/Alfred_Molina" title="Alfred Molina">Alfred Molina</a><br />
+<a href="/wiki/Valeria_Golino" title="Valeria Golino">Valeria Golino</a><br />
+<a href="/wiki/Mia_Maestro" title="Mia Maestro" class="mw-redirect">Mia Maestro</a><br />
+<a href="/wiki/Roger_Rees" title="Roger Rees">Roger Rees</a><br />
+<a href="/wiki/Geoffrey_Rush" title="Geoffrey Rush">Geoffrey Rush</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Music by</th>
+<td style="line-height:1.3em;"><a href="/wiki/Elliot_Goldenthal" title="Elliot Goldenthal">Elliot Goldenthal</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Cinematography</th>
+<td style="line-height:1.3em;"><a href="/wiki/Rodrigo_Prieto" title="Rodrigo Prieto">Rodrigo Prieto</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Edited by</th>
+<td style="line-height:1.3em;"><a href="/wiki/Fran%C3%A7oise_Bonnot" title="Françoise Bonnot">Françoise Bonnot</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Production<br />
+company</div>
+</th>
+<td style="line-height:1.3em;">
+<div style="vertical-align:middle;"><a href="/wiki/Ventanarosa" title="Ventanarosa">Ventanarosa</a><br />
+<a href="/wiki/Lions_Gate_Films" title="Lions Gate Films" class="mw-redirect">Lions Gate Films</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Distributed by</th>
+<td style="line-height:1.3em;"><a href="/wiki/Miramax_Films" title="Miramax Films" class="mw-redirect">Miramax Films</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">
+<div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">Release dates</div>
+</th>
+<td style="line-height:1.3em;">
+<div class="plainlist">
+<ul>
+<li>August&#160;29,&#160;2002<span style="display:none">&#160;(<span class="bday dtstart published updated">2002-08-29</span>)</span></li>
+<li class="mw-empty-li"></li>
+<li class="mw-empty-li"></li>
+<li class="mw-empty-li"></li>
+<li class="mw-empty-li"></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">
+<div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">Running time</div>
+</th>
+<td style="line-height:1.3em;">123 minutes</td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Country</th>
+<td style="line-height:1.3em;">United States<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Language</th>
+<td style="line-height:1.3em;">English<br />
+Spanish<br />
+French<br />
+Russian</td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Budget</th>
+<td style="line-height:1.3em;">$12 million</td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Box office</th>
+<td style="line-height:1.3em;">$56.2 million<sup id="cite_ref-Mojo_2-0" class="reference"><a href="#cite_note-Mojo-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><i><b>Frida</b></i> is a 2002 American <a href="/wiki/Biopic" title="Biopic" class="mw-redirect">biopic</a> <a href="/wiki/Drama_film" title="Drama film" class="mw-redirect">drama film</a> which depicts the professional and private life of the <a href="/wiki/Surrealism" title="Surrealism">surrealist</a> Mexican <a href="/wiki/Painting" title="Painting">painter</a> <a href="/wiki/Frida_Kahlo" title="Frida Kahlo">Frida Kahlo</a>. It stars <a href="/wiki/Salma_Hayek" title="Salma Hayek">Salma Hayek</a> in her <a href="/wiki/Academy_Award" title="Academy Award" class="mw-redirect">Academy Award</a>-nominated portrayal as Kahlo and <a href="/wiki/Alfred_Molina" title="Alfred Molina">Alfred Molina</a> as her husband, <a href="/wiki/Diego_Rivera" title="Diego Rivera">Diego Rivera</a>. The movie was adapted by <a href="/wiki/Clancy_Sigal" title="Clancy Sigal">Clancy Sigal</a>, Diane Lake, <a href="/wiki/Gregory_Nava" title="Gregory Nava">Gregory Nava</a> and <a href="/wiki/Anna_Thomas" title="Anna Thomas">Anna Thomas</a> from the book <i><a href="/wiki/Frida_(biography)" title="Frida (biography)" class="mw-redirect">Frida: A Biography of Frida Kahlo</a></i> by Hayden Herrera. It was directed by <a href="/wiki/Julie_Taymor" title="Julie Taymor">Julie Taymor</a>. It won two <a href="/wiki/Academy_Award" title="Academy Award" class="mw-redirect">Academy Awards</a> for <a href="/wiki/Academy_Award_for_Best_Makeup_and_Hairstyling" title="Academy Award for Best Makeup and Hairstyling">Best Makeup</a> and <a href="/wiki/Academy_Award_for_Best_Original_Score" title="Academy Award for Best Original Score">Best Original Score</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Plot"><span class="tocnumber">1</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cast"><span class="tocnumber">2</span> <span class="toctext">Cast</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Allusions"><span class="tocnumber">3</span> <span class="toctext">Allusions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Production"><span class="tocnumber">4</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Release"><span class="tocnumber">5</span> <span class="toctext">Release</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Reception"><span class="tocnumber">6</span> <span class="toctext">Reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Box_office"><span class="tocnumber">6.1</span> <span class="toctext">Box office</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Critical_response"><span class="tocnumber">6.2</span> <span class="toctext">Critical response</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Accolades"><span class="tocnumber">6.3</span> <span class="toctext">Accolades</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Soundtrack"><span class="tocnumber">7</span> <span class="toctext">Soundtrack</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frida&amp;action=edit&amp;section=1" title="Edit section: Plot">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Frida</i> begins just before the <a href="/wiki/Psychological_trauma" title="Psychological trauma">traumatic</a> accident Frida Kahlo (<a href="/wiki/Salma_Hayek" title="Salma Hayek">Salma Hayek</a>) suffered at the age of 18 when a trolley bus collided with a motor bus she was riding. She is impaled by a metal pole and the injuries she sustained plague her for the rest of her life. To help her through <a href="/wiki/Convalescence" title="Convalescence">convalescence</a>, her father brings her a canvas upon which to start painting. Throughout the film, a scene starts as a painting, then slowly dissolves into a <a href="/wiki/Live-action" title="Live-action" class="mw-redirect">live-action</a> scene with actors.</p>
+<p><i>Frida</i> also details the artist's dysfunctional relationship with the <a href="/wiki/Mural" title="Mural">muralist</a> <a href="/wiki/Diego_Rivera" title="Diego Rivera">Diego Rivera</a> (<a href="/wiki/Alfred_Molina" title="Alfred Molina">Alfred Molina</a>). When Rivera proposes to Kahlo, she tells him she expects from him loyalty if not fidelity. Diego's appraisal of her painting ability is one of the reasons that she continues to paint. Throughout the marriage, Rivera cheats on her with a wide array of women, while the <a href="/wiki/Bisexuality" title="Bisexuality">bisexual</a> Kahlo takes on male and female lovers, including in one case having an affair with the same woman as Rivera.</p>
+<p>The two travel to New York City so that he may paint the mural <i><a href="/wiki/Man_at_the_Crossroads" title="Man at the Crossroads">Man at the Crossroads</a></i> at the <a href="/wiki/Rockefeller_Center" title="Rockefeller Center">Rockefeller Center</a>. While in the United States, Kahlo suffers a <a href="/wiki/Miscarriage" title="Miscarriage">miscarriage</a>, and her mother dies in Mexico. Rivera refuses to compromise his <a href="/wiki/Communist" title="Communist" class="mw-redirect">Communist</a> vision of the work to the needs of the patron, <a href="/wiki/Nelson_Rockefeller" title="Nelson Rockefeller">Nelson Rockefeller</a> (<a href="/wiki/Edward_Norton" title="Edward Norton">Edward Norton</a>); as a result, the mural is destroyed. The pair return to Mexico, with Rivera the more reluctant of the two.</p>
+<p>Kahlo's sister Cristina moves in with the two at their <a href="/wiki/San_%C3%81ngel" title="San Ángel">San Ángel</a> studio home to work as Rivera's assistant. Soon afterward, Kahlo discovers that Rivera is having an affair with her sister. She leaves him, and subsequently sinks into <a href="/wiki/Alcoholism" title="Alcoholism">alcoholism</a>. The couple reunite when he asks her to welcome and house <a href="/wiki/Leon_Trotsky" title="Leon Trotsky">Leon Trotsky</a> (<a href="/wiki/Geoffrey_Rush" title="Geoffrey Rush">Geoffrey Rush</a>), who has been granted <a href="/wiki/Political_asylum" title="Political asylum" class="mw-redirect">political asylum</a> in Mexico. She and Trotsky begin an affair, which forces the married Trotsky to leave the safety of his <a href="/wiki/Coyoac%C3%A1n" title="Coyoacán">Coyoacán</a> home.</p>
+<p>Kahlo leaves for Paris after Diego realizes she was unfaithful to him with Trotsky; although Rivera had little problem with Kahlo's other affairs, Trotsky was too important to Rivera to be intimately involved with his wife. When she returns to Mexico, he asks for a divorce. Soon afterwards, Trotsky is murdered in <a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a>. Rivera is temporarily a suspect, and Kahlo is incarcerated in his place when he is not found. Rivera helps get her released.</p>
+<p>Kahlo has her toes removed when they become <a href="/wiki/Gangrene" title="Gangrene">gangrenous</a>. Rivera asks her to remarry him, and she agrees. Her health continues to worsen, including the amputation of a leg, and she ultimately dies after finally having a <a href="/wiki/Solo_exhibition" title="Solo exhibition" class="mw-redirect">solo exhibition</a> of her paintings in Mexico.</p>
+<h2><span class="mw-headline" id="Cast">Cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frida&amp;action=edit&amp;section=2" title="Edit section: Cast">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Salma_Hayek" title="Salma Hayek">Salma Hayek</a> as <a href="/wiki/Frida_Kahlo" title="Frida Kahlo">Frida Kahlo</a></li>
+<li><a href="/wiki/Alfred_Molina" title="Alfred Molina">Alfred Molina</a> as <a href="/wiki/Diego_Rivera" title="Diego Rivera">Diego Rivera</a></li>
+<li><a href="/wiki/Geoffrey_Rush" title="Geoffrey Rush">Geoffrey Rush</a> as <a href="/wiki/Leon_Trotsky" title="Leon Trotsky">Leon Trotsky</a></li>
+<li><a href="/wiki/M%C3%ADa_Maestro" title="Mía Maestro">Mía Maestro</a> as Cristina Kahlo</li>
+<li><a href="/wiki/Ashley_Judd" title="Ashley Judd">Ashley Judd</a> as <a href="/wiki/Tina_Modotti" title="Tina Modotti">Tina Modotti</a></li>
+<li><a href="/wiki/Antonio_Banderas" title="Antonio Banderas">Antonio Banderas</a> as <a href="/wiki/David_Alfaro_Siqueiros" title="David Alfaro Siqueiros">David Alfaro Siqueiros</a></li>
+<li><a href="/wiki/Edward_Norton" title="Edward Norton">Edward Norton</a> as <a href="/wiki/Nelson_Rockefeller" title="Nelson Rockefeller">Nelson Rockefeller</a></li>
+<li><a href="/wiki/Diego_Luna" title="Diego Luna">Diego Luna</a> as Alejandro Gonzalez Arias</li>
+<li>Margarita Sanz as <a href="/wiki/Natalia_Sedova" title="Natalia Sedova">Natalia Sedova</a></li>
+<li><a href="/wiki/Patricia_Reyes_Sp%C3%ADndola" title="Patricia Reyes Spíndola">Patricia Reyes Spíndola</a> as Matilde Kahlo</li>
+<li><a href="/wiki/Roger_Rees" title="Roger Rees">Roger Rees</a> as <a href="/wiki/Guillermo_Kahlo" title="Guillermo Kahlo">Guillermo Kahlo</a></li>
+<li><a href="/wiki/Valeria_Golino" title="Valeria Golino">Valeria Golino</a> as <a href="/wiki/Guadalupe_Mar%C3%ADn" title="Guadalupe Marín">Lupe Marín</a></li>
+<li><a href="/wiki/Omar_Rodriguez" title="Omar Rodriguez" class="mw-redirect">Omar Rodriguez</a> as <a href="/wiki/Andr%C3%A9_Breton" title="André Breton">André Breton</a></li>
+<li>Felipe Fulop as <a href="/wiki/Jean_Van_Heijenoort" title="Jean Van Heijenoort" class="mw-redirect">Jean Van Heijenoort</a></li>
+<li><a href="/wiki/Saffron_Burrows" title="Saffron Burrows">Saffron Burrows</a> as Gracie</li>
+<li><a href="/wiki/Karine_Plantadit" title="Karine Plantadit">Karine Plantadit-Bageot</a> as <a href="/wiki/Josephine_Baker" title="Josephine Baker">Josephine Baker</a></li>
+</ul>
+<h2><span class="mw-headline" id="Allusions">Allusions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frida&amp;action=edit&amp;section=3" title="Edit section: Allusions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The passengers on the trolley Kahlo rides and that crashes with a bus are based on subjects in the painter's 1929 portrait, <i>The Bus</i>. The <a href="/wiki/Brothers_Quay" title="Brothers Quay">Brothers Quay</a>-created <a href="/wiki/Stop_motion" title="Stop motion">stop motion</a> animation sequence depicting the initial stages of Kahlo's recovery at the hospital after the trolley accident are inspired by the Mexican holiday <a href="/wiki/Day_of_the_Dead" title="Day of the Dead">Day of the Dead</a>. The gown <a href="/wiki/Valeria_Golino" title="Valeria Golino">Valeria Golino</a> wears at Kahlo's 1953 Mexican solo art exhibition is a replica of the dress her character <a href="/wiki/Lupe_Mar%C3%ADn" title="Lupe Marín" class="mw-redirect">Lupe Marín</a> wore in Rivera's 1938 portrait of her.</p>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frida&amp;action=edit&amp;section=4" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:232px;"><a href="/wiki/File:Julie_Taymor,_Elliott_Goldenthal,_and_Salma_Hayek.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Julie_Taymor%2C_Elliott_Goldenthal%2C_and_Salma_Hayek.jpg/230px-Julie_Taymor%2C_Elliott_Goldenthal%2C_and_Salma_Hayek.jpg" width="230" height="172" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Julie_Taymor%2C_Elliott_Goldenthal%2C_and_Salma_Hayek.jpg/345px-Julie_Taymor%2C_Elliott_Goldenthal%2C_and_Salma_Hayek.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Julie_Taymor%2C_Elliott_Goldenthal%2C_and_Salma_Hayek.jpg/460px-Julie_Taymor%2C_Elliott_Goldenthal%2C_and_Salma_Hayek.jpg 2x" data-file-width="2111" data-file-height="1583" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Julie_Taymor,_Elliott_Goldenthal,_and_Salma_Hayek.jpg" class="internal" title="Enlarge"></a></div>
+Director <a href="/wiki/Julie_Taymor" title="Julie Taymor">Julie Taymor</a> with <a href="/wiki/Elliot_Goldenthal" title="Elliot Goldenthal">Elliot Goldenthal</a> and <a href="/wiki/Salma_Hayek" title="Salma Hayek">Salma Hayek</a>.</div>
+</div>
+</div>
+<p>The film version of <a href="/wiki/Frida_Kahlo" title="Frida Kahlo">Frida Kahlo</a>'s life was initially championed by <a href="/w/index.php?title=Nancy_Hardin&amp;action=edit&amp;redlink=1" class="new" title="Nancy Hardin (page does not exist)">Nancy Hardin</a>, a former book editor and Hollywood-based literary agent, turned early "female studio executive", who, in the mid-1980s wished to "make the transition to independent producing."<sup id="cite_ref-Book_LA_3-0" class="reference"><a href="#cite_note-Book_LA-3"><span>[</span>3<span>]</span></a></sup> Learning of <a href="/w/index.php?title=Hayden_Herrara&amp;action=edit&amp;redlink=1" class="new" title="Hayden Herrara (page does not exist)">Hayden Herrara</a>'s biography of Kahlo, Hardin saw Kahlo's life as very contemporary, her "story... an emblematic tale for women torn between marriage and career."<sup id="cite_ref-Book_LA_3-1" class="reference"><a href="#cite_note-Book_LA-3"><span>[</span>3<span>]</span></a></sup> Optioning the book in 1988, Hardin "tried to sell it as an epic love story in the tradition of <i><a href="/wiki/Out_of_Africa_(film)" title="Out of Africa (film)">Out of Africa</a></i>, attracting tentative interest from actresses such as <a href="/wiki/Meryl_Streep" title="Meryl Streep">Meryl Streep</a> and <a href="/wiki/Jessica_Lange" title="Jessica Lange">Jessica Lange</a>, but receiving rejection from the film studios. As Kahlo's art gained prominence, however "in May, 1990 one of Kahlo's self-portraits sold at Sotheby's for $1.5 million, the highest price ever paid at auction for a Latin American painting."<sup id="cite_ref-Book_LA_3-2" class="reference"><a href="#cite_note-Book_LA-3"><span>[</span>3<span>]</span></a></sup> <a href="/wiki/Madonna_(entertainer)" title="Madonna (entertainer)">Madonna</a> "announced her plans to star in a film based on Frida's life", and <a href="/wiki/Robert_De_Niro" title="Robert De Niro">Robert De Niro</a>'s <a href="/wiki/Tribeca_Productions" title="Tribeca Productions" class="mw-redirect">Tribeca Productions</a> reportedly "envisioned a joint biography of <a href="/wiki/Diego_Rivera" title="Diego Rivera">Rivera</a> and Kahlo."<sup id="cite_ref-Book_LA_3-3" class="reference"><a href="#cite_note-Book_LA-3"><span>[</span>3<span>]</span></a></sup> In the spring of 1991, director <a href="/wiki/Luis_Valdez" title="Luis Valdez">Luis Valdez</a> began production on a <a href="/wiki/New_Line" title="New Line" class="mw-redirect">New Line</a> feature about Frida Kahlo starring <a href="/wiki/Laura_San_Giacomo" title="Laura San Giacomo">Laura San Giacomo</a> in the lead. San Giacomo's casting received objections due to her non-<a href="/wiki/Hispanic" title="Hispanic">Hispanic</a> ethnicity, and New Line complied with the protesters' demands, and left the then-titled <i>Frida and Diego</i> in August, 1992 citing finances.<sup id="cite_ref-Book_LA_3-4" class="reference"><a href="#cite_note-Book_LA-3"><span>[</span>3<span>]</span></a></sup> Hardin's project found itself swamped by similar ones:</p>
+<blockquote>
+<p>When I first tried to sell the project ... there was no interest because nobody had heard of Frida. A few years later, I heard the exact opposite&#160;– that there were too many Frida projects in development, and nobody wanted mine.<sup id="cite_ref-Book_LA_3-5" class="reference"><a href="#cite_note-Book_LA-3"><span>[</span>3<span>]</span></a></sup></p>
+</blockquote>
+<p>Valdez was contacted early on by the&#160;– then unknown in the U.S.&#160;– Salma Hayek, who sent "her [promo] reel to the director and phoned his office", but was ultimately told she was then too young for the role.<sup id="cite_ref-Writing_4-0" class="reference"><a href="#cite_note-Writing-4"><span>[</span>4<span>]</span></a></sup> By 1993, Valdez had retitled the film <i>The Two Fridas</i> with San Giacomo and <a href="/wiki/Ofelia_Medina" title="Ofelia Medina">Ofelia Medina</a> both playing the portraitist.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> <a href="/wiki/Ra%C3%BAl_Juli%C3%A1" title="Raúl Juliá">Raúl Juliá</a> was cast as Diego Rivera, but his death further delayed the movie. At the same time, Hardin approached <a href="/wiki/HBO" title="HBO">HBO</a>, and with "rising young development executive and producer" Lizz Speed (a former assistant to <a href="/wiki/Sherry_Lansing" title="Sherry Lansing">Sherry Lansing</a>) intended to make a <a href="/wiki/Television_movie" title="Television movie" class="mw-redirect">television movie</a>, hopeful that <a href="/wiki/Brian_Gibson_(director)" title="Brian Gibson (director)">Brian Gibson</a> (director of "<i><a href="/wiki/What%27s_Love_Got_to_Do_with_It_(film)" title="What's Love Got to Do with It (film)">What's Love Got to Do With It</a></i>, the story of <a href="/wiki/Tina_Turner" title="Tina Turner">Tina Turner</a>" and <i>The <a href="/wiki/Josephine_Baker" title="Josephine Baker">Josephine Baker</a> Story</i>) would direct.<sup id="cite_ref-Book_LA_3-6" class="reference"><a href="#cite_note-Book_LA-3"><span>[</span>3<span>]</span></a></sup> Casting difficulties proved insurmountable, but Speed joined Hardin in advocating the project, and after four years in <a href="/wiki/Filmmaking#Development" title="Filmmaking">development</a>, the two took the project from HBO to <a href="/wiki/Trimark" title="Trimark" class="mw-redirect">Trimark</a> and producer <a href="/w/index.php?title=Jay_Polstein&amp;action=edit&amp;redlink=1" class="new" title="Jay Polstein (page does not exist)">Jay Polstein</a> (with assistant <a href="/wiki/Darlene_Caama%C3%B1o" title="Darlene Caamaño">Darlene Caamaño</a>). At Trimark, <a href="/wiki/Salma_Hayek" title="Salma Hayek">Salma Hayek</a> became interested in the role, having "been fascinated by Kahlo's work from the time she was 13 or 14"&#160;– although not immediately a fan:</p>
+<table class="cquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;">At that age I did not like her work ... I found it ugly and grotesque. But something intrigued me, and the more I learned, the more I started to appreciate her work. There was a lot of passion and depth. Some people see only pain, but I also see irony and humor. I think what draws me to her is what Diego saw in her. She was a fighter. Many things could have diminished her spirit, like the accident or Diego's infidelities. But she wasn't crushed by anything.<sup id="cite_ref-Book_LA_3-7" class="reference"><a href="#cite_note-Book_LA-3"><span>[</span>3<span>]</span></a></sup></td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”</td>
+</tr>
+</table>
+<p>Hayek was so determined to play the role that she sought out Dolores Olmedo Patino, longtime-lover of Diego Rivera, and (after his death) administrator to the rights of Frida and Rivera's art, which Rivera had "willed ... to the Mexican people", bequeath[ing] the trust to Olmedo.<sup id="cite_ref-Writing_4-1" class="reference"><a href="#cite_note-Writing-4"><span>[</span>4<span>]</span></a></sup> Salma Hayek personally secured access to Kahlo's paintings from her, and began to assemble a supporting cast, approaching Alfred Molina for the role of Rivera in 1998. According to Molina, "She turned up backstage [of the <a href="/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> play <i><a href="/wiki/%27Art%27" title="'Art'" class="mw-redirect">'Art'</a></i>] rather sheepishly, and asked if I would like to play Diego". Molina went on to gain 35 pounds to play Rivera.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> When producer Polstein left Trimark, however, the production faltered again, and Hayek approached <a href="/wiki/Harvey_Weinstein" title="Harvey Weinstein">Harvey Weinstein</a> and <a href="/wiki/Miramax" title="Miramax">Miramax</a>, and the company purchased the film from Trimark; <a href="/wiki/Julie_Taymor" title="Julie Taymor">Julie Taymor</a> came onto the project as Director. Meanwhile, in August 2000 it was announced that <a href="/wiki/Jennifer_Lopez" title="Jennifer Lopez">Jennifer Lopez</a> would star in Valdez's take on the story, <i>The Two Fridas</i>, by then being produced by <a href="/wiki/American_Zoetrope" title="American Zoetrope">American Zoetrope</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> Nonetheless, it was Hayek and Miramax who began production in Spring, 2001 on what was to become simply titled <i>Frida</i>.<sup id="cite_ref-Writing_4-2" class="reference"><a href="#cite_note-Writing-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Release">Release</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frida&amp;action=edit&amp;section=5" title="Edit section: Release">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On August 29, 2002, the film made its <a href="/wiki/Film_premiere" title="Film premiere" class="mw-redirect">world premiere</a> opening the <a href="/wiki/Venice_International_Film_Festival" title="Venice International Film Festival" class="mw-redirect">Venice International Film Festival</a>. <i>Frida'</i>s American premiere was at the <a href="/wiki/Los_Angeles_County_Museum_of_Art" title="Los Angeles County Museum of Art">Los Angeles County Museum of Art</a> in Los Angeles on October 14 of that year. It had its Mexican premiere on November 8, 2002 at <a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a>'s <a href="/wiki/Palacio_de_Bellas_Artes" title="Palacio de Bellas Artes">Palace of Fine Arts</a>.</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frida&amp;action=edit&amp;section=6" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Box_office">Box office</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frida&amp;action=edit&amp;section=7" title="Edit section: Box office">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Frida</i> was initially shown in five theaters and earned $205,996 upon its opening weekend in the United States.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> The following week the film expanded to forty-seven theaters, earning $1,323,935.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> By late December 2002, <i>Frida</i> was playing in 283 theaters and had earned over $20 million.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> The film earned $56,298,474 in its worldwide total gross.<sup id="cite_ref-Mojo_2-1" class="reference"><a href="#cite_note-Mojo-2"><span>[</span>2<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Critical_response">Critical response</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frida&amp;action=edit&amp;section=8" title="Edit section: Critical response">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Review aggregator <a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a> reports that 76% of 151 critics have given the film a positive review, with a <a href="/wiki/Average" title="Average">rating average</a> of 6.9 out of 10.<sup id="cite_ref-RT_11-0" class="reference"><a href="#cite_note-RT-11"><span>[</span>11<span>]</span></a></sup> According to the site's summary of the critical consensus, "Frida is a passionate, visually striking biopic about the larger-than-life artist."<sup id="cite_ref-RT_11-1" class="reference"><a href="#cite_note-RT-11"><span>[</span>11<span>]</span></a></sup> <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a>, which assigns a score of 1–100 to individual film reviews, gives the film an average rating of 61 based on 38 reviews.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> Stella Papamichael from the <a href="/wiki/BBC" title="BBC">BBC</a> gave the film three out of five stars and stated "Julie Taymor's biography of Mexican painter Frida Kahlo connects the dots between art and anguish. The disparity lies in the fact that Frida settles for tickling a fancy where it should be packing a punch. Although involving and sprightly, it offers the kind of guilty pleasure a Fine Arts student might derive from a glossy cartoon strip."<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> Film critic <a href="/wiki/Roger_Ebert" title="Roger Ebert">Roger Ebert</a> awarded <i>Frida</i> three and a half stars and commented "Sometimes we feel as if the film careens from one colorful event to another without respite, but sometimes it must have seemed to Frida Kahlo as if her life did, too."<sup id="cite_ref-Ebert_14-0" class="reference"><a href="#cite_note-Ebert-14"><span>[</span>14<span>]</span></a></sup> Ebert thought Taymor and the writers had "obviously struggled with the material", though he called the closing scenes "extraordinary."<sup id="cite_ref-Ebert_14-1" class="reference"><a href="#cite_note-Ebert-14"><span>[</span>14<span>]</span></a></sup> The <i><a href="/wiki/New_York_Post" title="New York Post">New York Post</a>'s</i> Jonathan Foreman praised the score and Taymor's direction, saying that she "captures both the glamorous, deeply cosmopolitan milieu Kahlo and Rivera inhabited, and the importance Mexico had in the '30s for the international left."<sup id="cite_ref-Foreman_15-0" class="reference"><a href="#cite_note-Foreman-15"><span>[</span>15<span>]</span></a></sup> He added that the odd accents adopted by the likes of Judd and Rush let the authenticity down.<sup id="cite_ref-Foreman_15-1" class="reference"><a href="#cite_note-Foreman-15"><span>[</span>15<span>]</span></a></sup> Andrew Pulver from <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> gave the film three stars and proclaimed that it is "a substantial film, its story told with economy and clarity."<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Accolades">Accolades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frida&amp;action=edit&amp;section=9" title="Edit section: Accolades">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/List_of_accolades_received_by_Frida" title="List of accolades received by Frida">List of accolades received by Frida</a></div>
+<p>The <a href="/wiki/American_Film_Institute" title="American Film Institute">American Film Institute</a> included <i>Frida</i> in their Movies of the Year 2002, Official Selection. Their rationale was:</p>
+<blockquote>
+<p><i>Frida</i> is a movie about art that is a work of art in itself. The film's unique visual language takes us into an artist's head and reminds us that art is best enjoyed when it moves, breathes and is painted on a giant canvas, as only the movies can provide.</p>
+</blockquote>
+<h2><span class="mw-headline" id="Soundtrack">Soundtrack</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frida&amp;action=edit&amp;section=10" title="Edit section: Soundtrack">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a href="/wiki/Frida_(soundtrack)" title="Frida (soundtrack)">Frida (soundtrack)</a></i></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frida&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ftvdb.bfi.org.uk/sift/title/700085">"Frida"</a>. <i><a href="/wiki/British_Film_Institute" title="British Film Institute">British Film Institute</a></i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">November 6,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrida&amp;rft.atitle=Frida&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fftvdb.bfi.org.uk%2Fsift%2Ftitle%2F700085&amp;rft.jtitle=British+Film+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mojo-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mojo_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mojo_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.boxofficemojo.com/movies/?id=frida.htm">"Frida"</a>. <i><a href="/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></i>. <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrida&amp;rft.atitle=Frida&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.boxofficemojo.com%2Fmovies%2F%3Fid%3Dfrida.htm&amp;rft.jtitle=Box+Office+Mojo&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Book_LA-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Book_LA_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Book_LA_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Book_LA_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Book_LA_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Book_LA_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Book_LA_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Book_LA_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Book_LA_3-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://thebookla.com/s_2000_hayek.html">The Book LA SUMMER 2000 Selma &amp; Frida</a></span></li>
+<li id="cite_note-Writing-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Writing_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Writing_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Writing_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.writingstudio.co.za/page80.html">the writing studio: adaptation frida</a>. Accessed April 10, 2008</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.variety.com/article/VR106879.html?categoryid=19&amp;cs=1">Kahlo biopic gets new wakeup call&#160;– Entertainment News, International News, Media&#160;– Variety</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news">Tuckman, Jo (August 30, 2001). <a rel="nofollow" class="external text" href="http://film.guardian.co.uk/interview/interviewpages/0,,544397,00.html">"That Frida feeling"</a>. <i>The Guardian</i> (London).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrida&amp;rft.atitle=That+Frida+feeling&amp;rft.aufirst=Jo&amp;rft.aulast=Tuckman&amp;rft.date=2001-08-30&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ffilm.guardian.co.uk%2Finterview%2Finterviewpages%2F0%2C%2C544397%2C00.html&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thisislondon.co.uk/film/article-897340-details/Fascinated+by+Frida/article.do">Fascinated by Frida| Film | This is London</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.boxofficemojo.com/weekend/chart/?yr=2002&amp;wknd=43&amp;p=.htm">"October 25-27, 2002 Weekend"</a>. <i><a href="/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></i>. <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrida&amp;rft.atitle=October+25-27%2C+2002+Weekend&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.boxofficemojo.com%2Fweekend%2Fchart%2F%3Fyr%3D2002%26wknd%3D43%26p%3D.htm&amp;rft.jtitle=Box+Office+Mojo&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.boxofficemojo.com/weekend/chart/?yr=2002&amp;wknd=44&amp;p=.htm">"November 1-3, 2002 Weekend"</a>. <i><a href="/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></i>. <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrida&amp;rft.atitle=November+1-3%2C+2002+Weekend&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.boxofficemojo.com%2Fweekend%2Fchart%2F%3Fyr%3D2002%26wknd%3D44%26p%3D.htm&amp;rft.jtitle=Box+Office+Mojo&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.boxofficemojo.com/weekend/chart/?yr=2002&amp;wknd=52&amp;p=.htm">"December 27-29, 2002 Weekend"</a>. <i><a href="/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></i>. <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrida&amp;rft.atitle=December+27-29%2C+2002+Weekend&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.boxofficemojo.com%2Fweekend%2Fchart%2F%3Fyr%3D2002%26wknd%3D52%26p%3D.htm&amp;rft.jtitle=Box+Office+Mojo&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RT-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-RT_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RT_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rottentomatoes.com/m/frida/">"Firda (2002)"</a>. <i><a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></i>. <a href="/wiki/Flixster" title="Flixster">Flixster</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrida&amp;rft.atitle=Firda+%282002%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2Ffrida%2F&amp;rft.jtitle=Rotten+Tomatoes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.metacritic.com/movie/frida">"Frida"</a>. <i><a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></i>. <a href="/wiki/CBS_Interactive" title="CBS Interactive">CBS Interactive</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrida&amp;rft.atitle=Frida&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.metacritic.com%2Fmovie%2Ffrida&amp;rft.jtitle=Metacritic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Papamichael, Stella (February 24, 2003). <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/films/2003/02/11/frida_2003_review.shtml">"Frida (2003)"</a>. <i>BBC Movies</i>. <a href="/wiki/BBC" title="BBC">BBC</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrida&amp;rft.atitle=Frida+%282003%29&amp;rft.aufirst=Stella&amp;rft.aulast=Papamichael&amp;rft.date=2003-02-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Ffilms%2F2003%2F02%2F11%2Ffrida_2003_review.shtml&amp;rft.jtitle=BBC+Movies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ebert-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ebert_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ebert_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Ebert, Roger (November 1, 2002). <a rel="nofollow" class="external text" href="http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20021101/REVIEWS/211010302/1023">"Frida"</a>. <i><a href="/wiki/Chicago_Sun-Times" title="Chicago Sun-Times">Chicago Sun-Times</a></i> (<a href="/wiki/Sun-Times_Media_Group" title="Sun-Times Media Group">Sun-Times Media Group</a>)<span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrida&amp;rft.atitle=Frida&amp;rft.aufirst=Roger&amp;rft.aulast=Ebert&amp;rft.date=2002-11-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Frogerebert.suntimes.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20021101%2FREVIEWS%2F211010302%2F1023&amp;rft.jtitle=Chicago+Sun-Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Foreman-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Foreman_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Foreman_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Foreman, Jonathan (October 25, 2002). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20021130233950/http://www.nypost.com/movies/49676.htm">"Frida,' Ole!"</a>. <i><a href="/wiki/New_York_Post" title="New York Post">New York Post</a></i> (<a href="/wiki/News_Corporation" title="News Corporation">News Corporation</a>). Archived from <a rel="nofollow" class="external text" href="http://www.nypost.com/movies/49676.htm">the original</a> on November 30, 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrida&amp;rft.atitle=Frida%2C%27+Ole%21&amp;rft.aufirst=Jonathan&amp;rft.aulast=Foreman&amp;rft.date=2002-10-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nypost.com%2Fmovies%2F49676.htm&amp;rft.jtitle=New+York+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Pulver, Andrew (February 28, 2003). <a rel="nofollow" class="external text" href="http://www.guardian.co.uk/culture/2003/feb/28/artsfeatures.drama">"Frida"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> (London: <a href="/wiki/Guardian_Media_Group" title="Guardian Media Group">Guardian Media Group</a>)<span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFrida&amp;rft.atitle=Frida&amp;rft.aufirst=Andrew&amp;rft.aulast=Pulver&amp;rft.date=2003-02-28&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.guardian.co.uk%2Fculture%2F2003%2Ffeb%2F28%2Fartsfeatures.drama&amp;rft.jtitle=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frida&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.miramax.com/movie/frida">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/*/http://www.miramax.com/frida/">Official site</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt0120679/"><i>Frida</i></a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.boxofficemojo.com/movies/?id=frida.htm"><i>Frida</i></a> at <a href="/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.rottentomatoes.com/m/frida/"><i>Frida</i></a> at <a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Julie_Taymor" title="Template:Julie Taymor"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Julie_Taymor" title="Template talk:Julie Taymor"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Julie_Taymor&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%">Films directed by <a href="/wiki/Julie_Taymor" title="Julie Taymor">Julie Taymor</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Titus_(film)" title="Titus (film)">Titus</a></i> (1999)</li>
+<li><i><strong class="selflink">Frida</strong></i> (2002)</li>
+<li><i><a href="/wiki/Across_the_Universe_(film)" title="Across the Universe (film)">Across the Universe</a></i> (2007)</li>
+<li><i><a href="/wiki/The_Tempest_(2010_film)" title="The Tempest (2010 film)">The Tempest</a></i> (2010)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Frida_Kahlo" title="Template:Frida Kahlo"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Frida_Kahlo" title="Template talk:Frida Kahlo"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Frida_Kahlo&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Frida_Kahlo" title="Frida Kahlo">Frida Kahlo</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/List_of_paintings_by_Frida_Kahlo" title="List of paintings by Frida Kahlo">List of paintings</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Selected paintings</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Self-Portrait_with_Monkey" title="Self-Portrait with Monkey">Self-Portrait with Monkey</a></i> (1938)</li>
+<li><i><a href="/wiki/The_Suicide_of_Dorothy_Hale" title="The Suicide of Dorothy Hale" class="mw-redirect">The Suicide of Dorothy Hale</a></i> (1938)</li>
+<li><i><a href="/wiki/What_the_Water_Gave_Me_(painting)" title="What the Water Gave Me (painting)">What the Water Gave Me</a></i> (1938)</li>
+<li><i><a href="/wiki/The_Two_Fridas" title="The Two Fridas">The Two Fridas</a></i> (1939)</li>
+<li><i><a href="/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird" title="Self-Portrait with Thorn Necklace and Hummingbird">Self-Portrait with Thorn Necklace and Hummingbird</a></i> (1940)</li>
+<li><i><a href="/wiki/The_Wounded_Table" title="The Wounded Table">The Wounded Table</a></i> (1940)</li>
+<li><i><a href="/wiki/The_Broken_Column" title="The Broken Column">The Broken Column</a></i> (1944)</li>
+<li><i><a href="/wiki/The_Wounded_Deer" title="The Wounded Deer">The Wounded Deer</a></i> (1946)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Works about Kahlo</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Frida_Still_Life" title="Frida Still Life">Frida Still Life</a></i></li>
+<li><a href="/wiki/Diego_et_Frida" title="Diego et Frida"><i>Diego et Frida</i></a></li>
+<li><strong class="selflink"><i>Frida</i> (film)</strong></li>
+<li><a href="/wiki/Frida:_A_Biography_of_Frida_Kahlo" title="Frida: A Biography of Frida Kahlo"><i>Frida: A Biography of Frida Kahlo</i></a></li>
+<li><a href="/wiki/Frida_(opera)" title="Frida (opera)"><i>Frida</i> (opera)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Diego_Rivera" title="Diego Rivera">Diego Rivera</a></li>
+<li><a href="/wiki/Frida_Kahlo_Museum" title="Frida Kahlo Museum">Frida Kahlo Museum</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1137
+Cached time: 20160202135230
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.467 seconds
+Real time usage: 0.559 seconds
+Preprocessor visited node count: 1936/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43248/2097152 bytes
+Template argument size: 2489/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 0/500
+Lua time usage: 0.168/10.000 seconds
+Lua memory usage: 3.77 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  439.151      1 - -total
+ 32.89%  144.457      1 - Template:Reflist
+ 20.59%   90.405      1 - Template:Infobox_film
+ 19.27%   84.619      1 - Template:Infobox
+ 18.34%   80.522      8 - Template:Cite_web
+  9.98%   43.837      1 - Template:Official_website
+  7.49%   32.895      1 - Template:Other_uses
+  6.82%   29.955      1 - Template:About
+  6.25%   27.462      2 - Template:Navbox
+  6.21%   27.254      2 - Template:Hatnote
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:509792-0!*!0!!en!4!* and timestamp 20160202135230 and revision id 698875446
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Frida&amp;oldid=698875446">https://en.wikipedia.org/w/index.php?title=Frida&amp;oldid=698875446</a>"					</div>
+				<div id='catlinks' class='catlinks' data-mw='interface'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2002_films" title="Category:2002 films">2002 films</a></li><li><a href="/wiki/Category:2000s_drama_films" title="Category:2000s drama films">2000s drama films</a></li><li><a href="/wiki/Category:American_drama_films" title="Category:American drama films">American drama films</a></li><li><a href="/wiki/Category:American_films" title="Category:American films">American films</a></li><li><a href="/wiki/Category:American_LGBT-related_films" title="Category:American LGBT-related films">American LGBT-related films</a></li><li><a href="/wiki/Category:Films_that_won_the_Best_Original_Score_Academy_Award" title="Category:Films that won the Best Original Score Academy Award">Films that won the Best Original Score Academy Award</a></li><li><a href="/wiki/Category:Biographical_films_about_artists" title="Category:Biographical films about artists">Biographical films about artists</a></li><li><a href="/wiki/Category:Bisexuality-related_films" title="Category:Bisexuality-related films">Bisexuality-related films</a></li><li><a href="/wiki/Category:English-language_films" title="Category:English-language films">English-language films</a></li><li><a href="/wiki/Category:Estudios_Churubusco_films" title="Category:Estudios Churubusco films">Estudios Churubusco films</a></li><li><a href="/wiki/Category:Feminist_films" title="Category:Feminist films">Feminist films</a></li><li><a href="/wiki/Category:Films_about_communism" title="Category:Films about communism">Films about communism</a></li><li><a href="/wiki/Category:Films_based_on_biographies" title="Category:Films based on biographies">Films based on biographies</a></li><li><a href="/wiki/Category:Films_directed_by_Julie_Taymor" title="Category:Films directed by Julie Taymor">Films directed by Julie Taymor</a></li><li><a href="/wiki/Category:Films_set_in_Mexico" title="Category:Films set in Mexico">Films set in Mexico</a></li><li><a href="/wiki/Category:Films_set_in_the_1920s" title="Category:Films set in the 1920s">Films set in the 1920s</a></li><li><a href="/wiki/Category:Films_set_in_the_1930s" title="Category:Films set in the 1930s">Films set in the 1930s</a></li><li><a href="/wiki/Category:Films_set_in_the_1940s" title="Category:Films set in the 1940s">Films set in the 1940s</a></li><li><a href="/wiki/Category:Films_shot_in_Mexico" title="Category:Films shot in Mexico">Films shot in Mexico</a></li><li><a href="/wiki/Category:Films_that_won_the_Academy_Award_for_Best_Makeup" title="Category:Films that won the Academy Award for Best Makeup">Films that won the Academy Award for Best Makeup</a></li><li><a href="/wiki/Category:Cultural_depictions_of_Leon_Trotsky" title="Category:Cultural depictions of Leon Trotsky">Cultural depictions of Leon Trotsky</a></li><li><a href="/wiki/Category:Miramax_films" title="Category:Miramax films">Miramax films</a></li><li><a href="/wiki/Category:Frida_Kahlo" title="Category:Frida Kahlo">Frida Kahlo</a></li><li><a href="/wiki/Category:Film_scores_by_Elliot_Goldenthal" title="Category:Film scores by Elliot Goldenthal">Film scores by Elliot Goldenthal</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Frida&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Frida" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Frida"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Frida"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Frida" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Frida&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Frida&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Frida" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Frida" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Frida&amp;oldid=698875446" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Frida&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q35738" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Frida&amp;id=698875446" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Frida">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Frida&amp;returnto=Frida&amp;oldid=698875446&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Frida&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%81%D8%B1%D9%8A%D8%AF%D8%A7_(%D9%81%D9%8A%D9%84%D9%85)" title="فريدا (فيلم) – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Frida_(film,_2002)" title="Frida (film, 2002) – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Frida" title="Frida – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Frida_(film)" title="Frida (film) – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Frida_(film)" title="Frida (film) – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Frida_(Film)" title="Frida (Film) – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A6%CF%81%CE%AF%CE%BD%CF%84%CE%B1" title="Φρίντα – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Frida" title="Frida – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%81%D8%B1%DB%8C%D8%AF%D8%A7_(%D9%81%DB%8C%D9%84%D9%85)" title="فریدا (فیلم) – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Frida_(film)" title="Frida (film) – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Frida_(film)" title="Frida (film) – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%99%D7%93%D7%94_(%D7%A1%D7%A8%D7%98,_2002)" title="פרידה (סרט, 2002) – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%A4%E1%83%A0%E1%83%98%E1%83%93%E1%83%90" title="ფრიდა – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Frida" title="Frida – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Frida_(film)" title="Frida (film) – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%A4%D1%80%D0%B8%D0%B4%D0%B0_(%D1%84%D0%B8%D0%BB%D0%BC)" title="Фрида (филм) – Macedonian" lang="mk" hreflang="mk">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Frida_(film)" title="Frida (film) – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%80" title="フリーダ – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Frida_(film)" title="Frida (film) – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Frida" title="Frida – Occitan" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Frida" title="Frida – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Frida" title="Frida – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B8%D0%B4%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Фрида (фильм) – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A4%D1%80%D0%B8%D0%B4%D0%B0" title="Фрида – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Frida" title="Frida – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Frida_(elokuva)" title="Frida (elokuva) – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Frida_(film)" title="Frida (film) – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Frida" title="Frida – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A4%D1%80%D1%96%D0%B4%D0%B0_(%D1%84%D1%96%D0%BB%D1%8C%D0%BC)" title="Фріда (фільм) – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%8F%AE%E7%81%91%E7%83%88%E6%84%9B" title="揮灑烈愛 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q35738#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 8 January 2016, at 19:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Frida&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1251"}); /* @nomin */
+} );</script>
+	</body>
+</html>

@@ -1,0 +1,526 @@
+1927	winner	/wiki/Wings_(1927_film)	Wings (1927 film)
+1927		/wiki/The_Racket_(1928_film)	The Racket (1928 film)
+1927		/wiki/Seventh_Heaven_(1927_film)	Seventh Heaven (1927 film)
+1928	winner	/wiki/The_Broadway_Melody	The Broadway Melody
+1928		/wiki/Alibi_(1929_film)	Alibi (1929 film)
+1928		/wiki/The_Hollywood_Revue_of_1929	The Hollywood Revue of 1929
+1928		/wiki/In_Old_Arizona	In Old Arizona
+1928		/wiki/The_Patriot_(1928_film)	The Patriot (1928 film)
+1929	winner	/wiki/All_Quiet_on_the_Western_Front_(1930_film)	All Quiet on the Western Front (1930 film)
+1929		/wiki/The_Big_House_(1930_film)	The Big House (1930 film)
+1929		/wiki/Disraeli_(1929_film)	Disraeli (1929 film)
+1929		/wiki/The_Divorcee	The Divorcee
+1929		/wiki/The_Love_Parade	The Love Parade
+1930	winner	/wiki/Cimarron_(1931_film)	Cimarron (1931 film)
+1930		/wiki/East_Lynne_(1931_film)	East Lynne (1931 film)
+1930		/wiki/The_Front_Page_(1931_film)	The Front Page (1931 film)
+1930		/wiki/Skippy_(1931_film)	Skippy (1931 film)
+1930		/wiki/Trader_Horn_(1931_film)	Trader Horn (1931 film)
+1931	winner	/wiki/Grand_Hotel_(film)	Grand Hotel (film)
+1931		/wiki/Arrowsmith_(film)	Arrowsmith (film)
+1931		/wiki/Bad_Girl_(1931_film)	Bad Girl (1931 film)
+1931		/wiki/The_Champ_(1931_film)	The Champ (1931 film)
+1931		/wiki/Five_Star_Final	Five Star Final
+1931		/wiki/One_Hour_with_You	One Hour with You
+1931		/wiki/Shanghai_Express_(film)	Shanghai Express (film)
+1931		/wiki/The_Smiling_Lieutenant	The Smiling Lieutenant
+1932	winner	/wiki/Cavalcade_(1933_film)	Cavalcade (1933 film)
+1932		/wiki/42nd_Street_(film)	42nd Street (film)
+1932		/wiki/A_Farewell_to_Arms_(1932_film)	A Farewell to Arms (1932 film)
+1932		/wiki/I_Am_a_Fugitive_from_a_Chain_Gang	I Am a Fugitive from a Chain Gang
+1932		/wiki/Lady_for_a_Day	Lady for a Day
+1932		/wiki/Little_Women_(1933_film)	Little Women (1933 film)
+1932		/wiki/The_Private_Life_of_Henry_VIII	The Private Life of Henry VIII
+1932		/wiki/She_Done_Him_Wrong	She Done Him Wrong
+1932		/wiki/Smilin%27_Through_(1932_film)	Smilin' Through (1932 film)
+1932		/wiki/State_Fair_(1933_film)	State Fair (1933 film)
+1934	winner	/wiki/It_Happened_One_Night	It Happened One Night
+1934		/wiki/The_Barretts_of_Wimpole_Street_(1934_film)	The Barretts of Wimpole Street (1934 film)
+1934		/wiki/Cleopatra_(1934_film)	Cleopatra (1934 film)
+1934		/wiki/Flirtation_Walk	Flirtation Walk
+1934		/wiki/The_Gay_Divorcee	The Gay Divorcee
+1934		/wiki/Here_Comes_the_Navy	Here Comes the Navy
+1934		/wiki/The_House_of_Rothschild	The House of Rothschild
+1934		/wiki/Imitation_of_Life_(1934_film)	Imitation of Life (1934 film)
+1934		/wiki/One_Night_of_Love	One Night of Love
+1934		/wiki/The_Thin_Man_(film)	The Thin Man (film)
+1934		/wiki/Viva_Villa!	Viva Villa!
+1934		/wiki/The_White_Parade	The White Parade
+1935	winner	/wiki/Mutiny_on_the_Bounty_(1935_film)	Mutiny on the Bounty (1935 film)
+1935		/wiki/Alice_Adams_(film)	Alice Adams (film)
+1935		/wiki/Broadway_Melody_of_1936	Broadway Melody of 1936
+1935		/wiki/Captain_Blood_(1935_film)	Captain Blood (1935 film)
+1935		/wiki/Personal_History,_Adventures,_Experience,_and_Observation_of_David_Copperfield_the_Younger_(1935)	Personal History, Adventures, Experience, and Observation of David Copperfield the Younger (1935)
+1935		/wiki/The_Informer_(1935_film)	The Informer (1935 film)
+1935		/wiki/The_Lives_of_a_Bengal_Lancer_(film)	The Lives of a Bengal Lancer (film)
+1935		/wiki/A_Midsummer_Night%27s_Dream_(1935_film)	A Midsummer Night's Dream (1935 film)
+1935		/wiki/Naughty_Marietta_(film)	Naughty Marietta (film)
+1935		/wiki/Ruggles_of_Red_Gap	Ruggles of Red Gap
+1935		/wiki/Top_Hat	Top Hat
+1936	winner	/wiki/The_Great_Ziegfeld	The Great Ziegfeld
+1936		/wiki/Anthony_Adverse	Anthony Adverse
+1936		/wiki/Dodsworth_(film)	Dodsworth (film)
+1936		/wiki/Libeled_Lady	Libeled Lady
+1936		/wiki/Mr._Deeds_Goes_to_Town	Mr. Deeds Goes to Town
+1936		/wiki/Romeo_and_Juliet_(1936_film)	Romeo and Juliet (1936 film)
+1936		/wiki/San_Francisco_(1936_film)	San Francisco (1936 film)
+1936		/wiki/The_Story_of_Louis_Pasteur	The Story of Louis Pasteur
+1936		/wiki/A_Tale_of_Two_Cities_(1935_film)	A Tale of Two Cities (1935 film)
+1936		/wiki/Three_Smart_Girls	Three Smart Girls
+1937	winner	/wiki/The_Life_of_Emile_Zola	The Life of Emile Zola
+1937		/wiki/The_Awful_Truth	The Awful Truth
+1937		/wiki/Captains_Courageous_(1937_film)	Captains Courageous (1937 film)
+1937		/wiki/Dead_End_(1937_film)	Dead End (1937 film)
+1937		/wiki/The_Good_Earth_(film)	The Good Earth (film)
+1937		/wiki/In_Old_Chicago	In Old Chicago
+1937		/wiki/Lost_Horizon_(1937_film)	Lost Horizon (1937 film)
+1937		/wiki/One_Hundred_Men_and_a_Girl	One Hundred Men and a Girl
+1937		/wiki/Stage_Door	Stage Door
+1937		/wiki/A_Star_Is_Born_(1937_film)	A Star Is Born (1937 film)
+1938	winner	/wiki/You_Can%27t_Take_It_With_You_(film)	You Can't Take It With You (film)
+1938		/wiki/The_Adventures_of_Robin_Hood_(film)	The Adventures of Robin Hood (film)
+1938		/wiki/Alexander%27s_Ragtime_Band_(film)	Alexander's Ragtime Band (film)
+1938		/wiki/Boys_Town_(1938_film)	Boys Town (1938 film)
+1938		/wiki/The_Citadel_(film)	The Citadel (film)
+1938		/wiki/Four_Daughters	Four Daughters
+1938		/wiki/Grand_Illusion_(film)	Grand Illusion (film)
+1938		/wiki/Jezebel_(film)	Jezebel (film)
+1938		/wiki/Pygmalion_(1938_film)	Pygmalion (1938 film)
+1938		/wiki/Test_Pilot_(film)	Test Pilot (film)
+1939	winner	/wiki/Gone_with_the_Wind_(film)	Gone with the Wind (film)
+1939		/wiki/Dark_Victory	Dark Victory
+1939		/wiki/Goodbye,_Mr._Chips_(1939_film)	Goodbye, Mr. Chips (1939 film)
+1939		/wiki/Love_Affair_(1939_film)	Love Affair (1939 film)
+1939		/wiki/Mr._Smith_Goes_to_Washington	Mr. Smith Goes to Washington
+1939		/wiki/Ninotchka	Ninotchka
+1939		/wiki/Of_Mice_and_Men_(1939_film)	Of Mice and Men (1939 film)
+1939		/wiki/Stagecoach_(1939_film)	Stagecoach (1939 film)
+1939		/wiki/The_Wizard_of_Oz_(1939_film)	The Wizard of Oz (1939 film)
+1939		/wiki/Wuthering_Heights_(1939_film)	Wuthering Heights (1939 film)
+1940	winner	/wiki/Rebecca_(1940_film)	Rebecca (1940 film)
+1940		/wiki/All_This,_and_Heaven_Too	All This, and Heaven Too
+1940		/wiki/Foreign_Correspondent_(film)	Foreign Correspondent (film)
+1940		/wiki/The_Grapes_of_Wrath_(film)	The Grapes of Wrath (film)
+1940		/wiki/The_Great_Dictator	The Great Dictator
+1940		/wiki/Kitty_Foyle_(film)	Kitty Foyle (film)
+1940		/wiki/The_Letter_(1940_film)	The Letter (1940 film)
+1940		/wiki/The_Long_Voyage_Home	The Long Voyage Home
+1940		/wiki/Our_Town_(1940_film)	Our Town (1940 film)
+1940		/wiki/The_Philadelphia_Story_(film)	The Philadelphia Story (film)
+1941	winner	/wiki/How_Green_Was_My_Valley_(film)	How Green Was My Valley (film)
+1941		/wiki/Blossoms_in_the_Dust	Blossoms in the Dust
+1941		/wiki/Citizen_Kane	Citizen Kane
+1941		/wiki/Here_Comes_Mr._Jordan	Here Comes Mr. Jordan
+1941		/wiki/Hold_Back_the_Dawn	Hold Back the Dawn
+1941		/wiki/The_Little_Foxes_(film)	The Little Foxes (film)
+1941		/wiki/The_Maltese_Falcon_(1941_film)	The Maltese Falcon (1941 film)
+1941		/wiki/One_Foot_in_Heaven	One Foot in Heaven
+1941		/wiki/Sergeant_York_(film)	Sergeant York (film)
+1941		/wiki/Suspicion_(1941_film)	Suspicion (1941 film)
+1942	winner	/wiki/Mrs._Miniver_(film)	Mrs. Miniver (film)
+1942		/wiki/49th_Parallel_(film)	49th Parallel (film)
+1942		/wiki/Kings_Row	Kings Row
+1942		/wiki/The_Magnificent_Ambersons_(film)	The Magnificent Ambersons (film)
+1942		/wiki/The_Pied_Piper_(1942_film)	The Pied Piper (1942 film)
+1942		/wiki/The_Pride_of_the_Yankees	The Pride of the Yankees
+1942		/wiki/Random_Harvest_(film)	Random Harvest (film)
+1942		/wiki/The_Talk_of_the_Town_(1942_film)	The Talk of the Town (1942 film)
+1942		/wiki/Wake_Island_(1942_film)	Wake Island (1942 film)
+1942		/wiki/Yankee_Doodle_Dandy	Yankee Doodle Dandy
+1943	winner	/wiki/Casablanca_(film)	Casablanca (film)
+1943		/wiki/For_Whom_the_Bell_Tolls_(film)	For Whom the Bell Tolls (film)
+1943		/wiki/Heaven_Can_Wait_(1943_film)	Heaven Can Wait (1943 film)
+1943		/wiki/The_Human_Comedy_(film)	The Human Comedy (film)
+1943		/wiki/In_Which_We_Serve	In Which We Serve
+1943		/wiki/Madame_Curie_(film)	Madame Curie (film)
+1943		/wiki/The_More_the_Merrier	The More the Merrier
+1943		/wiki/The_Ox-Bow_Incident	The Ox-Bow Incident
+1943		/wiki/The_Song_of_Bernadette_(film)	The Song of Bernadette (film)
+1943		/wiki/Watch_on_the_Rhine	Watch on the Rhine
+1944	winner	/wiki/Going_My_Way	Going My Way
+1944		/wiki/Double_Indemnity_(film)	Double Indemnity (film)
+1944		/wiki/Gaslight_(1944_film)	Gaslight (1944 film)
+1944		/wiki/Since_You_Went_Away	Since You Went Away
+1944		/wiki/Wilson_(1944_film)	Wilson (1944 film)
+1945	winner	/wiki/The_Lost_Weekend_(film)	The Lost Weekend (film)
+1945		/wiki/Anchors_Aweigh_(film)	Anchors Aweigh (film)
+1945		/wiki/The_Bells_of_St._Mary%27s	The Bells of St. Mary's
+1945		/wiki/Mildred_Pierce_(film)	Mildred Pierce (film)
+1945		/wiki/Spellbound_(1945_film)	Spellbound (1945 film)
+1946	winner	/wiki/The_Best_Years_of_Our_Lives	The Best Years of Our Lives
+1946		/wiki/Henry_V_(1944_film)	Henry V (1944 film)
+1946		/wiki/It%27s_a_Wonderful_Life	It's a Wonderful Life
+1946		/wiki/The_Razor%27s_Edge_(1946_film)	The Razor's Edge (1946 film)
+1946		/wiki/The_Yearling_(film)	The Yearling (film)
+1947	winner	/wiki/Gentleman%27s_Agreement	Gentleman's Agreement
+1947		/wiki/The_Bishop%27s_Wife	The Bishop's Wife
+1947		/wiki/Crossfire_(film)	Crossfire (film)
+1947		/wiki/Great_Expectations_(1946_film)	Great Expectations (1946 film)
+1947		/wiki/Miracle_on_34th_Street	Miracle on 34th Street
+1948	winner	/wiki/Hamlet_(1948_film)	Hamlet (1948 film)
+1948		/wiki/Johnny_Belinda_(1948_film)	Johnny Belinda (1948 film)
+1948		/wiki/The_Red_Shoes_(1948_film)	The Red Shoes (1948 film)
+1948		/wiki/The_Snake_Pit	The Snake Pit
+1948		/wiki/The_Treasure_of_the_Sierra_Madre_(film)	The Treasure of the Sierra Madre (film)
+1949	winner	/wiki/All_the_King%27s_Men_(1949_film)	All the King's Men (1949 film)
+1949		/wiki/Battleground_(1949_film)	Battleground (1949 film)
+1949		/wiki/The_Heiress	The Heiress
+1949		/wiki/A_Letter_to_Three_Wives	A Letter to Three Wives
+1949		/wiki/Twelve_O%27Clock_High	Twelve O'Clock High
+1950	winner	/wiki/All_About_Eve	All About Eve
+1950		/wiki/Born_Yesterday_(1950_film)	Born Yesterday (1950 film)
+1950		/wiki/Father_of_the_Bride_(1950_film)	Father of the Bride (1950 film)
+1950		/wiki/King_Solomon%27s_Mines_(1950_film)	King Solomon's Mines (1950 film)
+1950		/wiki/Sunset_Boulevard_(film)	Sunset Boulevard (film)
+1951	winner	/wiki/An_American_in_Paris_(film)	An American in Paris (film)
+1951		/wiki/Decision_Before_Dawn	Decision Before Dawn
+1951		/wiki/A_Place_in_the_Sun_(film)	A Place in the Sun (film)
+1951		/wiki/Quo_Vadis_(1951_film)	Quo Vadis (1951 film)
+1951		/wiki/A_Streetcar_Named_Desire_(1951_film)	A Streetcar Named Desire (1951 film)
+1952	winner	/wiki/The_Greatest_Show_on_Earth	The Greatest Show on Earth
+1952		/wiki/High_Noon	High Noon
+1952		/wiki/Ivanhoe_(1952_film)	Ivanhoe (1952 film)
+1952		/wiki/Moulin_Rouge_(1952_film)	Moulin Rouge (1952 film)
+1952		/wiki/The_Quiet_Man	The Quiet Man
+1953	winner	/wiki/From_Here_to_Eternity	From Here to Eternity
+1953		/wiki/Julius_Caesar_(1953_film)	Julius Caesar (1953 film)
+1953		/wiki/The_Robe_(film)	The Robe (film)
+1953		/wiki/Roman_Holiday	Roman Holiday
+1953		/wiki/Shane_(film)	Shane (film)
+1954	winner	/wiki/On_the_Waterfront	On the Waterfront
+1954		/wiki/The_Caine_Mutiny_(film)	The Caine Mutiny (film)
+1954		/wiki/The_Country_Girl_(1954_film)	The Country Girl (1954 film)
+1954		/wiki/Seven_Brides_for_Seven_Brothers_(film)	Seven Brides for Seven Brothers (film)
+1954		/wiki/Three_Coins_in_the_Fountain_(1954_film)	Three Coins in the Fountain (1954 film)
+1955	winner	/wiki/Marty_(film)	Marty (film)
+1955		/wiki/Love_Is_a_Many-Splendored_Thing_(film)	Love Is a Many-Splendored Thing (film)
+1955		/wiki/Mister_Roberts_(1955_film)	Mister Roberts (1955 film)
+1955		/wiki/Picnic_(1955_film)	Picnic (1955 film)
+1955		/wiki/The_Rose_Tattoo_(film)	The Rose Tattoo (film)
+1956	winner	/wiki/Around_the_World_in_80_Days_(1956_film)	Around the World in 80 Days (1956 film)
+1956		/wiki/Friendly_Persuasion_(1956_film)	Friendly Persuasion (1956 film)
+1956		/wiki/Giant_(1956_film)	Giant (1956 film)
+1956		/wiki/The_King_and_I_(1956_film)	The King and I (1956 film)
+1956		/wiki/The_Ten_Commandments_(1956_film)	The Ten Commandments (1956 film)
+1957	winner	/wiki/The_Bridge_on_the_River_Kwai	The Bridge on the River Kwai
+1957		/wiki/12_Angry_Men_(1957_film)	12 Angry Men (1957 film)
+1957		/wiki/Peyton_Place_(film)	Peyton Place (film)
+1957		/wiki/Sayonara	Sayonara
+1957		/wiki/Witness_for_the_Prosecution_(1957_film)	Witness for the Prosecution (1957 film)
+1958	winner	/wiki/Gigi_(1958_film)	Gigi (1958 film)
+1958		/wiki/Auntie_Mame_(film)	Auntie Mame (film)
+1958		/wiki/Cat_on_a_Hot_Tin_Roof_(film)	Cat on a Hot Tin Roof (film)
+1958		/wiki/The_Defiant_Ones	The Defiant Ones
+1958		/wiki/Separate_Tables_(film)	Separate Tables (film)
+1959	winner	/wiki/Ben-Hur_(1959_film)	Ben-Hur (1959 film)
+1959		/wiki/Anatomy_of_a_Murder	Anatomy of a Murder
+1959		/wiki/The_Diary_of_Anne_Frank_(1959_film)	The Diary of Anne Frank (1959 film)
+1959		/wiki/The_Nun%27s_Story_(film)	The Nun's Story (film)
+1959		/wiki/Room_at_the_Top_(1959_film)	Room at the Top (1959 film)
+1960	winner	/wiki/The_Apartment	The Apartment
+1960		/wiki/The_Alamo_(1960_film)	The Alamo (1960 film)
+1960		/wiki/Elmer_Gantry_(film)	Elmer Gantry (film)
+1960		/wiki/Sons_and_Lovers_(1960_film)	Sons and Lovers (1960 film)
+1960		/wiki/The_Sundowners	The Sundowners
+1961	winner	/wiki/West_Side_Story_(film)	West Side Story (film)
+1961		/wiki/Fanny_(1961_film)	Fanny (1961 film)
+1961		/wiki/The_Guns_of_Navarone_(film)	The Guns of Navarone (film)
+1961		/wiki/The_Hustler_(film)	The Hustler (film)
+1961		/wiki/Judgment_at_Nuremberg	Judgment at Nuremberg
+1962	winner	/wiki/Lawrence_of_Arabia_(film)	Lawrence of Arabia (film)
+1962		/wiki/The_Longest_Day_(film)	The Longest Day (film)
+1962		/wiki/The_Music_Man_(1962_film)	The Music Man (1962 film)
+1962		/wiki/Mutiny_on_the_Bounty_(1962_film)	Mutiny on the Bounty (1962 film)
+1962		/wiki/To_Kill_a_Mockingbird_(film)	To Kill a Mockingbird (film)
+1963	winner	/wiki/Tom_Jones_(1963_film)	Tom Jones (1963 film)
+1963		/wiki/America,_America	America, America
+1963		/wiki/Cleopatra_(1963_film)	Cleopatra (1963 film)
+1963		/wiki/How_the_West_Was_Won_(film)	How the West Was Won (film)
+1963		/wiki/Lilies_of_the_Field_(1963_film)	Lilies of the Field (1963 film)
+1964	winner	/wiki/My_Fair_Lady_(film)	My Fair Lady (film)
+1964		/wiki/Becket_(1964_film)	Becket (1964 film)
+1964		/wiki/Dr._Strangelove	Dr. Strangelove
+1964		/wiki/Mary_Poppins_(film)	Mary Poppins (film)
+1964		/wiki/Zorba_the_Greek_(film)	Zorba the Greek (film)
+1965	winner	/wiki/The_Sound_of_Music_(film)	The Sound of Music (film)
+1965		/wiki/Darling_(1965_film)	Darling (1965 film)
+1965		/wiki/Doctor_Zhivago_(film)	Doctor Zhivago (film)
+1965		/wiki/Ship_of_Fools_(film)	Ship of Fools (film)
+1965		/wiki/A_Thousand_Clowns_(film)	A Thousand Clowns (film)
+1966	winner	/wiki/A_Man_for_All_Seasons_(1966_film)	A Man for All Seasons (1966 film)
+1966		/wiki/Alfie_(1966_film)	Alfie (1966 film)
+1966		/wiki/The_Russians_Are_Coming,_the_Russians_Are_Coming	The Russians Are Coming, the Russians Are Coming
+1966		/wiki/The_Sand_Pebbles_(film)	The Sand Pebbles (film)
+1966		/wiki/Who%27s_Afraid_of_Virginia_Woolf%3F_(film)	Who's Afraid of Virginia Woolf? (film)
+1967	winner	/wiki/In_the_Heat_of_the_Night_(film)	In the Heat of the Night (film)
+1967		/wiki/Bonnie_and_Clyde_(film)	Bonnie and Clyde (film)
+1967		/wiki/Doctor_Dolittle_(film)	Doctor Dolittle (film)
+1967		/wiki/The_Graduate	The Graduate
+1967		/wiki/Guess_Who%27s_Coming_to_Dinner	Guess Who's Coming to Dinner
+1968	winner	/wiki/Oliver!_(film)	Oliver! (film)
+1968		/wiki/Funny_Girl_(film)	Funny Girl (film)
+1968		/wiki/The_Lion_in_Winter_(1968_film)	The Lion in Winter (1968 film)
+1968		/wiki/Rachel,_Rachel	Rachel, Rachel
+1968		/wiki/Romeo_and_Juliet_(1968_film)	Romeo and Juliet (1968 film)
+1969	winner	/wiki/Midnight_Cowboy	Midnight Cowboy
+1969		/wiki/Anne_of_the_Thousand_Days	Anne of the Thousand Days
+1969		/wiki/Butch_Cassidy_and_the_Sundance_Kid	Butch Cassidy and the Sundance Kid
+1969		/wiki/Hello,_Dolly!_(film)	Hello, Dolly! (film)
+1969		/wiki/Z_(1969_film)	Z (1969 film)
+1970	winner	/wiki/Patton_(film)	Patton (film)
+1970		/wiki/Airport_(1970_film)	Airport (1970 film)
+1970		/wiki/Five_Easy_Pieces	Five Easy Pieces
+1970		/wiki/Love_Story_(1970_film)	Love Story (1970 film)
+1970		/wiki/MASH_(film)	MASH (film)
+1971	winner	/wiki/The_French_Connection_(film)	The French Connection (film)
+1971		/wiki/A_Clockwork_Orange_(film)	A Clockwork Orange (film)
+1971		/wiki/Fiddler_on_the_Roof_(film)	Fiddler on the Roof (film)
+1971		/wiki/The_Last_Picture_Show	The Last Picture Show
+1971		/wiki/Nicholas_and_Alexandra	Nicholas and Alexandra
+1972	winner	/wiki/The_Godfather	The Godfather
+1972		/wiki/Cabaret_(1972_film)	Cabaret (1972 film)
+1972		/wiki/Deliverance	Deliverance
+1972		/wiki/The_Emigrants_(film)	The Emigrants (film)
+1972		/wiki/Sounder_(film)	Sounder (film)
+1973	winner	/wiki/The_Sting	The Sting
+1973		/wiki/American_Graffiti	American Graffiti
+1973		/wiki/Cries_and_Whispers	Cries and Whispers
+1973		/wiki/The_Exorcist_(film)	The Exorcist (film)
+1973		/wiki/A_Touch_of_Class_(film)	A Touch of Class (film)
+1974	winner	/wiki/The_Godfather_Part_II	The Godfather Part II
+1974		/wiki/Chinatown_(1974_film)	Chinatown (1974 film)
+1974		/wiki/The_Conversation	The Conversation
+1974		/wiki/Lenny_(film)	Lenny (film)
+1974		/wiki/The_Towering_Inferno	The Towering Inferno
+1975	winner	/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)	One Flew Over the Cuckoo's Nest (film)
+1975		/wiki/Barry_Lyndon	Barry Lyndon
+1975		/wiki/Dog_Day_Afternoon	Dog Day Afternoon
+1975		/wiki/Jaws_(film)	Jaws (film)
+1975		/wiki/Nashville_(film)	Nashville (film)
+1976	winner	/wiki/Rocky	Rocky
+1976		/wiki/All_the_President%27s_Men_(film)	All the President's Men (film)
+1976		/wiki/Bound_for_Glory_(film)	Bound for Glory (film)
+1976		/wiki/Network_(film)	Network (film)
+1976		/wiki/Taxi_Driver	Taxi Driver
+1977	winner	/wiki/Annie_Hall	Annie Hall
+1977		/wiki/The_Goodbye_Girl	The Goodbye Girl
+1977		/wiki/Julia_(1977_film)	Julia (1977 film)
+1977		/wiki/Star_Wars_(film)	Star Wars (film)
+1977		/wiki/The_Turning_Point_(1977_film)	The Turning Point (1977 film)
+1978	winner	/wiki/The_Deer_Hunter	The Deer Hunter
+1978		/wiki/Coming_Home_(1978_film)	Coming Home (1978 film)
+1978		/wiki/Heaven_Can_Wait_(1978_film)	Heaven Can Wait (1978 film)
+1978		/wiki/Midnight_Express_(film)	Midnight Express (film)
+1978		/wiki/An_Unmarried_Woman	An Unmarried Woman
+1979	winner	/wiki/Kramer_vs._Kramer	Kramer vs. Kramer
+1979		/wiki/All_That_Jazz_(film)	All That Jazz (film)
+1979		/wiki/Apocalypse_Now	Apocalypse Now
+1979		/wiki/Breaking_Away	Breaking Away
+1979		/wiki/Norma_Rae	Norma Rae
+1980	winner	/wiki/Ordinary_People	Ordinary People
+1980		/wiki/Coal_Miner%27s_Daughter_(film)	Coal Miner's Daughter (film)
+1980		/wiki/The_Elephant_Man_(film)	The Elephant Man (film)
+1980		/wiki/Raging_Bull	Raging Bull
+1980		/wiki/Tess_(film)	Tess (film)
+1981	winner	/wiki/Chariots_of_Fire	Chariots of Fire
+1981		/wiki/Atlantic_City_(1980_film)	Atlantic City (1980 film)
+1981		/wiki/On_Golden_Pond_(1981_film)	On Golden Pond (1981 film)
+1981		/wiki/Raiders_of_the_Lost_Ark	Raiders of the Lost Ark
+1981		/wiki/Reds_(film)	Reds (film)
+1982	winner	/wiki/Gandhi_(film)	Gandhi (film)
+1982		/wiki/E.T._the_Extra-Terrestrial	E.T. the Extra-Terrestrial
+1982		/wiki/Missing_(film)	Missing (film)
+1982		/wiki/Tootsie	Tootsie
+1982		/wiki/The_Verdict	The Verdict
+1983	winner	/wiki/Terms_of_Endearment	Terms of Endearment
+1983		/wiki/The_Big_Chill_(film)	The Big Chill (film)
+1983		/wiki/The_Dresser	The Dresser
+1983		/wiki/The_Right_Stuff_(film)	The Right Stuff (film)
+1983		/wiki/Tender_Mercies	Tender Mercies
+1984	winner	/wiki/Amadeus_(film)	Amadeus (film)
+1984		/wiki/The_Killing_Fields_(film)	The Killing Fields (film)
+1984		/wiki/A_Passage_to_India_(film)	A Passage to India (film)
+1984		/wiki/Places_in_the_Heart	Places in the Heart
+1984		/wiki/A_Soldier%27s_Story	A Soldier's Story
+1985	winner	/wiki/Out_of_Africa_(film)	Out of Africa (film)
+1985		/wiki/The_Color_Purple_(film)	The Color Purple (film)
+1985		/wiki/Kiss_of_the_Spider_Woman_(film)	Kiss of the Spider Woman (film)
+1985		/wiki/Prizzi%27s_Honor	Prizzi's Honor
+1985		/wiki/Witness_(1985_film)	Witness (1985 film)
+1986	winner	/wiki/Platoon_(film)	Platoon (film)
+1986		/wiki/Children_of_a_Lesser_God	Children of a Lesser God
+1986		/wiki/Hannah_and_Her_Sisters	Hannah and Her Sisters
+1986		/wiki/The_Mission_(1986_film)	The Mission (1986 film)
+1986		/wiki/A_Room_with_a_View_(1986_film)	A Room with a View (1986 film)
+1987	winner	/wiki/The_Last_Emperor	The Last Emperor
+1987		/wiki/Broadcast_News_(film)	Broadcast News (film)
+1987		/wiki/Fatal_Attraction	Fatal Attraction
+1987		/wiki/Hope_and_Glory_(film)	Hope and Glory (film)
+1987		/wiki/Moonstruck	Moonstruck
+1988	winner	/wiki/Rain_Man	Rain Man
+1988		/wiki/The_Accidental_Tourist_(film)	The Accidental Tourist (film)
+1988		/wiki/Dangerous_Liaisons	Dangerous Liaisons
+1988		/wiki/Mississippi_Burning	Mississippi Burning
+1988		/wiki/Working_Girl	Working Girl
+1989	winner	/wiki/Driving_Miss_Daisy	Driving Miss Daisy
+1989		/wiki/Born_on_the_Fourth_of_July_(film)	Born on the Fourth of July (film)
+1989		/wiki/Dead_Poets_Society	Dead Poets Society
+1989		/wiki/Field_of_Dreams	Field of Dreams
+1989		/wiki/My_Left_Foot	My Left Foot
+1990	winner	/wiki/Dances_with_Wolves	Dances with Wolves
+1990		/wiki/Awakenings	Awakenings
+1990		/wiki/Ghost_(1990_film)	Ghost (1990 film)
+1990		/wiki/The_Godfather_Part_III	The Godfather Part III
+1990		/wiki/Goodfellas	Goodfellas
+1991	winner	/wiki/The_Silence_of_the_Lambs_(film)	The Silence of the Lambs (film)
+1991		/wiki/Beauty_and_the_Beast_(1991_film)	Beauty and the Beast (1991 film)
+1991		/wiki/Bugsy	Bugsy
+1991		/wiki/JFK_(film)	JFK (film)
+1991		/wiki/The_Prince_of_Tides	The Prince of Tides
+1992	winner	/wiki/Unforgiven	Unforgiven
+1992		/wiki/The_Crying_Game	The Crying Game
+1992		/wiki/A_Few_Good_Men	A Few Good Men
+1992		/wiki/Howards_End_(film)	Howards End (film)
+1992		/wiki/Scent_of_a_Woman_(1992_film)	Scent of a Woman (1992 film)
+1993	winner	/wiki/Schindler%27s_List	Schindler's List
+1993		/wiki/The_Fugitive_(1993_film)	The Fugitive (1993 film)
+1993		/wiki/In_the_Name_of_the_Father_(film)	In the Name of the Father (film)
+1993		/wiki/The_Piano	The Piano
+1993		/wiki/The_Remains_of_the_Day_(film)	The Remains of the Day (film)
+1994	winner	/wiki/Forrest_Gump	Forrest Gump
+1994		/wiki/Four_Weddings_and_a_Funeral	Four Weddings and a Funeral
+1994		/wiki/Pulp_Fiction	Pulp Fiction
+1994		/wiki/Quiz_Show_(film)	Quiz Show (film)
+1994		/wiki/The_Shawshank_Redemption	The Shawshank Redemption
+1995	winner	/wiki/Braveheart	Braveheart
+1995		/wiki/Apollo_13_(film)	Apollo 13 (film)
+1995		/wiki/Babe_(film)	Babe (film)
+1995		/wiki/Il_Postino:_The_Postman	Il Postino: The Postman
+1995		/wiki/Sense_and_Sensibility_(film)	Sense and Sensibility (film)
+1996	winner	/wiki/The_English_Patient_(film)	The English Patient (film)
+1996		/wiki/Fargo_(film)	Fargo (film)
+1996		/wiki/Jerry_Maguire	Jerry Maguire
+1996		/wiki/Secrets_%26_Lies_(film)	Secrets & Lies (film)
+1996		/wiki/Shine_(film)	Shine (film)
+1997	winner	/wiki/Titanic_(1997_film)	Titanic (1997 film)
+1997		/wiki/As_Good_as_It_Gets	As Good as It Gets
+1997		/wiki/The_Full_Monty	The Full Monty
+1997		/wiki/Good_Will_Hunting	Good Will Hunting
+1997		/wiki/L.A._Confidential_(film)	L.A. Confidential (film)
+1998	winner	/wiki/Shakespeare_in_Love	Shakespeare in Love
+1998		/wiki/Elizabeth_(film)	Elizabeth (film)
+1998		/wiki/Life_Is_Beautiful	Life Is Beautiful
+1998		/wiki/Saving_Private_Ryan	Saving Private Ryan
+1998		/wiki/The_Thin_Red_Line_(1998_film)	The Thin Red Line (1998 film)
+1999	winner	/wiki/American_Beauty_(1999_film)	American Beauty (1999 film)
+1999		/wiki/The_Cider_House_Rules_(film)	The Cider House Rules (film)
+1999		/wiki/The_Green_Mile_(film)	The Green Mile (film)
+1999		/wiki/The_Insider_(film)	The Insider (film)
+1999		/wiki/The_Sixth_Sense	The Sixth Sense
+2000	winner	/wiki/Gladiator_(2000_film)	Gladiator (2000 film)
+2000		/wiki/Chocolat_(2000_film)	Chocolat (2000 film)
+2000		/wiki/Crouching_Tiger,_Hidden_Dragon	Crouching Tiger, Hidden Dragon
+2000		/wiki/Erin_Brockovich_(film)	Erin Brockovich (film)
+2000		/wiki/Traffic_(2000_film)	Traffic (2000 film)
+2001	winner	/wiki/A_Beautiful_Mind_(film)	A Beautiful Mind (film)
+2001		/wiki/Gosford_Park	Gosford Park
+2001		/wiki/In_the_Bedroom	In the Bedroom
+2001		/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring	The Lord of the Rings: The Fellowship of the Ring
+2001		/wiki/Moulin_Rouge!	Moulin Rouge!
+2002	winner	/wiki/Chicago_(2002_film)	Chicago (2002 film)
+2002		/wiki/Gangs_of_New_York	Gangs of New York
+2002		/wiki/The_Hours_(film)	The Hours (film)
+2002		/wiki/The_Lord_of_the_Rings:_The_Two_Towers	The Lord of the Rings: The Two Towers
+2002		/wiki/The_Pianist_(2002_film)	The Pianist (2002 film)
+2003	winner	/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King	The Lord of the Rings: The Return of the King
+2003		/wiki/Lost_in_Translation_(film)	Lost in Translation (film)
+2003		/wiki/Master_and_Commander:_The_Far_Side_of_the_World	Master and Commander: The Far Side of the World
+2003		/wiki/Mystic_River_(film)	Mystic River (film)
+2003		/wiki/Seabiscuit_(film)	Seabiscuit (film)
+2004	winner	/wiki/Million_Dollar_Baby	Million Dollar Baby
+2004		/wiki/The_Aviator_(2004_film)	The Aviator (2004 film)
+2004		/wiki/Finding_Neverland_(film)	Finding Neverland (film)
+2004		/wiki/Ray_(film)	Ray (film)
+2004		/wiki/Sideways	Sideways
+2005	winner	/wiki/Crash_(2004_film)	Crash (2004 film)
+2005		/wiki/Brokeback_Mountain	Brokeback Mountain
+2005		/wiki/Capote_(film)	Capote (film)
+2005		/wiki/Good_Night,_and_Good_Luck	Good Night, and Good Luck
+2005		/wiki/Munich_(film)	Munich (film)
+2006	winner	/wiki/The_Departed	The Departed
+2006		/wiki/Babel_(film)	Babel (film)
+2006		/wiki/Letters_from_Iwo_Jima	Letters from Iwo Jima
+2006		/wiki/Little_Miss_Sunshine	Little Miss Sunshine
+2006		/wiki/The_Queen_(film)	The Queen (film)
+2007	winner	/wiki/No_Country_for_Old_Men_(film)	No Country for Old Men (film)
+2007		/wiki/Atonement_(film)	Atonement (film)
+2007		/wiki/Juno_(film)	Juno (film)
+2007		/wiki/Michael_Clayton_(film)	Michael Clayton (film)
+2007		/wiki/There_Will_Be_Blood	There Will Be Blood
+2008	winner	/wiki/Slumdog_Millionaire	Slumdog Millionaire
+2008		/wiki/The_Curious_Case_of_Benjamin_Button_(film)	The Curious Case of Benjamin Button (film)
+2008		/wiki/Frost/Nixon_(film)	Frost/Nixon (film)
+2008		/wiki/Milk_(film)	Milk (film)
+2008		/wiki/The_Reader_(2008_film)	The Reader (2008 film)
+2009	winner	/wiki/The_Hurt_Locker	The Hurt Locker
+2009		/wiki/Avatar_(2009_film)	Avatar (2009 film)
+2009		/wiki/The_Blind_Side_(film)	The Blind Side (film)
+2009		/wiki/District_9	District 9
+2009		/wiki/An_Education	An Education
+2009		/wiki/Inglourious_Basterds	Inglourious Basterds
+2009		/wiki/Precious_(film)	Precious (film)
+2009		/wiki/A_Serious_Man	A Serious Man
+2009		/wiki/Up_(2009_film)	Up (2009 film)
+2009		/wiki/Up_in_the_Air_(2009_film)	Up in the Air (2009 film)
+2010	winner	/wiki/The_King%27s_Speech	The King's Speech
+2010		/wiki/127_Hours	127 Hours
+2010		/wiki/Black_Swan_(film)	Black Swan (film)
+2010		/wiki/The_Fighter	The Fighter
+2010		/wiki/Inception	Inception
+2010		/wiki/The_Kids_Are_All_Right_(film)	The Kids Are All Right (film)
+2010		/wiki/The_Social_Network	The Social Network
+2010		/wiki/Toy_Story_3	Toy Story 3
+2010		/wiki/True_Grit_(2010_film)	True Grit (2010 film)
+2010		/wiki/Winter%27s_Bone	Winter's Bone
+2011	winner	/wiki/The_Artist_(film)	The Artist (film)
+2011		/wiki/The_Descendants	The Descendants
+2011		/wiki/Extremely_Loud_and_Incredibly_Close_(film)	Extremely Loud and Incredibly Close (film)
+2011		/wiki/The_Help_(film)	The Help (film)
+2011		/wiki/Hugo_(film)	Hugo (film)
+2011		/wiki/Midnight_in_Paris	Midnight in Paris
+2011		/wiki/Moneyball_(film)	Moneyball (film)
+2011		/wiki/The_Tree_of_Life_(film)	The Tree of Life (film)
+2011		/wiki/War_Horse_(film)	War Horse (film)
+2012	winner	/wiki/Argo_(2012_film)	Argo (2012 film)
+2012		/wiki/Amour_(2012_film)	Amour (2012 film)
+2012		/wiki/Beasts_of_the_Southern_Wild	Beasts of the Southern Wild
+2012		/wiki/Django_Unchained	Django Unchained
+2012		/wiki/Life_of_Pi_(film)	Life of Pi (film)
+2012		/wiki/Lincoln_(2012_film)	Lincoln (2012 film)
+2012		/wiki/Silver_Linings_Playbook	Silver Linings Playbook
+2012		/wiki/Zero_Dark_Thirty	Zero Dark Thirty
+2013	winner	/wiki/12_Years_a_Slave_(film)	12 Years a Slave (film)
+2013		/wiki/American_Hustle	American Hustle
+2013		/wiki/Captain_Phillips_(film)	Captain Phillips (film)
+2013		/wiki/Dallas_Buyers_Club	Dallas Buyers Club
+2013		/wiki/Gravity_(film)	Gravity (film)
+2013		/wiki/Her_(film)	Her (film)
+2013		/wiki/Nebraska_(film)	Nebraska (film)
+2013		/wiki/Philomena_(film)	Philomena (film)
+2013		/wiki/The_Wolf_of_Wall_Street_(2013_film)	The Wolf of Wall Street (2013 film)
+2014	winner	/wiki/Birdman_(film)	Birdman (film)
+2014		/wiki/American_Sniper	American Sniper
+2014		/wiki/Boyhood_(film)	Boyhood (film)
+2014		/wiki/The_Grand_Budapest_Hotel	The Grand Budapest Hotel
+2014		/wiki/The_Imitation_Game	The Imitation Game
+2014		/wiki/Selma_(film)	Selma (film)
+2014		/wiki/The_Theory_of_Everything_(2014_film)	The Theory of Everything (2014 film)
+2014		/wiki/Whiplash_(2014_film)	Whiplash (2014 film)
+2015		/wiki/The_Big_Short_(film)	The Big Short (film)
+2015		/wiki/Bridge_of_Spies_(film)	Bridge of Spies (film)
+2015		/wiki/Brooklyn_(film)	Brooklyn (film)
+2015		/wiki/Mad_Max:_Fury_Road	Mad Max: Fury Road
+2015		/wiki/The_Martian_(film)	The Martian (film)
+2015		/wiki/The_Revenant_(2015_film)	The Revenant (2015 film)
+2015		/wiki/Room_(2015_film)	Room (2015 film)
+2015		/wiki/Spotlight_(film)	Spotlight (film)
