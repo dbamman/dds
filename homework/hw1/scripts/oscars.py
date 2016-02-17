@@ -32,13 +32,30 @@ def readData(filename):
 			featureName=cols[0]
 			docId=cols[2]
 
-			# only consider features for movies/actors in the training/test data
-			if docId not in docIds and docId not in testData:
-				continue
+			matcher=re.search("(\d+)#(.+)", docId)
+			if matcher != None:
 
-			if featureName not in featureIds:
-				featureIds[featureName]=maxFeat
-				maxFeat+=1
+				# only consider features for movies/actors in the training/test data
+				if docId not in docIds and docId not in testData:
+					continue
+
+				if featureName not in featureIds:
+					featureIds[featureName]=maxFeat
+					maxFeat+=1
+
+
+			else:
+
+				for year in years[docId]:
+					allDoc="%s#%s" % (year, docId)
+
+					if allDoc not in docIds and allDoc not in testData:
+						continue
+
+					if featureName not in featureIds:
+						featureIds[featureName]=maxFeat
+						maxFeat+=1
+
 
 	F=maxFeat
 
@@ -55,16 +72,32 @@ def readData(filename):
 			featureName=featureIds[cols[0]]
 
 			featureValue=float(cols[1])
+			docId=cols[2]
+			matcher=re.search("(\d+)#(.+)", docId)
+			if matcher != None:
 
-			if cols[2] in docIds:
-				docId=docIds[cols[2]]
-				X[docId, featureName]=featureValue
+				if docId in docIds:
+					docId=docIds[docId]
+					X[docId, featureName]=featureValue
 
-			elif cols[2] in testData:
-				docId=testData[cols[2]]
-				X_test[docId, featureName]=featureValue
+				elif docId in testData:
+					docId=testData[docId]
+					X_test[docId, featureName]=featureValue
+
+			else:
+				if docId in years:
+					for year in years[docId]:
+						allDoc="%s#%s" % (year, docId)
+						if allDoc in docIds:
+							docId=docIds[allDoc]
+							X[docId, featureName]=featureValue
+
+						elif allDoc in testData:
+							docId=testData[allDoc]
+							X_test[docId, featureName]=featureValue
 
 
+years={}
 def readGold(filename, earliestDate, predictionYear):
 	global docIds, D, testId, goldVals, testNames
 	D=0
@@ -77,9 +110,14 @@ def readGold(filename, earliestDate, predictionYear):
 			if year < earliestDate:
 				continue
 
+			idd=cols[2]
+			if idd not in years:
+				years[idd]={}
+			years[idd][year]=1
+
 			truth=cols[1]
 
-			doc=cols[2]
+			doc="%s#%s" %(year, cols[2])
 
 			if year == predictionYear:
 				if doc not in testData:
