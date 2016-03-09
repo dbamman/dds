@@ -53,7 +53,6 @@ def readIdfs(filename):
     for line in file:
         cols=line.rstrip().split("\t")
         wordId=int(cols[0])
-        print wordId
         idf=float(cols[1])
         idfs[wordId]=idf
     file.close()
