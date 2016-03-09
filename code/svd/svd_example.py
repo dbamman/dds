@@ -120,24 +120,22 @@ print u.shape, s.shape, v.shape
 
 # In[37]:
 
-def query(matrix1, matrix2, q):
+def query(matrix1, q):
     print "most related terms (SVD)"
     findSim(matrix1,q)
-    print "\nmost related terms (full matrix)"
-    findSim(matrix2,q)    
 
 
 # In[38]:
 
 q="runner"
-query(np.mat(u)*np.diag(s), counts.todense(), q)
+query(np.mat(u)*np.diag(s), q)
 
 print "Enter query > ",
 line = sys.stdin.readline()
 while line:
     q=line.rstrip()
     print q
-    query(np.mat(u)*np.diag(s), counts.todense(), q)
+    query(np.mat(u)*np.diag(s), q)
     print "Enter query > ",
     line = sys.stdin.readline()
 
